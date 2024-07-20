@@ -1,0 +1,2451 @@
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.05, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+Epoch:0	 lr:0.0500	 Duration:49.560
+ Train_loss:9.74511	 Train_loss_cls:9.23505	 Train_loss_decouple_ml:0.51006
+ Train top-1 accuracy: [0.0096, 0.01] 
+Test epoch:0	 Test_loss_cls:9.21200	 Test top-1 accuracy:[0.01, 0.01, 0.01]	 Test top-5 accuracy:[0.05, 0.0502, 0.05]
+Epoch:1	 lr:0.0500	 Duration:47.755
+ Train_loss:9.21190	 Train_loss_cls:9.21188	 Train_loss_decouple_ml:0.00002
+ Train top-1 accuracy: [0.01, 0.0101] 
+Test epoch:1	 Test_loss_cls:9.21148	 Test top-1 accuracy:[0.01, 0.01, 0.01]	 Test top-5 accuracy:[0.05, 0.05, 0.05]
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.005, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+Epoch:0	 lr:0.0050	 Duration:50.659
+ Train_loss:9.29412	 Train_loss_cls:9.16850	 Train_loss_decouple_ml:0.12561
+ Train top-1 accuracy: [0.0191, 0.0188] 
+Test epoch:0	 Test_loss_cls:9.04187	 Test top-1 accuracy:[0.0342, 0.0354, 0.0354]	 Test top-5 accuracy:[0.1409, 0.1359, 0.141]
+Epoch:1	 lr:0.0050	 Duration:49.135
+ Train_loss:8.69461	 Train_loss_cls:8.60791	 Train_loss_decouple_ml:0.08671
+ Train top-1 accuracy: [0.0463, 0.0478] 
+Test epoch:1	 Test_loss_cls:8.22709	 Test top-1 accuracy:[0.0613, 0.058, 0.0603]	 Test top-5 accuracy:[0.2236, 0.2281, 0.2257]
+Epoch:2	 lr:0.0050	 Duration:50.027
+ Train_loss:8.21563	 Train_loss_cls:8.09233	 Train_loss_decouple_ml:0.12330
+ Train top-1 accuracy: [0.0695, 0.0704] 
+Test epoch:2	 Test_loss_cls:7.89794	 Test top-1 accuracy:[0.0797, 0.0802, 0.0806]	 Test top-5 accuracy:[0.2721, 0.2699, 0.2725]
+Epoch:3	 lr:0.0050	 Duration:50.062
+ Train_loss:7.95238	 Train_loss_cls:7.81872	 Train_loss_decouple_ml:0.13366
+ Train top-1 accuracy: [0.0913, 0.0894] 
+Test epoch:3	 Test_loss_cls:7.69355	 Test top-1 accuracy:[0.0977, 0.0972, 0.0977]	 Test top-5 accuracy:[0.3042, 0.3094, 0.3073]
+Epoch:4	 lr:0.0050	 Duration:48.693
+ Train_loss:7.77110	 Train_loss_cls:7.60998	 Train_loss_decouple_ml:0.16111
+ Train top-1 accuracy: [0.1088, 0.1083] 
+Test epoch:4	 Test_loss_cls:7.46211	 Test top-1 accuracy:[0.1209, 0.122, 0.1208]	 Test top-5 accuracy:[0.3405, 0.3492, 0.3477]
+Epoch:5	 lr:0.0050	 Duration:49.530
+ Train_loss:7.57003	 Train_loss_cls:7.39175	 Train_loss_decouple_ml:0.17828
+ Train top-1 accuracy: [0.1269, 0.1262] 
+Test epoch:5	 Test_loss_cls:7.28031	 Test top-1 accuracy:[0.1343, 0.1378, 0.138]	 Test top-5 accuracy:[0.373, 0.3738, 0.3754]
+Epoch:6	 lr:0.0050	 Duration:49.672
+ Train_loss:7.43565	 Train_loss_cls:7.25151	 Train_loss_decouple_ml:0.18413
+ Train top-1 accuracy: [0.1401, 0.1389] 
+Test epoch:6	 Test_loss_cls:7.14674	 Test top-1 accuracy:[0.1517, 0.152, 0.1534]	 Test top-5 accuracy:[0.3953, 0.3912, 0.3949]
+Epoch:7	 lr:0.0050	 Duration:50.421
+ Train_loss:7.31054	 Train_loss_cls:7.10776	 Train_loss_decouple_ml:0.20278
+ Train top-1 accuracy: [0.153, 0.1521] 
+Test epoch:7	 Test_loss_cls:6.98195	 Test top-1 accuracy:[0.1698, 0.1655, 0.1685]	 Test top-5 accuracy:[0.4165, 0.4154, 0.4176]
+Epoch:8	 lr:0.0050	 Duration:50.818
+ Train_loss:7.17602	 Train_loss_cls:6.96308	 Train_loss_decouple_ml:0.21295
+ Train top-1 accuracy: [0.1671, 0.1665] 
+Test epoch:8	 Test_loss_cls:6.86509	 Test top-1 accuracy:[0.1767, 0.1759, 0.1779]	 Test top-5 accuracy:[0.4364, 0.4341, 0.4358]
+Epoch:9	 lr:0.0050	 Duration:50.204
+ Train_loss:7.08335	 Train_loss_cls:6.86331	 Train_loss_decouple_ml:0.22004
+ Train top-1 accuracy: [0.1768, 0.176] 
+Test epoch:9	 Test_loss_cls:6.74559	 Test top-1 accuracy:[0.1863, 0.1862, 0.1886]	 Test top-5 accuracy:[0.4547, 0.4541, 0.4547]
+Epoch:10	 lr:0.0050	 Duration:50.410
+ Train_loss:6.98658	 Train_loss_cls:6.75458	 Train_loss_decouple_ml:0.23201
+ Train top-1 accuracy: [0.1858, 0.1857] 
+Test epoch:10	 Test_loss_cls:6.64522	 Test top-1 accuracy:[0.1977, 0.1984, 0.1996]	 Test top-5 accuracy:[0.465, 0.4621, 0.4655]
+Epoch:11	 lr:0.0050	 Duration:50.509
+ Train_loss:6.90102	 Train_loss_cls:6.66230	 Train_loss_decouple_ml:0.23872
+ Train top-1 accuracy: [0.1939, 0.1952] 
+Test epoch:11	 Test_loss_cls:6.52716	 Test top-1 accuracy:[0.2064, 0.2072, 0.2088]	 Test top-5 accuracy:[0.4846, 0.4824, 0.4832]
+Epoch:12	 lr:0.0050	 Duration:48.599
+ Train_loss:6.82023	 Train_loss_cls:6.57168	 Train_loss_decouple_ml:0.24855
+ Train top-1 accuracy: [0.2058, 0.2056] 
+Test epoch:12	 Test_loss_cls:6.45370	 Test top-1 accuracy:[0.2135, 0.2144, 0.2158]	 Test top-5 accuracy:[0.4974, 0.4957, 0.4976]
+Epoch:13	 lr:0.0050	 Duration:48.629
+ Train_loss:6.73345	 Train_loss_cls:6.47003	 Train_loss_decouple_ml:0.26341
+ Train top-1 accuracy: [0.2134, 0.2136] 
+Test epoch:13	 Test_loss_cls:6.38714	 Test top-1 accuracy:[0.2207, 0.2188, 0.2203]	 Test top-5 accuracy:[0.5012, 0.4969, 0.5002]
+Epoch:14	 lr:0.0050	 Duration:48.822
+ Train_loss:6.66628	 Train_loss_cls:6.40154	 Train_loss_decouple_ml:0.26474
+ Train top-1 accuracy: [0.2201, 0.2206] 
+Test epoch:14	 Test_loss_cls:6.31299	 Test top-1 accuracy:[0.2279, 0.2292, 0.2286]	 Test top-5 accuracy:[0.5112, 0.5071, 0.5108]
+Epoch:15	 lr:0.0050	 Duration:48.537
+ Train_loss:6.59027	 Train_loss_cls:6.31710	 Train_loss_decouple_ml:0.27317
+ Train top-1 accuracy: [0.2276, 0.2266] 
+Test epoch:15	 Test_loss_cls:6.23233	 Test top-1 accuracy:[0.2318, 0.2314, 0.2327]	 Test top-5 accuracy:[0.5197, 0.5216, 0.5231]
+Epoch:16	 lr:0.0050	 Duration:48.759
+ Train_loss:6.52385	 Train_loss_cls:6.23627	 Train_loss_decouple_ml:0.28758
+ Train top-1 accuracy: [0.2368, 0.237] 
+Test epoch:16	 Test_loss_cls:6.12316	 Test top-1 accuracy:[0.2465, 0.2426, 0.2454]	 Test top-5 accuracy:[0.5324, 0.5317, 0.5345]
+Epoch:17	 lr:0.0050	 Duration:48.535
+ Train_loss:6.43337	 Train_loss_cls:6.13493	 Train_loss_decouple_ml:0.29843
+ Train top-1 accuracy: [0.2473, 0.2478] 
+Test epoch:17	 Test_loss_cls:6.07865	 Test top-1 accuracy:[0.2555, 0.2471, 0.2527]	 Test top-5 accuracy:[0.5407, 0.5389, 0.5412]
+Epoch:18	 lr:0.0050	 Duration:49.065
+ Train_loss:6.39323	 Train_loss_cls:6.09053	 Train_loss_decouple_ml:0.30270
+ Train top-1 accuracy: [0.252, 0.253] 
+Test epoch:18	 Test_loss_cls:5.97688	 Test top-1 accuracy:[0.2575, 0.2607, 0.2615]	 Test top-5 accuracy:[0.5494, 0.5562, 0.5539]
+Epoch:19	 lr:0.0050	 Duration:50.096
+ Train_loss:6.31824	 Train_loss_cls:5.99859	 Train_loss_decouple_ml:0.31966
+ Train top-1 accuracy: [0.2573, 0.2589] 
+Test epoch:19	 Test_loss_cls:5.88199	 Test top-1 accuracy:[0.2695, 0.2672, 0.2699]	 Test top-5 accuracy:[0.5637, 0.5655, 0.5659]
+Epoch:20	 lr:0.0049	 Duration:50.351
+ Train_loss:6.23917	 Train_loss_cls:5.91214	 Train_loss_decouple_ml:0.32703
+ Train top-1 accuracy: [0.2689, 0.2702] 
+Test epoch:20	 Test_loss_cls:5.83570	 Test top-1 accuracy:[0.2731, 0.2717, 0.2746]	 Test top-5 accuracy:[0.5708, 0.5669, 0.5703]
+Epoch:21	 lr:0.0049	 Duration:50.108
+ Train_loss:6.20570	 Train_loss_cls:5.85960	 Train_loss_decouple_ml:0.34610
+ Train top-1 accuracy: [0.2761, 0.2757] 
+Test epoch:21	 Test_loss_cls:5.74571	 Test top-1 accuracy:[0.2777, 0.2831, 0.2841]	 Test top-5 accuracy:[0.5798, 0.5824, 0.5829]
+Epoch:22	 lr:0.0049	 Duration:50.105
+ Train_loss:6.12761	 Train_loss_cls:5.77233	 Train_loss_decouple_ml:0.35528
+ Train top-1 accuracy: [0.2811, 0.2812] 
+Test epoch:22	 Test_loss_cls:5.67306	 Test top-1 accuracy:[0.2871, 0.2877, 0.2907]	 Test top-5 accuracy:[0.5915, 0.5919, 0.5953]
+Epoch:23	 lr:0.0049	 Duration:50.098
+ Train_loss:6.05686	 Train_loss_cls:5.68574	 Train_loss_decouple_ml:0.37112
+ Train top-1 accuracy: [0.2914, 0.2919] 
+Test epoch:23	 Test_loss_cls:5.57754	 Test top-1 accuracy:[0.2942, 0.2997, 0.2979]	 Test top-5 accuracy:[0.6002, 0.606, 0.6058]
+Epoch:24	 lr:0.0049	 Duration:49.037
+ Train_loss:5.98107	 Train_loss_cls:5.60159	 Train_loss_decouple_ml:0.37949
+ Train top-1 accuracy: [0.2999, 0.2999] 
+Test epoch:24	 Test_loss_cls:5.50453	 Test top-1 accuracy:[0.3035, 0.3053, 0.3056]	 Test top-5 accuracy:[0.6114, 0.6116, 0.6125]
+Epoch:25	 lr:0.0049	 Duration:50.655
+ Train_loss:5.89740	 Train_loss_cls:5.50373	 Train_loss_decouple_ml:0.39367
+ Train top-1 accuracy: [0.3092, 0.3103] 
+Test epoch:25	 Test_loss_cls:5.40224	 Test top-1 accuracy:[0.3131, 0.3178, 0.3171]	 Test top-5 accuracy:[0.6269, 0.626, 0.6306]
+Epoch:26	 lr:0.0049	 Duration:50.277
+ Train_loss:5.84178	 Train_loss_cls:5.43734	 Train_loss_decouple_ml:0.40444
+ Train top-1 accuracy: [0.3158, 0.3164] 
+Test epoch:26	 Test_loss_cls:5.34301	 Test top-1 accuracy:[0.319, 0.3181, 0.3216]	 Test top-5 accuracy:[0.6384, 0.6343, 0.6386]
+Epoch:27	 lr:0.0049	 Duration:48.497
+ Train_loss:5.76126	 Train_loss_cls:5.34899	 Train_loss_decouple_ml:0.41227
+ Train top-1 accuracy: [0.3279, 0.329] 
+Test epoch:27	 Test_loss_cls:5.26744	 Test top-1 accuracy:[0.3214, 0.3212, 0.3231]	 Test top-5 accuracy:[0.642, 0.6409, 0.6437]
+Epoch:28	 lr:0.0049	 Duration:49.653
+ Train_loss:5.70466	 Train_loss_cls:5.28247	 Train_loss_decouple_ml:0.42219
+ Train top-1 accuracy: [0.3324, 0.3318] 
+Test epoch:28	 Test_loss_cls:5.19988	 Test top-1 accuracy:[0.3347, 0.3314, 0.3362]	 Test top-5 accuracy:[0.6469, 0.6515, 0.6516]
+Epoch:29	 lr:0.0049	 Duration:49.555
+ Train_loss:5.62651	 Train_loss_cls:5.19499	 Train_loss_decouple_ml:0.43152
+ Train top-1 accuracy: [0.345, 0.345] 
+Test epoch:29	 Test_loss_cls:5.08701	 Test top-1 accuracy:[0.3453, 0.3425, 0.3449]	 Test top-5 accuracy:[0.6643, 0.6642, 0.6661]
+Epoch:30	 lr:0.0049	 Duration:49.584
+ Train_loss:5.56380	 Train_loss_cls:5.12773	 Train_loss_decouple_ml:0.43606
+ Train top-1 accuracy: [0.3509, 0.3505] 
+Test epoch:30	 Test_loss_cls:5.01759	 Test top-1 accuracy:[0.35, 0.3484, 0.3512]	 Test top-5 accuracy:[0.671, 0.6736, 0.6732]
+Epoch:31	 lr:0.0049	 Duration:49.759
+ Train_loss:5.52572	 Train_loss_cls:5.07894	 Train_loss_decouple_ml:0.44679
+ Train top-1 accuracy: [0.3533, 0.3521] 
+Test epoch:31	 Test_loss_cls:5.01439	 Test top-1 accuracy:[0.3483, 0.3544, 0.3558]	 Test top-5 accuracy:[0.6711, 0.6757, 0.678]
+Epoch:32	 lr:0.0049	 Duration:50.288
+ Train_loss:5.43911	 Train_loss_cls:4.99740	 Train_loss_decouple_ml:0.44172
+ Train top-1 accuracy: [0.3628, 0.3637] 
+Test epoch:32	 Test_loss_cls:4.97114	 Test top-1 accuracy:[0.3501, 0.35, 0.3524]	 Test top-5 accuracy:[0.6784, 0.6775, 0.6766]
+Epoch:33	 lr:0.0049	 Duration:50.068
+ Train_loss:5.39494	 Train_loss_cls:4.94135	 Train_loss_decouple_ml:0.45360
+ Train top-1 accuracy: [0.368, 0.3683] 
+Test epoch:33	 Test_loss_cls:4.81333	 Test top-1 accuracy:[0.371, 0.3726, 0.3746]	 Test top-5 accuracy:[0.6966, 0.6957, 0.6989]
+Epoch:34	 lr:0.0048	 Duration:50.006
+ Train_loss:5.33221	 Train_loss_cls:4.86960	 Train_loss_decouple_ml:0.46260
+ Train top-1 accuracy: [0.3768, 0.3771] 
+Test epoch:34	 Test_loss_cls:4.80963	 Test top-1 accuracy:[0.3717, 0.3642, 0.3681]	 Test top-5 accuracy:[0.6992, 0.6947, 0.6999]
+Epoch:35	 lr:0.0048	 Duration:50.369
+ Train_loss:5.27529	 Train_loss_cls:4.81196	 Train_loss_decouple_ml:0.46333
+ Train top-1 accuracy: [0.385, 0.3859] 
+Test epoch:35	 Test_loss_cls:4.72038	 Test top-1 accuracy:[0.3808, 0.3787, 0.3836]	 Test top-5 accuracy:[0.7109, 0.7078, 0.7118]
+Epoch:36	 lr:0.0048	 Duration:49.004
+ Train_loss:5.20504	 Train_loss_cls:4.73705	 Train_loss_decouple_ml:0.46799
+ Train top-1 accuracy: [0.393, 0.3924] 
+Test epoch:36	 Test_loss_cls:4.68383	 Test top-1 accuracy:[0.3833, 0.3869, 0.3827]	 Test top-5 accuracy:[0.708, 0.712, 0.7104]
+Epoch:37	 lr:0.0048	 Duration:48.621
+ Train_loss:5.16590	 Train_loss_cls:4.69892	 Train_loss_decouple_ml:0.46698
+ Train top-1 accuracy: [0.3971, 0.3972] 
+Test epoch:37	 Test_loss_cls:4.60037	 Test top-1 accuracy:[0.3958, 0.3929, 0.3944]	 Test top-5 accuracy:[0.7216, 0.7181, 0.7225]
+Epoch:38	 lr:0.0048	 Duration:48.553
+ Train_loss:5.10686	 Train_loss_cls:4.63540	 Train_loss_decouple_ml:0.47146
+ Train top-1 accuracy: [0.4028, 0.401] 
+Test epoch:38	 Test_loss_cls:4.55997	 Test top-1 accuracy:[0.3939, 0.3923, 0.3952]	 Test top-5 accuracy:[0.7205, 0.7236, 0.7258]
+Epoch:39	 lr:0.0048	 Duration:48.438
+ Train_loss:5.05485	 Train_loss_cls:4.58020	 Train_loss_decouple_ml:0.47465
+ Train top-1 accuracy: [0.4067, 0.4082] 
+Test epoch:39	 Test_loss_cls:4.49523	 Test top-1 accuracy:[0.3996, 0.4008, 0.4028]	 Test top-5 accuracy:[0.7335, 0.7333, 0.7355]
+Epoch:40	 lr:0.0048	 Duration:48.584
+ Train_loss:5.01294	 Train_loss_cls:4.53316	 Train_loss_decouple_ml:0.47979
+ Train top-1 accuracy: [0.4155, 0.4147] 
+Test epoch:40	 Test_loss_cls:4.50849	 Test top-1 accuracy:[0.3981, 0.4037, 0.4044]	 Test top-5 accuracy:[0.7283, 0.7299, 0.7316]
+Epoch:41	 lr:0.0048	 Duration:48.731
+ Train_loss:4.95745	 Train_loss_cls:4.47692	 Train_loss_decouple_ml:0.48052
+ Train top-1 accuracy: [0.4197, 0.4179] 
+Test epoch:41	 Test_loss_cls:4.43714	 Test top-1 accuracy:[0.4036, 0.4067, 0.4075]	 Test top-5 accuracy:[0.7385, 0.7387, 0.7406]
+Epoch:42	 lr:0.0048	 Duration:49.794
+ Train_loss:4.93523	 Train_loss_cls:4.45420	 Train_loss_decouple_ml:0.48103
+ Train top-1 accuracy: [0.4222, 0.4237] 
+Test epoch:42	 Test_loss_cls:4.39460	 Test top-1 accuracy:[0.4128, 0.4097, 0.4136]	 Test top-5 accuracy:[0.7435, 0.7425, 0.7468]
+Epoch:43	 lr:0.0048	 Duration:49.778
+ Train_loss:4.89316	 Train_loss_cls:4.41166	 Train_loss_decouple_ml:0.48151
+ Train top-1 accuracy: [0.427, 0.4272] 
+Test epoch:43	 Test_loss_cls:4.33590	 Test top-1 accuracy:[0.4242, 0.4214, 0.4269]	 Test top-5 accuracy:[0.7517, 0.7445, 0.752]
+Epoch:44	 lr:0.0047	 Duration:50.167
+ Train_loss:4.84241	 Train_loss_cls:4.35534	 Train_loss_decouple_ml:0.48707
+ Train top-1 accuracy: [0.4331, 0.4331] 
+Test epoch:44	 Test_loss_cls:4.30568	 Test top-1 accuracy:[0.4293, 0.4244, 0.4279]	 Test top-5 accuracy:[0.7567, 0.753, 0.7572]
+Epoch:45	 lr:0.0047	 Duration:50.144
+ Train_loss:4.80945	 Train_loss_cls:4.32495	 Train_loss_decouple_ml:0.48450
+ Train top-1 accuracy: [0.4373, 0.4369] 
+Test epoch:45	 Test_loss_cls:4.28879	 Test top-1 accuracy:[0.424, 0.4242, 0.4244]	 Test top-5 accuracy:[0.7563, 0.7525, 0.7542]
+Epoch:46	 lr:0.0047	 Duration:50.130
+ Train_loss:4.76107	 Train_loss_cls:4.27223	 Train_loss_decouple_ml:0.48884
+ Train top-1 accuracy: [0.4428, 0.4448] 
+Test epoch:46	 Test_loss_cls:4.23727	 Test top-1 accuracy:[0.4279, 0.4344, 0.4321]	 Test top-5 accuracy:[0.7588, 0.7595, 0.7625]
+Epoch:47	 lr:0.0047	 Duration:49.838
+ Train_loss:4.72226	 Train_loss_cls:4.23267	 Train_loss_decouple_ml:0.48959
+ Train top-1 accuracy: [0.4513, 0.4501] 
+Test epoch:47	 Test_loss_cls:4.23882	 Test top-1 accuracy:[0.4341, 0.4352, 0.437]	 Test top-5 accuracy:[0.7558, 0.7554, 0.7578]
+Epoch:48	 lr:0.0047	 Duration:50.160
+ Train_loss:4.70076	 Train_loss_cls:4.20929	 Train_loss_decouple_ml:0.49147
+ Train top-1 accuracy: [0.454, 0.4536] 
+Test epoch:48	 Test_loss_cls:4.18708	 Test top-1 accuracy:[0.4369, 0.4381, 0.4433]	 Test top-5 accuracy:[0.7627, 0.765, 0.7655]
+Epoch:49	 lr:0.0047	 Duration:50.189
+ Train_loss:4.65159	 Train_loss_cls:4.15160	 Train_loss_decouple_ml:0.49999
+ Train top-1 accuracy: [0.4571, 0.4542] 
+Test epoch:49	 Test_loss_cls:4.16920	 Test top-1 accuracy:[0.4465, 0.4364, 0.4446]	 Test top-5 accuracy:[0.7684, 0.7585, 0.766]
+Epoch:50	 lr:0.0047	 Duration:50.223
+ Train_loss:4.63839	 Train_loss_cls:4.14424	 Train_loss_decouple_ml:0.49415
+ Train top-1 accuracy: [0.4586, 0.4589] 
+Test epoch:50	 Test_loss_cls:4.09732	 Test top-1 accuracy:[0.4496, 0.447, 0.4507]	 Test top-5 accuracy:[0.7743, 0.7709, 0.777]
+Epoch:51	 lr:0.0047	 Duration:49.998
+ Train_loss:4.57951	 Train_loss_cls:4.08367	 Train_loss_decouple_ml:0.49584
+ Train top-1 accuracy: [0.4633, 0.4625] 
+Test epoch:51	 Test_loss_cls:4.09567	 Test top-1 accuracy:[0.4455, 0.4568, 0.4541]	 Test top-5 accuracy:[0.7671, 0.7739, 0.7753]
+Epoch:52	 lr:0.0046	 Duration:49.877
+ Train_loss:4.56983	 Train_loss_cls:4.07006	 Train_loss_decouple_ml:0.49977
+ Train top-1 accuracy: [0.4672, 0.4667] 
+Test epoch:52	 Test_loss_cls:4.04721	 Test top-1 accuracy:[0.4529, 0.4524, 0.4568]	 Test top-5 accuracy:[0.7769, 0.7741, 0.7782]
+Epoch:53	 lr:0.0046	 Duration:49.536
+ Train_loss:4.51121	 Train_loss_cls:4.01302	 Train_loss_decouple_ml:0.49819
+ Train top-1 accuracy: [0.4733, 0.4715] 
+Test epoch:53	 Test_loss_cls:4.00336	 Test top-1 accuracy:[0.4633, 0.4624, 0.4659]	 Test top-5 accuracy:[0.7853, 0.78, 0.7851]
+Epoch:54	 lr:0.0046	 Duration:49.547
+ Train_loss:4.47813	 Train_loss_cls:3.97571	 Train_loss_decouple_ml:0.50242
+ Train top-1 accuracy: [0.4776, 0.4773] 
+Test epoch:54	 Test_loss_cls:4.01663	 Test top-1 accuracy:[0.4604, 0.4586, 0.4645]	 Test top-5 accuracy:[0.781, 0.7766, 0.7812]
+Epoch:55	 lr:0.0046	 Duration:49.715
+ Train_loss:4.47789	 Train_loss_cls:3.97834	 Train_loss_decouple_ml:0.49955
+ Train top-1 accuracy: [0.4781, 0.4765] 
+Test epoch:55	 Test_loss_cls:3.95743	 Test top-1 accuracy:[0.4675, 0.4618, 0.4688]	 Test top-5 accuracy:[0.7855, 0.7858, 0.7898]
+Epoch:56	 lr:0.0046	 Duration:50.423
+ Train_loss:4.43794	 Train_loss_cls:3.93641	 Train_loss_decouple_ml:0.50153
+ Train top-1 accuracy: [0.484, 0.4831] 
+Test epoch:56	 Test_loss_cls:3.97854	 Test top-1 accuracy:[0.4622, 0.4628, 0.4681]	 Test top-5 accuracy:[0.7795, 0.7822, 0.7835]
+Epoch:57	 lr:0.0046	 Duration:51.092
+ Train_loss:4.42391	 Train_loss_cls:3.91644	 Train_loss_decouple_ml:0.50747
+ Train top-1 accuracy: [0.4871, 0.4859] 
+Test epoch:57	 Test_loss_cls:3.90929	 Test top-1 accuracy:[0.477, 0.4704, 0.477]	 Test top-5 accuracy:[0.788, 0.7858, 0.7895]
+Epoch:58	 lr:0.0046	 Duration:50.134
+ Train_loss:4.36100	 Train_loss_cls:3.85668	 Train_loss_decouple_ml:0.50432
+ Train top-1 accuracy: [0.4914, 0.4907] 
+Test epoch:58	 Test_loss_cls:3.88236	 Test top-1 accuracy:[0.4712, 0.4763, 0.476]	 Test top-5 accuracy:[0.7903, 0.7945, 0.7946]
+Epoch:59	 lr:0.0045	 Duration:51.220
+ Train_loss:4.36512	 Train_loss_cls:3.86151	 Train_loss_decouple_ml:0.50362
+ Train top-1 accuracy: [0.493, 0.4939] 
+Test epoch:59	 Test_loss_cls:3.83429	 Test top-1 accuracy:[0.4812, 0.4842, 0.4874]	 Test top-5 accuracy:[0.7976, 0.8003, 0.7997]
+Epoch:60	 lr:0.0045	 Duration:50.820
+ Train_loss:4.31876	 Train_loss_cls:3.81377	 Train_loss_decouple_ml:0.50499
+ Train top-1 accuracy: [0.4949, 0.4951] 
+Test epoch:60	 Test_loss_cls:3.83333	 Test top-1 accuracy:[0.4787, 0.4761, 0.482]	 Test top-5 accuracy:[0.7987, 0.7944, 0.799]
+Epoch:61	 lr:0.0045	 Duration:48.402
+ Train_loss:4.28893	 Train_loss_cls:3.78514	 Train_loss_decouple_ml:0.50379
+ Train top-1 accuracy: [0.5008, 0.5028] 
+Test epoch:61	 Test_loss_cls:3.83614	 Test top-1 accuracy:[0.4744, 0.4812, 0.4812]	 Test top-5 accuracy:[0.7983, 0.799, 0.8008]
+Epoch:62	 lr:0.0045	 Duration:48.024
+ Train_loss:4.27713	 Train_loss_cls:3.76758	 Train_loss_decouple_ml:0.50955
+ Train top-1 accuracy: [0.5053, 0.5046] 
+Test epoch:62	 Test_loss_cls:3.85752	 Test top-1 accuracy:[0.4833, 0.4751, 0.482]	 Test top-5 accuracy:[0.801, 0.7901, 0.7969]
+Epoch:63	 lr:0.0045	 Duration:48.489
+ Train_loss:4.24502	 Train_loss_cls:3.73210	 Train_loss_decouple_ml:0.51293
+ Train top-1 accuracy: [0.5076, 0.506] 
+Test epoch:63	 Test_loss_cls:3.77078	 Test top-1 accuracy:[0.4884, 0.4867, 0.4916]	 Test top-5 accuracy:[0.806, 0.8031, 0.8063]
+Epoch:64	 lr:0.0045	 Duration:47.858
+ Train_loss:4.22464	 Train_loss_cls:3.72060	 Train_loss_decouple_ml:0.50404
+ Train top-1 accuracy: [0.5042, 0.5049] 
+Test epoch:64	 Test_loss_cls:3.73791	 Test top-1 accuracy:[0.4923, 0.4868, 0.4947]	 Test top-5 accuracy:[0.8098, 0.8059, 0.8091]
+Epoch:65	 lr:0.0044	 Duration:47.954
+ Train_loss:4.21664	 Train_loss_cls:3.70820	 Train_loss_decouple_ml:0.50844
+ Train top-1 accuracy: [0.5112, 0.5121] 
+Test epoch:65	 Test_loss_cls:3.75925	 Test top-1 accuracy:[0.487, 0.4903, 0.4921]	 Test top-5 accuracy:[0.8006, 0.8025, 0.8011]
+Epoch:66	 lr:0.0044	 Duration:48.738
+ Train_loss:4.17716	 Train_loss_cls:3.67164	 Train_loss_decouple_ml:0.50552
+ Train top-1 accuracy: [0.5124, 0.5128] 
+Test epoch:66	 Test_loss_cls:3.71500	 Test top-1 accuracy:[0.4962, 0.4936, 0.4987]	 Test top-5 accuracy:[0.8125, 0.8104, 0.8132]
+Epoch:67	 lr:0.0044	 Duration:48.549
+ Train_loss:4.16459	 Train_loss_cls:3.65706	 Train_loss_decouple_ml:0.50753
+ Train top-1 accuracy: [0.5193, 0.5184] 
+Test epoch:67	 Test_loss_cls:3.70064	 Test top-1 accuracy:[0.5011, 0.4964, 0.5024]	 Test top-5 accuracy:[0.8106, 0.8067, 0.8101]
+Epoch:68	 lr:0.0044	 Duration:49.461
+ Train_loss:4.12836	 Train_loss_cls:3.62392	 Train_loss_decouple_ml:0.50444
+ Train top-1 accuracy: [0.5221, 0.5224] 
+Test epoch:68	 Test_loss_cls:3.66261	 Test top-1 accuracy:[0.5015, 0.4982, 0.5029]	 Test top-5 accuracy:[0.8151, 0.8137, 0.8161]
+Epoch:69	 lr:0.0044	 Duration:50.243
+ Train_loss:4.11334	 Train_loss_cls:3.60523	 Train_loss_decouple_ml:0.50811
+ Train top-1 accuracy: [0.523, 0.5221] 
+Test epoch:69	 Test_loss_cls:3.66913	 Test top-1 accuracy:[0.4985, 0.5022, 0.5023]	 Test top-5 accuracy:[0.8118, 0.8141, 0.8162]
+Epoch:70	 lr:0.0044	 Duration:50.944
+ Train_loss:4.10942	 Train_loss_cls:3.59975	 Train_loss_decouple_ml:0.50967
+ Train top-1 accuracy: [0.5261, 0.5251] 
+Test epoch:70	 Test_loss_cls:3.66210	 Test top-1 accuracy:[0.4977, 0.5031, 0.5021]	 Test top-5 accuracy:[0.8092, 0.8116, 0.8143]
+Epoch:71	 lr:0.0043	 Duration:62.672
+ Train_loss:4.09494	 Train_loss_cls:3.59137	 Train_loss_decouple_ml:0.50357
+ Train top-1 accuracy: [0.5258, 0.5262] 
+Test epoch:71	 Test_loss_cls:3.68284	 Test top-1 accuracy:[0.4979, 0.4983, 0.5008]	 Test top-5 accuracy:[0.8097, 0.8058, 0.8093]
+Epoch:72	 lr:0.0043	 Duration:62.680
+ Train_loss:4.06439	 Train_loss_cls:3.55792	 Train_loss_decouple_ml:0.50647
+ Train top-1 accuracy: [0.5301, 0.5288] 
+Test epoch:72	 Test_loss_cls:3.61395	 Test top-1 accuracy:[0.5078, 0.5018, 0.5055]	 Test top-5 accuracy:[0.822, 0.8179, 0.8233]
+Epoch:73	 lr:0.0043	 Duration:50.567
+ Train_loss:4.02717	 Train_loss_cls:3.52438	 Train_loss_decouple_ml:0.50279
+ Train top-1 accuracy: [0.5327, 0.5323] 
+Test epoch:73	 Test_loss_cls:3.61432	 Test top-1 accuracy:[0.5071, 0.5045, 0.5094]	 Test top-5 accuracy:[0.8177, 0.8164, 0.8197]
+Epoch:74	 lr:0.0043	 Duration:50.711
+ Train_loss:4.00833	 Train_loss_cls:3.50187	 Train_loss_decouple_ml:0.50646
+ Train top-1 accuracy: [0.5348, 0.5338] 
+Test epoch:74	 Test_loss_cls:3.55711	 Test top-1 accuracy:[0.5131, 0.5074, 0.5139]	 Test top-5 accuracy:[0.8226, 0.8187, 0.8219]
+Epoch:75	 lr:0.0043	 Duration:50.431
+ Train_loss:3.99750	 Train_loss_cls:3.48870	 Train_loss_decouple_ml:0.50880
+ Train top-1 accuracy: [0.5375, 0.537] 
+Test epoch:75	 Test_loss_cls:3.57492	 Test top-1 accuracy:[0.5101, 0.5101, 0.515]	 Test top-5 accuracy:[0.8185, 0.8208, 0.8222]
+Epoch:76	 lr:0.0042	 Duration:50.295
+ Train_loss:3.97958	 Train_loss_cls:3.46861	 Train_loss_decouple_ml:0.51097
+ Train top-1 accuracy: [0.54, 0.5394] 
+Test epoch:76	 Test_loss_cls:3.53864	 Test top-1 accuracy:[0.5186, 0.5119, 0.5173]	 Test top-5 accuracy:[0.8264, 0.8211, 0.8275]
+Epoch:77	 lr:0.0042	 Duration:50.894
+ Train_loss:3.96460	 Train_loss_cls:3.46304	 Train_loss_decouple_ml:0.50157
+ Train top-1 accuracy: [0.5422, 0.5423] 
+Test epoch:77	 Test_loss_cls:3.57481	 Test top-1 accuracy:[0.5068, 0.5172, 0.5167]	 Test top-5 accuracy:[0.8125, 0.8239, 0.8224]
+Epoch:78	 lr:0.0042	 Duration:50.113
+ Train_loss:3.96733	 Train_loss_cls:3.45978	 Train_loss_decouple_ml:0.50755
+ Train top-1 accuracy: [0.5402, 0.5418] 
+Test epoch:78	 Test_loss_cls:3.53561	 Test top-1 accuracy:[0.5162, 0.5149, 0.5196]	 Test top-5 accuracy:[0.8235, 0.8258, 0.8287]
+Epoch:79	 lr:0.0042	 Duration:51.051
+ Train_loss:3.94156	 Train_loss_cls:3.43094	 Train_loss_decouple_ml:0.51062
+ Train top-1 accuracy: [0.5446, 0.5454] 
+Test epoch:79	 Test_loss_cls:3.48333	 Test top-1 accuracy:[0.5201, 0.5223, 0.5263]	 Test top-5 accuracy:[0.8281, 0.8288, 0.8304]
+Epoch:80	 lr:0.0042	 Duration:56.468
+ Train_loss:3.90158	 Train_loss_cls:3.39271	 Train_loss_decouple_ml:0.50887
+ Train top-1 accuracy: [0.5495, 0.5509] 
+Test epoch:80	 Test_loss_cls:3.55092	 Test top-1 accuracy:[0.5157, 0.5123, 0.5175]	 Test top-5 accuracy:[0.8255, 0.8179, 0.8254]
+Epoch:81	 lr:0.0042	 Duration:63.023
+ Train_loss:3.89029	 Train_loss_cls:3.38234	 Train_loss_decouple_ml:0.50794
+ Train top-1 accuracy: [0.5507, 0.5503] 
+Test epoch:81	 Test_loss_cls:3.53528	 Test top-1 accuracy:[0.5173, 0.5137, 0.5209]	 Test top-5 accuracy:[0.8228, 0.8213, 0.8244]
+Epoch:82	 lr:0.0041	 Duration:63.641
+ Train_loss:3.89036	 Train_loss_cls:3.38620	 Train_loss_decouple_ml:0.50415
+ Train top-1 accuracy: [0.5491, 0.5514] 
+Test epoch:82	 Test_loss_cls:3.45364	 Test top-1 accuracy:[0.5268, 0.5258, 0.5293]	 Test top-5 accuracy:[0.8316, 0.8316, 0.8351]
+Epoch:83	 lr:0.0041	 Duration:63.105
+ Train_loss:3.85464	 Train_loss_cls:3.35011	 Train_loss_decouple_ml:0.50453
+ Train top-1 accuracy: [0.5533, 0.5534] 
+Test epoch:83	 Test_loss_cls:3.46966	 Test top-1 accuracy:[0.5283, 0.5208, 0.5275]	 Test top-5 accuracy:[0.8304, 0.8294, 0.8308]
+Epoch:84	 lr:0.0041	 Duration:59.554
+ Train_loss:3.84913	 Train_loss_cls:3.34487	 Train_loss_decouple_ml:0.50426
+ Train top-1 accuracy: [0.5547, 0.5544] 
+Test epoch:84	 Test_loss_cls:3.44784	 Test top-1 accuracy:[0.5264, 0.5256, 0.5311]	 Test top-5 accuracy:[0.8329, 0.8291, 0.8353]
+Epoch:85	 lr:0.0041	 Duration:63.381
+ Train_loss:3.82791	 Train_loss_cls:3.32100	 Train_loss_decouple_ml:0.50691
+ Train top-1 accuracy: [0.5575, 0.5566] 
+Test epoch:85	 Test_loss_cls:3.42074	 Test top-1 accuracy:[0.5338, 0.5326, 0.5357]	 Test top-5 accuracy:[0.8323, 0.8306, 0.8317]
+Epoch:86	 lr:0.0041	 Duration:63.500
+ Train_loss:3.82764	 Train_loss_cls:3.32679	 Train_loss_decouple_ml:0.50086
+ Train top-1 accuracy: [0.558, 0.5561] 
+Test epoch:86	 Test_loss_cls:3.40841	 Test top-1 accuracy:[0.5308, 0.5301, 0.5321]	 Test top-5 accuracy:[0.8329, 0.8355, 0.8361]
+Epoch:87	 lr:0.0040	 Duration:62.929
+ Train_loss:3.79651	 Train_loss_cls:3.29227	 Train_loss_decouple_ml:0.50424
+ Train top-1 accuracy: [0.5635, 0.5621] 
+Test epoch:87	 Test_loss_cls:3.39432	 Test top-1 accuracy:[0.5372, 0.5371, 0.5424]	 Test top-5 accuracy:[0.8369, 0.8383, 0.8397]
+Epoch:88	 lr:0.0040	 Duration:62.097
+ Train_loss:3.79545	 Train_loss_cls:3.29210	 Train_loss_decouple_ml:0.50335
+ Train top-1 accuracy: [0.5619, 0.5598] 
+Test epoch:88	 Test_loss_cls:3.40053	 Test top-1 accuracy:[0.5314, 0.5333, 0.5371]	 Test top-5 accuracy:[0.8331, 0.8333, 0.8361]
+Epoch:89	 lr:0.0040	 Duration:49.891
+ Train_loss:3.77482	 Train_loss_cls:3.27077	 Train_loss_decouple_ml:0.50405
+ Train top-1 accuracy: [0.5659, 0.5644] 
+Test epoch:89	 Test_loss_cls:3.35150	 Test top-1 accuracy:[0.5388, 0.5409, 0.5441]	 Test top-5 accuracy:[0.8398, 0.8417, 0.8427]
+Epoch:90	 lr:0.0040	 Duration:50.297
+ Train_loss:3.75279	 Train_loss_cls:3.25063	 Train_loss_decouple_ml:0.50215
+ Train top-1 accuracy: [0.5667, 0.566] 
+Test epoch:90	 Test_loss_cls:3.39470	 Test top-1 accuracy:[0.5324, 0.5357, 0.5386]	 Test top-5 accuracy:[0.8336, 0.8335, 0.8357]
+Epoch:91	 lr:0.0039	 Duration:50.706
+ Train_loss:3.74911	 Train_loss_cls:3.24622	 Train_loss_decouple_ml:0.50289
+ Train top-1 accuracy: [0.5696, 0.5695] 
+Test epoch:91	 Test_loss_cls:3.34697	 Test top-1 accuracy:[0.5396, 0.5355, 0.5437]	 Test top-5 accuracy:[0.8436, 0.8362, 0.8426]
+Epoch:92	 lr:0.0039	 Duration:53.551
+ Train_loss:3.71585	 Train_loss_cls:3.21688	 Train_loss_decouple_ml:0.49897
+ Train top-1 accuracy: [0.5721, 0.574] 
+Test epoch:92	 Test_loss_cls:3.32982	 Test top-1 accuracy:[0.5427, 0.542, 0.5458]	 Test top-5 accuracy:[0.8386, 0.8395, 0.8426]
+Epoch:93	 lr:0.0039	 Duration:49.437
+ Train_loss:3.71556	 Train_loss_cls:3.20781	 Train_loss_decouple_ml:0.50775
+ Train top-1 accuracy: [0.5733, 0.5741] 
+Test epoch:93	 Test_loss_cls:3.37748	 Test top-1 accuracy:[0.5284, 0.5346, 0.5351]	 Test top-5 accuracy:[0.8361, 0.8375, 0.8409]
+Epoch:94	 lr:0.0039	 Duration:51.152
+ Train_loss:3.72341	 Train_loss_cls:3.22253	 Train_loss_decouple_ml:0.50088
+ Train top-1 accuracy: [0.5696, 0.5697] 
+Test epoch:94	 Test_loss_cls:3.31151	 Test top-1 accuracy:[0.5433, 0.5415, 0.546]	 Test top-5 accuracy:[0.8397, 0.8397, 0.8411]
+Epoch:95	 lr:0.0039	 Duration:71.784
+ Train_loss:3.69103	 Train_loss_cls:3.19359	 Train_loss_decouple_ml:0.49744
+ Train top-1 accuracy: [0.575, 0.5745] 
+Test epoch:95	 Test_loss_cls:3.30294	 Test top-1 accuracy:[0.5452, 0.5437, 0.548]	 Test top-5 accuracy:[0.8413, 0.8432, 0.8434]
+Epoch:96	 lr:0.0038	 Duration:74.276
+ Train_loss:3.69924	 Train_loss_cls:3.19893	 Train_loss_decouple_ml:0.50031
+ Train top-1 accuracy: [0.5741, 0.5732] 
+Test epoch:96	 Test_loss_cls:3.29160	 Test top-1 accuracy:[0.5424, 0.5458, 0.5479]	 Test top-5 accuracy:[0.8396, 0.845, 0.8433]
+Epoch:97	 lr:0.0038	 Duration:73.663
+ Train_loss:3.65033	 Train_loss_cls:3.14689	 Train_loss_decouple_ml:0.50344
+ Train top-1 accuracy: [0.5816, 0.5815] 
+Test epoch:97	 Test_loss_cls:3.25808	 Test top-1 accuracy:[0.5504, 0.5489, 0.5512]	 Test top-5 accuracy:[0.8482, 0.8453, 0.8495]
+Epoch:98	 lr:0.0038	 Duration:73.998
+ Train_loss:3.64050	 Train_loss_cls:3.14333	 Train_loss_decouple_ml:0.49716
+ Train top-1 accuracy: [0.5805, 0.582] 
+Test epoch:98	 Test_loss_cls:3.29495	 Test top-1 accuracy:[0.5491, 0.5454, 0.5532]	 Test top-5 accuracy:[0.8462, 0.8387, 0.8436]
+Epoch:99	 lr:0.0038	 Duration:74.090
+ Train_loss:3.61605	 Train_loss_cls:3.12054	 Train_loss_decouple_ml:0.49551
+ Train top-1 accuracy: [0.5846, 0.5847] 
+Test epoch:99	 Test_loss_cls:3.25254	 Test top-1 accuracy:[0.5546, 0.5503, 0.5561]	 Test top-5 accuracy:[0.8482, 0.8449, 0.8496]
+Epoch:100	 lr:0.0037	 Duration:74.611
+ Train_loss:3.62497	 Train_loss_cls:3.12363	 Train_loss_decouple_ml:0.50134
+ Train top-1 accuracy: [0.5822, 0.582] 
+Test epoch:100	 Test_loss_cls:3.26515	 Test top-1 accuracy:[0.5418, 0.5519, 0.5513]	 Test top-5 accuracy:[0.8459, 0.8478, 0.8503]
+Epoch:101	 lr:0.0037	 Duration:74.836
+ Train_loss:3.61362	 Train_loss_cls:3.11358	 Train_loss_decouple_ml:0.50003
+ Train top-1 accuracy: [0.5858, 0.586] 
+Test epoch:101	 Test_loss_cls:3.25134	 Test top-1 accuracy:[0.552, 0.5515, 0.5568]	 Test top-5 accuracy:[0.8447, 0.845, 0.8471]
+Epoch:102	 lr:0.0037	 Duration:74.501
+ Train_loss:3.61620	 Train_loss_cls:3.12024	 Train_loss_decouple_ml:0.49596
+ Train top-1 accuracy: [0.5831, 0.5832] 
+Test epoch:102	 Test_loss_cls:3.24478	 Test top-1 accuracy:[0.546, 0.5525, 0.5528]	 Test top-5 accuracy:[0.8466, 0.8495, 0.8507]
+Epoch:103	 lr:0.0037	 Duration:74.164
+ Train_loss:3.59913	 Train_loss_cls:3.10358	 Train_loss_decouple_ml:0.49555
+ Train top-1 accuracy: [0.5863, 0.5859] 
+Test epoch:103	 Test_loss_cls:3.24723	 Test top-1 accuracy:[0.5524, 0.5528, 0.5601]	 Test top-5 accuracy:[0.8471, 0.8461, 0.85]
+Epoch:104	 lr:0.0037	 Duration:74.020
+ Train_loss:3.55957	 Train_loss_cls:3.05923	 Train_loss_decouple_ml:0.50034
+ Train top-1 accuracy: [0.5907, 0.5912] 
+Test epoch:104	 Test_loss_cls:3.22274	 Test top-1 accuracy:[0.5588, 0.5558, 0.5584]	 Test top-5 accuracy:[0.8476, 0.8496, 0.8504]
+Epoch:105	 lr:0.0036	 Duration:73.955
+ Train_loss:3.56035	 Train_loss_cls:3.06400	 Train_loss_decouple_ml:0.49635
+ Train top-1 accuracy: [0.5901, 0.5906] 
+Test epoch:105	 Test_loss_cls:3.19757	 Test top-1 accuracy:[0.5545, 0.5579, 0.5587]	 Test top-5 accuracy:[0.8528, 0.8524, 0.854]
+Epoch:106	 lr:0.0036	 Duration:74.447
+ Train_loss:3.55377	 Train_loss_cls:3.05980	 Train_loss_decouple_ml:0.49397
+ Train top-1 accuracy: [0.59, 0.5912] 
+Test epoch:106	 Test_loss_cls:3.26477	 Test top-1 accuracy:[0.5463, 0.5522, 0.5552]	 Test top-5 accuracy:[0.847, 0.8423, 0.8486]
+Epoch:107	 lr:0.0036	 Duration:74.952
+ Train_loss:3.51404	 Train_loss_cls:3.01812	 Train_loss_decouple_ml:0.49592
+ Train top-1 accuracy: [0.5968, 0.5964] 
+Test epoch:107	 Test_loss_cls:3.13701	 Test top-1 accuracy:[0.5675, 0.5633, 0.5695]	 Test top-5 accuracy:[0.8556, 0.8559, 0.8581]
+Epoch:108	 lr:0.0036	 Duration:75.229
+ Train_loss:3.49138	 Train_loss_cls:2.99663	 Train_loss_decouple_ml:0.49475
+ Train top-1 accuracy: [0.5988, 0.5986] 
+Test epoch:108	 Test_loss_cls:3.27330	 Test top-1 accuracy:[0.5547, 0.5437, 0.5564]	 Test top-5 accuracy:[0.848, 0.8402, 0.8495]
+Epoch:109	 lr:0.0035	 Duration:74.932
+ Train_loss:3.49720	 Train_loss_cls:3.00598	 Train_loss_decouple_ml:0.49121
+ Train top-1 accuracy: [0.5974, 0.5982] 
+Test epoch:109	 Test_loss_cls:3.16306	 Test top-1 accuracy:[0.5577, 0.564, 0.5625]	 Test top-5 accuracy:[0.8528, 0.8582, 0.8572]
+Epoch:110	 lr:0.0035	 Duration:74.532
+ Train_loss:3.47505	 Train_loss_cls:2.97988	 Train_loss_decouple_ml:0.49516
+ Train top-1 accuracy: [0.602, 0.6009] 
+Test epoch:110	 Test_loss_cls:3.14700	 Test top-1 accuracy:[0.5631, 0.5684, 0.5709]	 Test top-5 accuracy:[0.8508, 0.8566, 0.8577]
+Epoch:111	 lr:0.0035	 Duration:74.311
+ Train_loss:3.49526	 Train_loss_cls:3.00592	 Train_loss_decouple_ml:0.48935
+ Train top-1 accuracy: [0.5964, 0.596] 
+Test epoch:111	 Test_loss_cls:3.22646	 Test top-1 accuracy:[0.5541, 0.5598, 0.5614]	 Test top-5 accuracy:[0.844, 0.8469, 0.8471]
+Epoch:112	 lr:0.0035	 Duration:74.707
+ Train_loss:3.47705	 Train_loss_cls:2.98442	 Train_loss_decouple_ml:0.49263
+ Train top-1 accuracy: [0.6036, 0.6025] 
+Test epoch:112	 Test_loss_cls:3.12828	 Test top-1 accuracy:[0.5635, 0.5665, 0.5694]	 Test top-5 accuracy:[0.8547, 0.8548, 0.8565]
+Epoch:113	 lr:0.0034	 Duration:74.788
+ Train_loss:3.44493	 Train_loss_cls:2.95400	 Train_loss_decouple_ml:0.49093
+ Train top-1 accuracy: [0.6062, 0.6049] 
+Test epoch:113	 Test_loss_cls:3.11103	 Test top-1 accuracy:[0.5705, 0.5644, 0.5741]	 Test top-5 accuracy:[0.8607, 0.8555, 0.8594]
+Epoch:114	 lr:0.0034	 Duration:74.420
+ Train_loss:3.43930	 Train_loss_cls:2.94767	 Train_loss_decouple_ml:0.49163
+ Train top-1 accuracy: [0.6044, 0.6056] 
+Test epoch:114	 Test_loss_cls:3.07952	 Test top-1 accuracy:[0.5778, 0.5748, 0.5785]	 Test top-5 accuracy:[0.8603, 0.8594, 0.8613]
+Epoch:115	 lr:0.0034	 Duration:74.174
+ Train_loss:3.41309	 Train_loss_cls:2.92181	 Train_loss_decouple_ml:0.49128
+ Train top-1 accuracy: [0.6078, 0.6068] 
+Test epoch:115	 Test_loss_cls:3.13346	 Test top-1 accuracy:[0.5602, 0.5694, 0.5661]	 Test top-5 accuracy:[0.8534, 0.8592, 0.8602]
+Epoch:116	 lr:0.0034	 Duration:74.480
+ Train_loss:3.41739	 Train_loss_cls:2.92893	 Train_loss_decouple_ml:0.48846
+ Train top-1 accuracy: [0.6087, 0.6102] 
+Test epoch:116	 Test_loss_cls:3.07771	 Test top-1 accuracy:[0.5763, 0.5799, 0.5811]	 Test top-5 accuracy:[0.8629, 0.8611, 0.8638]
+Epoch:117	 lr:0.0033	 Duration:74.700
+ Train_loss:3.39498	 Train_loss_cls:2.90816	 Train_loss_decouple_ml:0.48681
+ Train top-1 accuracy: [0.614, 0.6139] 
+Test epoch:117	 Test_loss_cls:3.06211	 Test top-1 accuracy:[0.5746, 0.5765, 0.5799]	 Test top-5 accuracy:[0.8606, 0.862, 0.8635]
+Epoch:118	 lr:0.0033	 Duration:75.059
+ Train_loss:3.38074	 Train_loss_cls:2.89305	 Train_loss_decouple_ml:0.48769
+ Train top-1 accuracy: [0.613, 0.6137] 
+Test epoch:118	 Test_loss_cls:3.12884	 Test top-1 accuracy:[0.5569, 0.5671, 0.5634]	 Test top-5 accuracy:[0.854, 0.8579, 0.859]
+Epoch:119	 lr:0.0033	 Duration:73.900
+ Train_loss:3.36745	 Train_loss_cls:2.88124	 Train_loss_decouple_ml:0.48621
+ Train top-1 accuracy: [0.6157, 0.6171] 
+Test epoch:119	 Test_loss_cls:3.06191	 Test top-1 accuracy:[0.5725, 0.5726, 0.5764]	 Test top-5 accuracy:[0.8607, 0.8609, 0.862]
+Epoch:120	 lr:0.0033	 Duration:72.613
+ Train_loss:3.37339	 Train_loss_cls:2.88651	 Train_loss_decouple_ml:0.48688
+ Train top-1 accuracy: [0.6146, 0.6148] 
+Test epoch:120	 Test_loss_cls:3.05125	 Test top-1 accuracy:[0.5786, 0.5779, 0.5838]	 Test top-5 accuracy:[0.8584, 0.8607, 0.8632]
+Epoch:121	 lr:0.0032	 Duration:72.969
+ Train_loss:3.35629	 Train_loss_cls:2.87243	 Train_loss_decouple_ml:0.48386
+ Train top-1 accuracy: [0.616, 0.6172] 
+Test epoch:121	 Test_loss_cls:3.03639	 Test top-1 accuracy:[0.5803, 0.5787, 0.5844]	 Test top-5 accuracy:[0.8651, 0.8625, 0.8667]
+Epoch:122	 lr:0.0032	 Duration:72.824
+ Train_loss:3.33774	 Train_loss_cls:2.85357	 Train_loss_decouple_ml:0.48417
+ Train top-1 accuracy: [0.6199, 0.6199] 
+Test epoch:122	 Test_loss_cls:3.01443	 Test top-1 accuracy:[0.5756, 0.5786, 0.5811]	 Test top-5 accuracy:[0.8631, 0.8679, 0.8688]
+Epoch:123	 lr:0.0032	 Duration:73.114
+ Train_loss:3.31627	 Train_loss_cls:2.83563	 Train_loss_decouple_ml:0.48064
+ Train top-1 accuracy: [0.6206, 0.6183] 
+Test epoch:123	 Test_loss_cls:3.08979	 Test top-1 accuracy:[0.5718, 0.5734, 0.5777]	 Test top-5 accuracy:[0.8526, 0.8546, 0.8573]
+Epoch:124	 lr:0.0032	 Duration:73.578
+ Train_loss:3.33770	 Train_loss_cls:2.85580	 Train_loss_decouple_ml:0.48190
+ Train top-1 accuracy: [0.6194, 0.6181] 
+Test epoch:124	 Test_loss_cls:3.06079	 Test top-1 accuracy:[0.5744, 0.5796, 0.5846]	 Test top-5 accuracy:[0.8542, 0.8576, 0.8601]
+Epoch:125	 lr:0.0031	 Duration:73.660
+ Train_loss:3.31394	 Train_loss_cls:2.83391	 Train_loss_decouple_ml:0.48003
+ Train top-1 accuracy: [0.6193, 0.6216] 
+Test epoch:125	 Test_loss_cls:3.05736	 Test top-1 accuracy:[0.5787, 0.5745, 0.5809]	 Test top-5 accuracy:[0.8576, 0.8599, 0.8615]
+Epoch:126	 lr:0.0031	 Duration:73.883
+ Train_loss:3.27737	 Train_loss_cls:2.80034	 Train_loss_decouple_ml:0.47703
+ Train top-1 accuracy: [0.6268, 0.6255] 
+Test epoch:126	 Test_loss_cls:3.00176	 Test top-1 accuracy:[0.5852, 0.5867, 0.5899]	 Test top-5 accuracy:[0.8654, 0.866, 0.8679]
+Epoch:127	 lr:0.0031	 Duration:73.983
+ Train_loss:3.27085	 Train_loss_cls:2.79227	 Train_loss_decouple_ml:0.47858
+ Train top-1 accuracy: [0.6269, 0.6253] 
+Test epoch:127	 Test_loss_cls:3.01913	 Test top-1 accuracy:[0.5824, 0.5791, 0.5821]	 Test top-5 accuracy:[0.8651, 0.8575, 0.8663]
+Epoch:128	 lr:0.0031	 Duration:74.105
+ Train_loss:3.26202	 Train_loss_cls:2.78481	 Train_loss_decouple_ml:0.47721
+ Train top-1 accuracy: [0.6267, 0.6264] 
+Test epoch:128	 Test_loss_cls:3.01926	 Test top-1 accuracy:[0.5818, 0.5753, 0.5841]	 Test top-5 accuracy:[0.8637, 0.8614, 0.8646]
+Epoch:129	 lr:0.0030	 Duration:74.195
+ Train_loss:3.24115	 Train_loss_cls:2.76451	 Train_loss_decouple_ml:0.47664
+ Train top-1 accuracy: [0.6286, 0.6307] 
+Test epoch:129	 Test_loss_cls:3.02210	 Test top-1 accuracy:[0.5828, 0.5804, 0.584]	 Test top-5 accuracy:[0.8624, 0.8617, 0.8644]
+Epoch:130	 lr:0.0030	 Duration:74.192
+ Train_loss:3.24506	 Train_loss_cls:2.76899	 Train_loss_decouple_ml:0.47607
+ Train top-1 accuracy: [0.6291, 0.6316] 
+Test epoch:130	 Test_loss_cls:2.98099	 Test top-1 accuracy:[0.5831, 0.58, 0.5855]	 Test top-5 accuracy:[0.8673, 0.8673, 0.8698]
+Epoch:131	 lr:0.0030	 Duration:74.130
+ Train_loss:3.22030	 Train_loss_cls:2.75273	 Train_loss_decouple_ml:0.46757
+ Train top-1 accuracy: [0.6321, 0.6307] 
+Test epoch:131	 Test_loss_cls:2.99902	 Test top-1 accuracy:[0.5833, 0.578, 0.5847]	 Test top-5 accuracy:[0.8687, 0.8656, 0.8709]
+Epoch:132	 lr:0.0030	 Duration:74.213
+ Train_loss:3.23673	 Train_loss_cls:2.76575	 Train_loss_decouple_ml:0.47098
+ Train top-1 accuracy: [0.6287, 0.6288] 
+Test epoch:132	 Test_loss_cls:3.01056	 Test top-1 accuracy:[0.5815, 0.5799, 0.5831]	 Test top-5 accuracy:[0.8646, 0.8631, 0.8664]
+Epoch:133	 lr:0.0029	 Duration:74.359
+ Train_loss:3.20485	 Train_loss_cls:2.73475	 Train_loss_decouple_ml:0.47010
+ Train top-1 accuracy: [0.6301, 0.6327] 
+Test epoch:133	 Test_loss_cls:2.94871	 Test top-1 accuracy:[0.5838, 0.5885, 0.5884]	 Test top-5 accuracy:[0.8699, 0.8714, 0.8721]
+Epoch:134	 lr:0.0029	 Duration:74.293
+ Train_loss:3.19624	 Train_loss_cls:2.72296	 Train_loss_decouple_ml:0.47328
+ Train top-1 accuracy: [0.634, 0.6332] 
+Test epoch:134	 Test_loss_cls:2.98208	 Test top-1 accuracy:[0.5882, 0.574, 0.5866]	 Test top-5 accuracy:[0.8694, 0.8634, 0.8693]
+Epoch:135	 lr:0.0029	 Duration:74.328
+ Train_loss:3.17728	 Train_loss_cls:2.70964	 Train_loss_decouple_ml:0.46764
+ Train top-1 accuracy: [0.6371, 0.6362] 
+Test epoch:135	 Test_loss_cls:2.94275	 Test top-1 accuracy:[0.5948, 0.5951, 0.5982]	 Test top-5 accuracy:[0.8666, 0.8693, 0.8701]
+Epoch:136	 lr:0.0029	 Duration:73.911
+ Train_loss:3.17410	 Train_loss_cls:2.70831	 Train_loss_decouple_ml:0.46579
+ Train top-1 accuracy: [0.6343, 0.6362] 
+Test epoch:136	 Test_loss_cls:2.97661	 Test top-1 accuracy:[0.5841, 0.5796, 0.5842]	 Test top-5 accuracy:[0.8705, 0.8703, 0.8712]
+Epoch:137	 lr:0.0028	 Duration:73.786
+ Train_loss:3.17169	 Train_loss_cls:2.70730	 Train_loss_decouple_ml:0.46438
+ Train top-1 accuracy: [0.634, 0.6328] 
+Test epoch:137	 Test_loss_cls:2.93124	 Test top-1 accuracy:[0.59, 0.5922, 0.5944]	 Test top-5 accuracy:[0.8675, 0.8695, 0.8706]
+Epoch:138	 lr:0.0028	 Duration:73.810
+ Train_loss:3.12764	 Train_loss_cls:2.66174	 Train_loss_decouple_ml:0.46590
+ Train top-1 accuracy: [0.643, 0.6424] 
+Test epoch:138	 Test_loss_cls:2.93792	 Test top-1 accuracy:[0.591, 0.5879, 0.5946]	 Test top-5 accuracy:[0.8708, 0.8692, 0.8718]
+Epoch:139	 lr:0.0028	 Duration:73.845
+ Train_loss:3.14900	 Train_loss_cls:2.68440	 Train_loss_decouple_ml:0.46459
+ Train top-1 accuracy: [0.6398, 0.6404] 
+Test epoch:139	 Test_loss_cls:2.90031	 Test top-1 accuracy:[0.5982, 0.5888, 0.598]	 Test top-5 accuracy:[0.8728, 0.87, 0.8754]
+Epoch:140	 lr:0.0028	 Duration:74.527
+ Train_loss:3.12808	 Train_loss_cls:2.66641	 Train_loss_decouple_ml:0.46167
+ Train top-1 accuracy: [0.6404, 0.6418] 
+Test epoch:140	 Test_loss_cls:2.92971	 Test top-1 accuracy:[0.5933, 0.5934, 0.5961]	 Test top-5 accuracy:[0.8702, 0.8683, 0.8717]
+Epoch:141	 lr:0.0027	 Duration:74.652
+ Train_loss:3.12506	 Train_loss_cls:2.66061	 Train_loss_decouple_ml:0.46445
+ Train top-1 accuracy: [0.6431, 0.6435] 
+Test epoch:141	 Test_loss_cls:2.89404	 Test top-1 accuracy:[0.5959, 0.5972, 0.5992]	 Test top-5 accuracy:[0.8728, 0.8714, 0.8739]
+Epoch:142	 lr:0.0027	 Duration:74.579
+ Train_loss:3.10886	 Train_loss_cls:2.64690	 Train_loss_decouple_ml:0.46196
+ Train top-1 accuracy: [0.6442, 0.6432] 
+Test epoch:142	 Test_loss_cls:2.88575	 Test top-1 accuracy:[0.5989, 0.602, 0.6044]	 Test top-5 accuracy:[0.8732, 0.8744, 0.8753]
+Epoch:143	 lr:0.0027	 Duration:74.986
+ Train_loss:3.09190	 Train_loss_cls:2.63205	 Train_loss_decouple_ml:0.45985
+ Train top-1 accuracy: [0.6475, 0.6482] 
+Test epoch:143	 Test_loss_cls:2.89595	 Test top-1 accuracy:[0.5956, 0.594, 0.6001]	 Test top-5 accuracy:[0.8739, 0.8709, 0.8737]
+Epoch:144	 lr:0.0027	 Duration:74.771
+ Train_loss:3.08618	 Train_loss_cls:2.62531	 Train_loss_decouple_ml:0.46086
+ Train top-1 accuracy: [0.6469, 0.6459] 
+Test epoch:144	 Test_loss_cls:2.87135	 Test top-1 accuracy:[0.5965, 0.5974, 0.6008]	 Test top-5 accuracy:[0.8708, 0.8726, 0.8733]
+Epoch:145	 lr:0.0026	 Duration:75.062
+ Train_loss:3.08275	 Train_loss_cls:2.62408	 Train_loss_decouple_ml:0.45867
+ Train top-1 accuracy: [0.6471, 0.6473] 
+Test epoch:145	 Test_loss_cls:2.88292	 Test top-1 accuracy:[0.595, 0.5999, 0.6027]	 Test top-5 accuracy:[0.8713, 0.8747, 0.8768]
+Epoch:146	 lr:0.0026	 Duration:75.006
+ Train_loss:3.06216	 Train_loss_cls:2.60755	 Train_loss_decouple_ml:0.45461
+ Train top-1 accuracy: [0.6523, 0.6527] 
+Test epoch:146	 Test_loss_cls:2.87936	 Test top-1 accuracy:[0.5961, 0.6011, 0.6026]	 Test top-5 accuracy:[0.8708, 0.872, 0.8735]
+Epoch:147	 lr:0.0026	 Duration:74.874
+ Train_loss:3.07679	 Train_loss_cls:2.61833	 Train_loss_decouple_ml:0.45847
+ Train top-1 accuracy: [0.6483, 0.6498] 
+Test epoch:147	 Test_loss_cls:2.87659	 Test top-1 accuracy:[0.5964, 0.5973, 0.5991]	 Test top-5 accuracy:[0.871, 0.8723, 0.8761]
+Epoch:148	 lr:0.0026	 Duration:74.599
+ Train_loss:3.03940	 Train_loss_cls:2.58531	 Train_loss_decouple_ml:0.45409
+ Train top-1 accuracy: [0.652, 0.6516] 
+Test epoch:148	 Test_loss_cls:2.85863	 Test top-1 accuracy:[0.6065, 0.599, 0.6073]	 Test top-5 accuracy:[0.8756, 0.8716, 0.8756]
+Epoch:149	 lr:0.0025	 Duration:74.732
+ Train_loss:3.02765	 Train_loss_cls:2.57450	 Train_loss_decouple_ml:0.45314
+ Train top-1 accuracy: [0.6543, 0.6544] 
+Test epoch:149	 Test_loss_cls:2.83480	 Test top-1 accuracy:[0.6007, 0.605, 0.6056]	 Test top-5 accuracy:[0.8757, 0.8777, 0.8792]
+Epoch:150	 lr:0.0025	 Duration:74.613
+ Train_loss:3.01841	 Train_loss_cls:2.56674	 Train_loss_decouple_ml:0.45167
+ Train top-1 accuracy: [0.6556, 0.6554] 
+Test epoch:150	 Test_loss_cls:2.83659	 Test top-1 accuracy:[0.6068, 0.6026, 0.6052]	 Test top-5 accuracy:[0.8742, 0.8756, 0.8764]
+Epoch:151	 lr:0.0025	 Duration:74.725
+ Train_loss:3.02126	 Train_loss_cls:2.56984	 Train_loss_decouple_ml:0.45142
+ Train top-1 accuracy: [0.6552, 0.6557] 
+Test epoch:151	 Test_loss_cls:2.82769	 Test top-1 accuracy:[0.6079, 0.6033, 0.6118]	 Test top-5 accuracy:[0.8779, 0.8749, 0.8783]
+Epoch:152	 lr:0.0024	 Duration:74.728
+ Train_loss:3.01255	 Train_loss_cls:2.56074	 Train_loss_decouple_ml:0.45181
+ Train top-1 accuracy: [0.6552, 0.6559] 
+Test epoch:152	 Test_loss_cls:2.89446	 Test top-1 accuracy:[0.5972, 0.5955, 0.5984]	 Test top-5 accuracy:[0.8697, 0.8707, 0.8725]
+Epoch:153	 lr:0.0024	 Duration:74.222
+ Train_loss:3.00099	 Train_loss_cls:2.55451	 Train_loss_decouple_ml:0.44648
+ Train top-1 accuracy: [0.658, 0.6583] 
+Test epoch:153	 Test_loss_cls:2.83408	 Test top-1 accuracy:[0.6013, 0.5984, 0.6042]	 Test top-5 accuracy:[0.8764, 0.8769, 0.8763]
+Epoch:154	 lr:0.0024	 Duration:74.473
+ Train_loss:2.98560	 Train_loss_cls:2.54231	 Train_loss_decouple_ml:0.44329
+ Train top-1 accuracy: [0.6579, 0.6576] 
+Test epoch:154	 Test_loss_cls:2.81788	 Test top-1 accuracy:[0.6076, 0.6071, 0.6109]	 Test top-5 accuracy:[0.8758, 0.8787, 0.8806]
+Epoch:155	 lr:0.0024	 Duration:74.256
+ Train_loss:2.95700	 Train_loss_cls:2.51004	 Train_loss_decouple_ml:0.44696
+ Train top-1 accuracy: [0.6624, 0.6637] 
+Test epoch:155	 Test_loss_cls:2.83607	 Test top-1 accuracy:[0.605, 0.6049, 0.6085]	 Test top-5 accuracy:[0.8725, 0.8739, 0.8754]
+Epoch:156	 lr:0.0023	 Duration:74.402
+ Train_loss:2.95650	 Train_loss_cls:2.51013	 Train_loss_decouple_ml:0.44637
+ Train top-1 accuracy: [0.6626, 0.6628] 
+Test epoch:156	 Test_loss_cls:2.88223	 Test top-1 accuracy:[0.6003, 0.5973, 0.6006]	 Test top-5 accuracy:[0.8713, 0.8705, 0.874]
+Epoch:157	 lr:0.0023	 Duration:75.085
+ Train_loss:2.98013	 Train_loss_cls:2.53777	 Train_loss_decouple_ml:0.44236
+ Train top-1 accuracy: [0.6577, 0.6581] 
+Test epoch:157	 Test_loss_cls:2.80614	 Test top-1 accuracy:[0.6031, 0.6104, 0.6112]	 Test top-5 accuracy:[0.8775, 0.8783, 0.881]
+Epoch:158	 lr:0.0023	 Duration:75.022
+ Train_loss:2.94083	 Train_loss_cls:2.49945	 Train_loss_decouple_ml:0.44138
+ Train top-1 accuracy: [0.6656, 0.6657] 
+Test epoch:158	 Test_loss_cls:2.84353	 Test top-1 accuracy:[0.6064, 0.5996, 0.6042]	 Test top-5 accuracy:[0.873, 0.8738, 0.8751]
+Epoch:159	 lr:0.0023	 Duration:75.290
+ Train_loss:2.93082	 Train_loss_cls:2.48820	 Train_loss_decouple_ml:0.44261
+ Train top-1 accuracy: [0.667, 0.666] 
+Test epoch:159	 Test_loss_cls:2.79914	 Test top-1 accuracy:[0.6094, 0.6075, 0.6112]	 Test top-5 accuracy:[0.8795, 0.8783, 0.883]
+Epoch:160	 lr:0.0022	 Duration:75.162
+ Train_loss:2.92526	 Train_loss_cls:2.48556	 Train_loss_decouple_ml:0.43970
+ Train top-1 accuracy: [0.6642, 0.6648] 
+Test epoch:160	 Test_loss_cls:2.80780	 Test top-1 accuracy:[0.6054, 0.6065, 0.6104]	 Test top-5 accuracy:[0.8775, 0.8762, 0.8787]
+Epoch:161	 lr:0.0022	 Duration:75.220
+ Train_loss:2.92765	 Train_loss_cls:2.48848	 Train_loss_decouple_ml:0.43917
+ Train top-1 accuracy: [0.6643, 0.6639] 
+Test epoch:161	 Test_loss_cls:2.81813	 Test top-1 accuracy:[0.603, 0.6045, 0.606]	 Test top-5 accuracy:[0.8794, 0.8757, 0.8804]
+Epoch:162	 lr:0.0022	 Duration:75.218
+ Train_loss:2.90112	 Train_loss_cls:2.46381	 Train_loss_decouple_ml:0.43731
+ Train top-1 accuracy: [0.6686, 0.6702] 
+Test epoch:162	 Test_loss_cls:2.81069	 Test top-1 accuracy:[0.61, 0.608, 0.612]	 Test top-5 accuracy:[0.8745, 0.8748, 0.8777]
+Epoch:163	 lr:0.0022	 Duration:75.022
+ Train_loss:2.89289	 Train_loss_cls:2.45642	 Train_loss_decouple_ml:0.43646
+ Train top-1 accuracy: [0.6674, 0.6677] 
+Test epoch:163	 Test_loss_cls:2.79117	 Test top-1 accuracy:[0.6051, 0.6091, 0.6092]	 Test top-5 accuracy:[0.8782, 0.8775, 0.8798]
+Epoch:164	 lr:0.0021	 Duration:74.922
+ Train_loss:2.88134	 Train_loss_cls:2.44499	 Train_loss_decouple_ml:0.43634
+ Train top-1 accuracy: [0.6711, 0.671] 
+Test epoch:164	 Test_loss_cls:2.83130	 Test top-1 accuracy:[0.6002, 0.6027, 0.6063]	 Test top-5 accuracy:[0.8754, 0.8774, 0.8793]
+Epoch:165	 lr:0.0021	 Duration:75.032
+ Train_loss:2.86800	 Train_loss_cls:2.43607	 Train_loss_decouple_ml:0.43193
+ Train top-1 accuracy: [0.6731, 0.6724] 
+Test epoch:165	 Test_loss_cls:2.75887	 Test top-1 accuracy:[0.612, 0.6094, 0.6132]	 Test top-5 accuracy:[0.8808, 0.8822, 0.8838]
+Epoch:166	 lr:0.0021	 Duration:74.987
+ Train_loss:2.86481	 Train_loss_cls:2.43616	 Train_loss_decouple_ml:0.42865
+ Train top-1 accuracy: [0.6705, 0.6691] 
+Test epoch:166	 Test_loss_cls:2.75497	 Test top-1 accuracy:[0.6188, 0.6177, 0.621]	 Test top-5 accuracy:[0.8761, 0.8812, 0.8815]
+Epoch:167	 lr:0.0021	 Duration:75.481
+ Train_loss:2.86215	 Train_loss_cls:2.42846	 Train_loss_decouple_ml:0.43369
+ Train top-1 accuracy: [0.6744, 0.6746] 
+Test epoch:167	 Test_loss_cls:2.73685	 Test top-1 accuracy:[0.6146, 0.6148, 0.6182]	 Test top-5 accuracy:[0.8815, 0.8848, 0.8842]
+Epoch:168	 lr:0.0020	 Duration:75.281
+ Train_loss:2.85330	 Train_loss_cls:2.42550	 Train_loss_decouple_ml:0.42780
+ Train top-1 accuracy: [0.6731, 0.6721] 
+Test epoch:168	 Test_loss_cls:2.73025	 Test top-1 accuracy:[0.6178, 0.6111, 0.6152]	 Test top-5 accuracy:[0.8845, 0.8854, 0.8859]
+Epoch:169	 lr:0.0020	 Duration:74.487
+ Train_loss:2.83417	 Train_loss_cls:2.40370	 Train_loss_decouple_ml:0.43047
+ Train top-1 accuracy: [0.6771, 0.6768] 
+Test epoch:169	 Test_loss_cls:2.76345	 Test top-1 accuracy:[0.6142, 0.6106, 0.6161]	 Test top-5 accuracy:[0.8799, 0.8761, 0.8806]
+Epoch:170	 lr:0.0020	 Duration:74.118
+ Train_loss:2.83298	 Train_loss_cls:2.40625	 Train_loss_decouple_ml:0.42672
+ Train top-1 accuracy: [0.6751, 0.6739] 
+Test epoch:170	 Test_loss_cls:2.73999	 Test top-1 accuracy:[0.6149, 0.6159, 0.6181]	 Test top-5 accuracy:[0.8827, 0.881, 0.8828]
+Epoch:171	 lr:0.0020	 Duration:74.473
+ Train_loss:2.80866	 Train_loss_cls:2.38132	 Train_loss_decouple_ml:0.42734
+ Train top-1 accuracy: [0.6792, 0.6789] 
+Test epoch:171	 Test_loss_cls:2.74373	 Test top-1 accuracy:[0.6142, 0.619, 0.6191]	 Test top-5 accuracy:[0.8815, 0.8813, 0.8841]
+Epoch:172	 lr:0.0019	 Duration:74.424
+ Train_loss:2.82082	 Train_loss_cls:2.39431	 Train_loss_decouple_ml:0.42651
+ Train top-1 accuracy: [0.6772, 0.6783] 
+Test epoch:172	 Test_loss_cls:2.76169	 Test top-1 accuracy:[0.6058, 0.6147, 0.6131]	 Test top-5 accuracy:[0.8793, 0.8817, 0.884]
+Epoch:173	 lr:0.0019	 Duration:74.586
+ Train_loss:2.81349	 Train_loss_cls:2.39103	 Train_loss_decouple_ml:0.42246
+ Train top-1 accuracy: [0.6769, 0.6787] 
+Test epoch:173	 Test_loss_cls:2.70773	 Test top-1 accuracy:[0.6221, 0.6221, 0.624]	 Test top-5 accuracy:[0.8822, 0.8865, 0.8864]
+Epoch:174	 lr:0.0019	 Duration:75.080
+ Train_loss:2.77285	 Train_loss_cls:2.35128	 Train_loss_decouple_ml:0.42157
+ Train top-1 accuracy: [0.6828, 0.6814] 
+Test epoch:174	 Test_loss_cls:2.72532	 Test top-1 accuracy:[0.6192, 0.6181, 0.6219]	 Test top-5 accuracy:[0.8843, 0.882, 0.8845]
+Epoch:175	 lr:0.0019	 Duration:75.394
+ Train_loss:2.81574	 Train_loss_cls:2.39034	 Train_loss_decouple_ml:0.42540
+ Train top-1 accuracy: [0.6779, 0.6781] 
+Test epoch:175	 Test_loss_cls:2.72666	 Test top-1 accuracy:[0.6154, 0.6184, 0.6187]	 Test top-5 accuracy:[0.8817, 0.8825, 0.8839]
+Epoch:176	 lr:0.0018	 Duration:74.937
+ Train_loss:2.78276	 Train_loss_cls:2.37149	 Train_loss_decouple_ml:0.41126
+ Train top-1 accuracy: [0.6793, 0.6783] 
+Test epoch:176	 Test_loss_cls:2.73154	 Test top-1 accuracy:[0.6196, 0.6138, 0.6189]	 Test top-5 accuracy:[0.8819, 0.8813, 0.884]
+Epoch:177	 lr:0.0018	 Duration:75.191
+ Train_loss:2.75991	 Train_loss_cls:2.34312	 Train_loss_decouple_ml:0.41679
+ Train top-1 accuracy: [0.6856, 0.6837] 
+Test epoch:177	 Test_loss_cls:2.70174	 Test top-1 accuracy:[0.6212, 0.6231, 0.6274]	 Test top-5 accuracy:[0.8861, 0.8862, 0.8863]
+Epoch:178	 lr:0.0018	 Duration:75.157
+ Train_loss:2.76902	 Train_loss_cls:2.35268	 Train_loss_decouple_ml:0.41634
+ Train top-1 accuracy: [0.6825, 0.6818] 
+Test epoch:178	 Test_loss_cls:2.71089	 Test top-1 accuracy:[0.6175, 0.6164, 0.6208]	 Test top-5 accuracy:[0.8854, 0.8817, 0.885]
+Epoch:179	 lr:0.0018	 Duration:75.099
+ Train_loss:2.75333	 Train_loss_cls:2.34051	 Train_loss_decouple_ml:0.41282
+ Train top-1 accuracy: [0.6843, 0.6846] 
+Test epoch:179	 Test_loss_cls:2.70761	 Test top-1 accuracy:[0.6193, 0.62, 0.6197]	 Test top-5 accuracy:[0.8833, 0.885, 0.8874]
+Epoch:180	 lr:0.0017	 Duration:74.768
+ Train_loss:2.73501	 Train_loss_cls:2.32534	 Train_loss_decouple_ml:0.40968
+ Train top-1 accuracy: [0.6846, 0.6858] 
+Test epoch:180	 Test_loss_cls:2.67651	 Test top-1 accuracy:[0.6199, 0.6219, 0.6248]	 Test top-5 accuracy:[0.8867, 0.887, 0.8878]
+Epoch:181	 lr:0.0017	 Duration:74.893
+ Train_loss:2.74746	 Train_loss_cls:2.33798	 Train_loss_decouple_ml:0.40948
+ Train top-1 accuracy: [0.6841, 0.6842] 
+Test epoch:181	 Test_loss_cls:2.70423	 Test top-1 accuracy:[0.6189, 0.6176, 0.624]	 Test top-5 accuracy:[0.8861, 0.8823, 0.8848]
+Epoch:182	 lr:0.0017	 Duration:74.777
+ Train_loss:2.72806	 Train_loss_cls:2.32016	 Train_loss_decouple_ml:0.40790
+ Train top-1 accuracy: [0.6871, 0.6874] 
+Test epoch:182	 Test_loss_cls:2.68798	 Test top-1 accuracy:[0.6219, 0.6257, 0.6258]	 Test top-5 accuracy:[0.8868, 0.8858, 0.8876]
+Epoch:183	 lr:0.0017	 Duration:75.049
+ Train_loss:2.69466	 Train_loss_cls:2.28705	 Train_loss_decouple_ml:0.40762
+ Train top-1 accuracy: [0.6913, 0.6906] 
+Test epoch:183	 Test_loss_cls:2.65621	 Test top-1 accuracy:[0.626, 0.6249, 0.6287]	 Test top-5 accuracy:[0.885, 0.8856, 0.8863]
+Epoch:184	 lr:0.0016	 Duration:75.092
+ Train_loss:2.70288	 Train_loss_cls:2.29908	 Train_loss_decouple_ml:0.40380
+ Train top-1 accuracy: [0.691, 0.6901] 
+Test epoch:184	 Test_loss_cls:2.65313	 Test top-1 accuracy:[0.6253, 0.6244, 0.6272]	 Test top-5 accuracy:[0.8883, 0.8864, 0.8877]
+Epoch:185	 lr:0.0016	 Duration:74.936
+ Train_loss:2.69970	 Train_loss_cls:2.29297	 Train_loss_decouple_ml:0.40673
+ Train top-1 accuracy: [0.6907, 0.6921] 
+Test epoch:185	 Test_loss_cls:2.65976	 Test top-1 accuracy:[0.6226, 0.6255, 0.6292]	 Test top-5 accuracy:[0.8861, 0.8867, 0.8878]
+Epoch:186	 lr:0.0016	 Duration:74.152
+ Train_loss:2.66094	 Train_loss_cls:2.25794	 Train_loss_decouple_ml:0.40299
+ Train top-1 accuracy: [0.6945, 0.6958] 
+Test epoch:186	 Test_loss_cls:2.68605	 Test top-1 accuracy:[0.6248, 0.6223, 0.6271]	 Test top-5 accuracy:[0.8851, 0.884, 0.8865]
+Epoch:187	 lr:0.0016	 Duration:74.180
+ Train_loss:2.69155	 Train_loss_cls:2.28945	 Train_loss_decouple_ml:0.40210
+ Train top-1 accuracy: [0.6896, 0.6897] 
+Test epoch:187	 Test_loss_cls:2.66016	 Test top-1 accuracy:[0.6266, 0.6258, 0.6294]	 Test top-5 accuracy:[0.886, 0.8872, 0.889]
+Epoch:188	 lr:0.0015	 Duration:74.305
+ Train_loss:2.65151	 Train_loss_cls:2.25128	 Train_loss_decouple_ml:0.40023
+ Train top-1 accuracy: [0.6956, 0.6948] 
+Test epoch:188	 Test_loss_cls:2.65327	 Test top-1 accuracy:[0.6261, 0.628, 0.63]	 Test top-5 accuracy:[0.8856, 0.889, 0.8878]
+Epoch:189	 lr:0.0015	 Duration:74.254
+ Train_loss:2.64949	 Train_loss_cls:2.25406	 Train_loss_decouple_ml:0.39543
+ Train top-1 accuracy: [0.6967, 0.6958] 
+Test epoch:189	 Test_loss_cls:2.66747	 Test top-1 accuracy:[0.6253, 0.6252, 0.628]	 Test top-5 accuracy:[0.8878, 0.8851, 0.8885]
+Epoch:190	 lr:0.0015	 Duration:74.944
+ Train_loss:2.64935	 Train_loss_cls:2.25135	 Train_loss_decouple_ml:0.39800
+ Train top-1 accuracy: [0.6947, 0.6951] 
+Test epoch:190	 Test_loss_cls:2.66482	 Test top-1 accuracy:[0.6216, 0.6273, 0.6288]	 Test top-5 accuracy:[0.8871, 0.8888, 0.891]
+Epoch:191	 lr:0.0015	 Duration:75.109
+ Train_loss:2.65830	 Train_loss_cls:2.25915	 Train_loss_decouple_ml:0.39915
+ Train top-1 accuracy: [0.6941, 0.6939] 
+Test epoch:191	 Test_loss_cls:2.62823	 Test top-1 accuracy:[0.6332, 0.6322, 0.6342]	 Test top-5 accuracy:[0.8896, 0.8869, 0.8902]
+Epoch:192	 lr:0.0014	 Duration:74.877
+ Train_loss:2.63790	 Train_loss_cls:2.24368	 Train_loss_decouple_ml:0.39422
+ Train top-1 accuracy: [0.6945, 0.696] 
+Test epoch:192	 Test_loss_cls:2.62801	 Test top-1 accuracy:[0.6298, 0.6285, 0.6324]	 Test top-5 accuracy:[0.8894, 0.8852, 0.8884]
+Epoch:193	 lr:0.0014	 Duration:74.802
+ Train_loss:2.60363	 Train_loss_cls:2.21034	 Train_loss_decouple_ml:0.39328
+ Train top-1 accuracy: [0.7019, 0.7014] 
+Test epoch:193	 Test_loss_cls:2.64243	 Test top-1 accuracy:[0.6242, 0.6278, 0.6277]	 Test top-5 accuracy:[0.8889, 0.8883, 0.8911]
+Epoch:194	 lr:0.0014	 Duration:75.088
+ Train_loss:2.62676	 Train_loss_cls:2.23355	 Train_loss_decouple_ml:0.39321
+ Train top-1 accuracy: [0.6975, 0.6968] 
+Test epoch:194	 Test_loss_cls:2.63284	 Test top-1 accuracy:[0.6288, 0.6322, 0.6343]	 Test top-5 accuracy:[0.8885, 0.8899, 0.8908]
+Epoch:195	 lr:0.0014	 Duration:75.296
+ Train_loss:2.61443	 Train_loss_cls:2.22226	 Train_loss_decouple_ml:0.39217
+ Train top-1 accuracy: [0.6994, 0.6995] 
+Test epoch:195	 Test_loss_cls:2.62620	 Test top-1 accuracy:[0.6286, 0.6321, 0.6332]	 Test top-5 accuracy:[0.8897, 0.8918, 0.8924]
+Epoch:196	 lr:0.0013	 Duration:74.917
+ Train_loss:2.60002	 Train_loss_cls:2.21046	 Train_loss_decouple_ml:0.38956
+ Train top-1 accuracy: [0.6997, 0.7004] 
+Test epoch:196	 Test_loss_cls:2.65006	 Test top-1 accuracy:[0.6284, 0.6263, 0.6301]	 Test top-5 accuracy:[0.8871, 0.8883, 0.8884]
+Epoch:197	 lr:0.0013	 Duration:74.825
+ Train_loss:2.59553	 Train_loss_cls:2.20953	 Train_loss_decouple_ml:0.38600
+ Train top-1 accuracy: [0.7004, 0.7024] 
+Test epoch:197	 Test_loss_cls:2.61990	 Test top-1 accuracy:[0.6291, 0.6362, 0.6345]	 Test top-5 accuracy:[0.8892, 0.8925, 0.8925]
+Epoch:198	 lr:0.0013	 Duration:75.067
+ Train_loss:2.58971	 Train_loss_cls:2.20056	 Train_loss_decouple_ml:0.38915
+ Train top-1 accuracy: [0.7027, 0.7024] 
+Test epoch:198	 Test_loss_cls:2.62897	 Test top-1 accuracy:[0.6296, 0.629, 0.6334]	 Test top-5 accuracy:[0.8903, 0.8927, 0.8937]
+Epoch:199	 lr:0.0013	 Duration:75.094
+ Train_loss:2.54628	 Train_loss_cls:2.16333	 Train_loss_decouple_ml:0.38295
+ Train top-1 accuracy: [0.7073, 0.7077] 
+Test epoch:199	 Test_loss_cls:2.62454	 Test top-1 accuracy:[0.628, 0.632, 0.6344]	 Test top-5 accuracy:[0.8863, 0.892, 0.8922]
+Epoch:200	 lr:0.0012	 Duration:74.956
+ Train_loss:2.57368	 Train_loss_cls:2.18898	 Train_loss_decouple_ml:0.38471
+ Train top-1 accuracy: [0.7025, 0.7027] 
+Test epoch:200	 Test_loss_cls:2.63040	 Test top-1 accuracy:[0.6264, 0.6304, 0.6313]	 Test top-5 accuracy:[0.8912, 0.89, 0.8915]
+Epoch:201	 lr:0.0012	 Duration:75.396
+ Train_loss:2.56151	 Train_loss_cls:2.17869	 Train_loss_decouple_ml:0.38282
+ Train top-1 accuracy: [0.7049, 0.7043] 
+Test epoch:201	 Test_loss_cls:2.59911	 Test top-1 accuracy:[0.6344, 0.6329, 0.6347]	 Test top-5 accuracy:[0.8894, 0.8894, 0.8912]
+Epoch:202	 lr:0.0012	 Duration:74.337
+ Train_loss:2.55502	 Train_loss_cls:2.17451	 Train_loss_decouple_ml:0.38051
+ Train top-1 accuracy: [0.7044, 0.7046] 
+Test epoch:202	 Test_loss_cls:2.61251	 Test top-1 accuracy:[0.6274, 0.6336, 0.6295]	 Test top-5 accuracy:[0.8893, 0.891, 0.8926]
+Epoch:203	 lr:0.0012	 Duration:74.260
+ Train_loss:2.55814	 Train_loss_cls:2.18113	 Train_loss_decouple_ml:0.37701
+ Train top-1 accuracy: [0.7035, 0.7046] 
+Test epoch:203	 Test_loss_cls:2.64779	 Test top-1 accuracy:[0.6255, 0.6288, 0.6305]	 Test top-5 accuracy:[0.8896, 0.8892, 0.8902]
+Epoch:204	 lr:0.0012	 Duration:76.482
+ Train_loss:2.53139	 Train_loss_cls:2.15485	 Train_loss_decouple_ml:0.37654
+ Train top-1 accuracy: [0.7073, 0.7068] 
+Test epoch:204	 Test_loss_cls:2.60006	 Test top-1 accuracy:[0.6338, 0.631, 0.6357]	 Test top-5 accuracy:[0.8956, 0.8904, 0.8954]
+Epoch:205	 lr:0.0011	 Duration:74.420
+ Train_loss:2.53042	 Train_loss_cls:2.15399	 Train_loss_decouple_ml:0.37643
+ Train top-1 accuracy: [0.7066, 0.7072] 
+Test epoch:205	 Test_loss_cls:2.57243	 Test top-1 accuracy:[0.6358, 0.6385, 0.6396]	 Test top-5 accuracy:[0.8918, 0.8938, 0.8931]
+Epoch:206	 lr:0.0011	 Duration:74.741
+ Train_loss:2.52884	 Train_loss_cls:2.15430	 Train_loss_decouple_ml:0.37454
+ Train top-1 accuracy: [0.7107, 0.7107] 
+Test epoch:206	 Test_loss_cls:2.59256	 Test top-1 accuracy:[0.6341, 0.6334, 0.636]	 Test top-5 accuracy:[0.8929, 0.8913, 0.8946]
+Epoch:207	 lr:0.0011	 Duration:75.061
+ Train_loss:2.50637	 Train_loss_cls:2.13508	 Train_loss_decouple_ml:0.37129
+ Train top-1 accuracy: [0.7115, 0.7111] 
+Test epoch:207	 Test_loss_cls:2.58132	 Test top-1 accuracy:[0.6336, 0.6368, 0.6392]	 Test top-5 accuracy:[0.8919, 0.8933, 0.8931]
+Epoch:208	 lr:0.0011	 Duration:75.104
+ Train_loss:2.51771	 Train_loss_cls:2.15018	 Train_loss_decouple_ml:0.36753
+ Train top-1 accuracy: [0.7087, 0.7098] 
+Test epoch:208	 Test_loss_cls:2.58487	 Test top-1 accuracy:[0.6365, 0.6381, 0.6409]	 Test top-5 accuracy:[0.8917, 0.8921, 0.8924]
+Epoch:209	 lr:0.0011	 Duration:75.174
+ Train_loss:2.48762	 Train_loss_cls:2.12170	 Train_loss_decouple_ml:0.36592
+ Train top-1 accuracy: [0.7125, 0.7121] 
+Test epoch:209	 Test_loss_cls:2.56153	 Test top-1 accuracy:[0.6382, 0.638, 0.6406]	 Test top-5 accuracy:[0.893, 0.8952, 0.8952]
+Epoch:210	 lr:0.0010	 Duration:74.933
+ Train_loss:2.48477	 Train_loss_cls:2.11791	 Train_loss_decouple_ml:0.36686
+ Train top-1 accuracy: [0.7144, 0.7127] 
+Test epoch:210	 Test_loss_cls:2.56845	 Test top-1 accuracy:[0.636, 0.6373, 0.6388]	 Test top-5 accuracy:[0.8935, 0.893, 0.8941]
+Epoch:211	 lr:0.0010	 Duration:75.185
+ Train_loss:2.48500	 Train_loss_cls:2.11965	 Train_loss_decouple_ml:0.36534
+ Train top-1 accuracy: [0.7125, 0.7134] 
+Test epoch:211	 Test_loss_cls:2.56434	 Test top-1 accuracy:[0.6373, 0.6416, 0.6415]	 Test top-5 accuracy:[0.8931, 0.8934, 0.8937]
+Epoch:212	 lr:0.0010	 Duration:75.090
+ Train_loss:2.48637	 Train_loss_cls:2.12174	 Train_loss_decouple_ml:0.36464
+ Train top-1 accuracy: [0.714, 0.7127] 
+Test epoch:212	 Test_loss_cls:2.56347	 Test top-1 accuracy:[0.6372, 0.6404, 0.6405]	 Test top-5 accuracy:[0.8935, 0.8939, 0.8951]
+Epoch:213	 lr:0.0010	 Duration:75.317
+ Train_loss:2.45899	 Train_loss_cls:2.09836	 Train_loss_decouple_ml:0.36063
+ Train top-1 accuracy: [0.7159, 0.7156] 
+Test epoch:213	 Test_loss_cls:2.58048	 Test top-1 accuracy:[0.6378, 0.6333, 0.6398]	 Test top-5 accuracy:[0.8928, 0.8905, 0.8936]
+Epoch:214	 lr:0.0009	 Duration:74.668
+ Train_loss:2.46965	 Train_loss_cls:2.10979	 Train_loss_decouple_ml:0.35986
+ Train top-1 accuracy: [0.7145, 0.7146] 
+Test epoch:214	 Test_loss_cls:2.56155	 Test top-1 accuracy:[0.6381, 0.6385, 0.641]	 Test top-5 accuracy:[0.8933, 0.8921, 0.894]
+Epoch:215	 lr:0.0009	 Duration:74.906
+ Train_loss:2.44814	 Train_loss_cls:2.09031	 Train_loss_decouple_ml:0.35783
+ Train top-1 accuracy: [0.7152, 0.7149] 
+Test epoch:215	 Test_loss_cls:2.57663	 Test top-1 accuracy:[0.6366, 0.6339, 0.6407]	 Test top-5 accuracy:[0.8931, 0.8921, 0.8936]
+Epoch:216	 lr:0.0009	 Duration:75.079
+ Train_loss:2.44828	 Train_loss_cls:2.09074	 Train_loss_decouple_ml:0.35754
+ Train top-1 accuracy: [0.7131, 0.7131] 
+Test epoch:216	 Test_loss_cls:2.54886	 Test top-1 accuracy:[0.6414, 0.6397, 0.6429]	 Test top-5 accuracy:[0.8927, 0.8946, 0.8948]
+Epoch:217	 lr:0.0009	 Duration:75.091
+ Train_loss:2.45210	 Train_loss_cls:2.09552	 Train_loss_decouple_ml:0.35658
+ Train top-1 accuracy: [0.7163, 0.7166] 
+Test epoch:217	 Test_loss_cls:2.57381	 Test top-1 accuracy:[0.6351, 0.637, 0.6395]	 Test top-5 accuracy:[0.8965, 0.895, 0.8968]
+Epoch:218	 lr:0.0009	 Duration:74.805
+ Train_loss:2.43497	 Train_loss_cls:2.07981	 Train_loss_decouple_ml:0.35515
+ Train top-1 accuracy: [0.7173, 0.7174] 
+Test epoch:218	 Test_loss_cls:2.55938	 Test top-1 accuracy:[0.64, 0.6392, 0.6401]	 Test top-5 accuracy:[0.8943, 0.8937, 0.895]
+Epoch:219	 lr:0.0008	 Duration:74.504
+ Train_loss:2.43114	 Train_loss_cls:2.07674	 Train_loss_decouple_ml:0.35440
+ Train top-1 accuracy: [0.7172, 0.7175] 
+Test epoch:219	 Test_loss_cls:2.56659	 Test top-1 accuracy:[0.6387, 0.6372, 0.642]	 Test top-5 accuracy:[0.8934, 0.8925, 0.8928]
+Epoch:220	 lr:0.0008	 Duration:74.614
+ Train_loss:2.41753	 Train_loss_cls:2.06641	 Train_loss_decouple_ml:0.35112
+ Train top-1 accuracy: [0.719, 0.7198] 
+Test epoch:220	 Test_loss_cls:2.54318	 Test top-1 accuracy:[0.6389, 0.6424, 0.6433]	 Test top-5 accuracy:[0.8955, 0.8946, 0.8955]
+Epoch:221	 lr:0.0008	 Duration:74.166
+ Train_loss:2.41473	 Train_loss_cls:2.06537	 Train_loss_decouple_ml:0.34936
+ Train top-1 accuracy: [0.7178, 0.7189] 
+Test epoch:221	 Test_loss_cls:2.53280	 Test top-1 accuracy:[0.639, 0.643, 0.6451]	 Test top-5 accuracy:[0.8944, 0.8966, 0.8967]
+Epoch:222	 lr:0.0008	 Duration:74.744
+ Train_loss:2.38894	 Train_loss_cls:2.04050	 Train_loss_decouple_ml:0.34844
+ Train top-1 accuracy: [0.7244, 0.724] 
+Test epoch:222	 Test_loss_cls:2.52002	 Test top-1 accuracy:[0.6444, 0.6478, 0.6489]	 Test top-5 accuracy:[0.8963, 0.8958, 0.8978]
+Epoch:223	 lr:0.0008	 Duration:74.777
+ Train_loss:2.40476	 Train_loss_cls:2.05922	 Train_loss_decouple_ml:0.34554
+ Train top-1 accuracy: [0.7196, 0.7199] 
+Test epoch:223	 Test_loss_cls:2.52700	 Test top-1 accuracy:[0.6417, 0.6444, 0.6461]	 Test top-5 accuracy:[0.8968, 0.8961, 0.8987]
+Epoch:224	 lr:0.0008	 Duration:74.998
+ Train_loss:2.40133	 Train_loss_cls:2.05848	 Train_loss_decouple_ml:0.34285
+ Train top-1 accuracy: [0.7223, 0.7212] 
+Test epoch:224	 Test_loss_cls:2.53591	 Test top-1 accuracy:[0.6442, 0.641, 0.6493]	 Test top-5 accuracy:[0.8957, 0.8944, 0.8966]
+Epoch:225	 lr:0.0007	 Duration:75.004
+ Train_loss:2.36642	 Train_loss_cls:2.02459	 Train_loss_decouple_ml:0.34184
+ Train top-1 accuracy: [0.7265, 0.7256] 
+Test epoch:225	 Test_loss_cls:2.52556	 Test top-1 accuracy:[0.6435, 0.643, 0.6451]	 Test top-5 accuracy:[0.8958, 0.8964, 0.8982]
+Epoch:226	 lr:0.0007	 Duration:74.992
+ Train_loss:2.38163	 Train_loss_cls:2.03882	 Train_loss_decouple_ml:0.34280
+ Train top-1 accuracy: [0.7221, 0.722] 
+Test epoch:226	 Test_loss_cls:2.53873	 Test top-1 accuracy:[0.64, 0.6377, 0.6402]	 Test top-5 accuracy:[0.8938, 0.8931, 0.8946]
+Epoch:227	 lr:0.0007	 Duration:75.579
+ Train_loss:2.36997	 Train_loss_cls:2.03031	 Train_loss_decouple_ml:0.33966
+ Train top-1 accuracy: [0.723, 0.7224] 
+Test epoch:227	 Test_loss_cls:2.51692	 Test top-1 accuracy:[0.6445, 0.6425, 0.6477]	 Test top-5 accuracy:[0.8942, 0.8949, 0.8955]
+Epoch:228	 lr:0.0007	 Duration:75.559
+ Train_loss:2.34913	 Train_loss_cls:2.01154	 Train_loss_decouple_ml:0.33760
+ Train top-1 accuracy: [0.7262, 0.7265] 
+Test epoch:228	 Test_loss_cls:2.52602	 Test top-1 accuracy:[0.6426, 0.6415, 0.6433]	 Test top-5 accuracy:[0.8972, 0.8944, 0.8967]
+Epoch:229	 lr:0.0007	 Duration:75.096
+ Train_loss:2.36551	 Train_loss_cls:2.02625	 Train_loss_decouple_ml:0.33926
+ Train top-1 accuracy: [0.7243, 0.7245] 
+Test epoch:229	 Test_loss_cls:2.51552	 Test top-1 accuracy:[0.6466, 0.6433, 0.6494]	 Test top-5 accuracy:[0.8954, 0.894, 0.8974]
+Epoch:230	 lr:0.0006	 Duration:74.925
+ Train_loss:2.34407	 Train_loss_cls:2.00871	 Train_loss_decouple_ml:0.33537
+ Train top-1 accuracy: [0.7273, 0.7289] 
+Test epoch:230	 Test_loss_cls:2.49972	 Test top-1 accuracy:[0.6458, 0.6477, 0.6499]	 Test top-5 accuracy:[0.898, 0.8979, 0.8996]
+Epoch:231	 lr:0.0006	 Duration:74.876
+ Train_loss:2.33331	 Train_loss_cls:2.00001	 Train_loss_decouple_ml:0.33331
+ Train top-1 accuracy: [0.7287, 0.727] 
+Test epoch:231	 Test_loss_cls:2.50166	 Test top-1 accuracy:[0.6458, 0.65, 0.6502]	 Test top-5 accuracy:[0.8979, 0.8968, 0.8969]
+Epoch:232	 lr:0.0006	 Duration:74.993
+ Train_loss:2.33928	 Train_loss_cls:2.00638	 Train_loss_decouple_ml:0.33290
+ Train top-1 accuracy: [0.725, 0.7238] 
+Test epoch:232	 Test_loss_cls:2.48959	 Test top-1 accuracy:[0.6509, 0.6507, 0.6527]	 Test top-5 accuracy:[0.8983, 0.8981, 0.8986]
+Epoch:233	 lr:0.0006	 Duration:75.162
+ Train_loss:2.32563	 Train_loss_cls:1.99579	 Train_loss_decouple_ml:0.32984
+ Train top-1 accuracy: [0.7285, 0.7274] 
+Test epoch:233	 Test_loss_cls:2.50558	 Test top-1 accuracy:[0.6454, 0.6461, 0.6483]	 Test top-5 accuracy:[0.8956, 0.8973, 0.8969]
+Epoch:234	 lr:0.0006	 Duration:75.148
+ Train_loss:2.30566	 Train_loss_cls:1.97680	 Train_loss_decouple_ml:0.32886
+ Train top-1 accuracy: [0.7293, 0.7295] 
+Test epoch:234	 Test_loss_cls:2.48802	 Test top-1 accuracy:[0.6492, 0.6497, 0.6489]	 Test top-5 accuracy:[0.8977, 0.8993, 0.8993]
+Epoch:235	 lr:0.0006	 Duration:74.499
+ Train_loss:2.30806	 Train_loss_cls:1.98027	 Train_loss_decouple_ml:0.32779
+ Train top-1 accuracy: [0.7304, 0.7284] 
+Test epoch:235	 Test_loss_cls:2.49557	 Test top-1 accuracy:[0.6454, 0.6447, 0.647]	 Test top-5 accuracy:[0.8985, 0.8962, 0.899]
+Epoch:236	 lr:0.0005	 Duration:74.345
+ Train_loss:2.29602	 Train_loss_cls:1.97378	 Train_loss_decouple_ml:0.32224
+ Train top-1 accuracy: [0.7286, 0.7303] 
+Test epoch:236	 Test_loss_cls:2.48994	 Test top-1 accuracy:[0.6498, 0.6475, 0.6485]	 Test top-5 accuracy:[0.8983, 0.8975, 0.8995]
+Epoch:237	 lr:0.0005	 Duration:74.490
+ Train_loss:2.30295	 Train_loss_cls:1.97781	 Train_loss_decouple_ml:0.32514
+ Train top-1 accuracy: [0.7304, 0.731] 
+Test epoch:237	 Test_loss_cls:2.47237	 Test top-1 accuracy:[0.6482, 0.6504, 0.6488]	 Test top-5 accuracy:[0.8988, 0.8977, 0.8992]
+Epoch:238	 lr:0.0005	 Duration:74.386
+ Train_loss:2.30036	 Train_loss_cls:1.97672	 Train_loss_decouple_ml:0.32365
+ Train top-1 accuracy: [0.7297, 0.7293] 
+Test epoch:238	 Test_loss_cls:2.50687	 Test top-1 accuracy:[0.6443, 0.6456, 0.6458]	 Test top-5 accuracy:[0.8987, 0.8974, 0.9006]
+Epoch:239	 lr:0.0005	 Duration:75.163
+ Train_loss:2.31116	 Train_loss_cls:1.98909	 Train_loss_decouple_ml:0.32207
+ Train top-1 accuracy: [0.7305, 0.7306] 
+Test epoch:239	 Test_loss_cls:2.48047	 Test top-1 accuracy:[0.6459, 0.6494, 0.6496]	 Test top-5 accuracy:[0.8998, 0.8981, 0.8998]
+Epoch:240	 lr:0.0005	 Duration:75.078
+ Train_loss:2.28695	 Train_loss_cls:1.96875	 Train_loss_decouple_ml:0.31820
+ Train top-1 accuracy: [0.7316, 0.7319] 
+Test epoch:240	 Test_loss_cls:2.48111	 Test top-1 accuracy:[0.6486, 0.6507, 0.6514]	 Test top-5 accuracy:[0.9002, 0.898, 0.8996]
+Epoch:241	 lr:0.0005	 Duration:75.193
+ Train_loss:2.27583	 Train_loss_cls:1.95563	 Train_loss_decouple_ml:0.32020
+ Train top-1 accuracy: [0.7347, 0.7351] 
+Test epoch:241	 Test_loss_cls:2.47922	 Test top-1 accuracy:[0.6482, 0.6476, 0.6529]	 Test top-5 accuracy:[0.9003, 0.8994, 0.9015]
+Epoch:242	 lr:0.0004	 Duration:75.085
+ Train_loss:2.27653	 Train_loss_cls:1.96145	 Train_loss_decouple_ml:0.31508
+ Train top-1 accuracy: [0.7316, 0.7325] 
+Test epoch:242	 Test_loss_cls:2.49030	 Test top-1 accuracy:[0.6463, 0.6475, 0.6488]	 Test top-5 accuracy:[0.8997, 0.8992, 0.9017]
+Epoch:243	 lr:0.0004	 Duration:75.169
+ Train_loss:2.26629	 Train_loss_cls:1.95082	 Train_loss_decouple_ml:0.31546
+ Train top-1 accuracy: [0.7335, 0.7361] 
+Test epoch:243	 Test_loss_cls:2.47631	 Test top-1 accuracy:[0.6478, 0.6488, 0.6489]	 Test top-5 accuracy:[0.8997, 0.8981, 0.8999]
+Epoch:244	 lr:0.0004	 Duration:75.017
+ Train_loss:2.24843	 Train_loss_cls:1.93438	 Train_loss_decouple_ml:0.31405
+ Train top-1 accuracy: [0.7376, 0.7372] 
+Test epoch:244	 Test_loss_cls:2.47609	 Test top-1 accuracy:[0.6469, 0.6486, 0.6491]	 Test top-5 accuracy:[0.9003, 0.9005, 0.9021]
+Epoch:245	 lr:0.0004	 Duration:75.220
+ Train_loss:2.25454	 Train_loss_cls:1.94350	 Train_loss_decouple_ml:0.31103
+ Train top-1 accuracy: [0.7334, 0.735] 
+Test epoch:245	 Test_loss_cls:2.45680	 Test top-1 accuracy:[0.6526, 0.6529, 0.6521]	 Test top-5 accuracy:[0.8993, 0.8996, 0.9003]
+Epoch:246	 lr:0.0004	 Duration:74.616
+ Train_loss:2.24073	 Train_loss_cls:1.92950	 Train_loss_decouple_ml:0.31123
+ Train top-1 accuracy: [0.7371, 0.7364] 
+Test epoch:246	 Test_loss_cls:2.47105	 Test top-1 accuracy:[0.6499, 0.648, 0.6516]	 Test top-5 accuracy:[0.9006, 0.8988, 0.9011]
+Epoch:247	 lr:0.0004	 Duration:75.029
+ Train_loss:2.25451	 Train_loss_cls:1.94573	 Train_loss_decouple_ml:0.30878
+ Train top-1 accuracy: [0.7336, 0.7324] 
+Test epoch:247	 Test_loss_cls:2.46403	 Test top-1 accuracy:[0.6478, 0.6524, 0.6518]	 Test top-5 accuracy:[0.8988, 0.8989, 0.9011]
+Epoch:248	 lr:0.0004	 Duration:75.039
+ Train_loss:2.23909	 Train_loss_cls:1.93251	 Train_loss_decouple_ml:0.30658
+ Train top-1 accuracy: [0.7367, 0.7372] 
+Test epoch:248	 Test_loss_cls:2.46124	 Test top-1 accuracy:[0.6477, 0.654, 0.654]	 Test top-5 accuracy:[0.9015, 0.8988, 0.9016]
+Epoch:249	 lr:0.0003	 Duration:75.175
+ Train_loss:2.23906	 Train_loss_cls:1.93255	 Train_loss_decouple_ml:0.30650
+ Train top-1 accuracy: [0.7356, 0.7353] 
+Test epoch:249	 Test_loss_cls:2.45754	 Test top-1 accuracy:[0.6472, 0.6522, 0.6511]	 Test top-5 accuracy:[0.899, 0.9011, 0.8999]
+Epoch:250	 lr:0.0003	 Duration:75.183
+ Train_loss:2.24589	 Train_loss_cls:1.93815	 Train_loss_decouple_ml:0.30773
+ Train top-1 accuracy: [0.7376, 0.7379] 
+Test epoch:250	 Test_loss_cls:2.46279	 Test top-1 accuracy:[0.6527, 0.6511, 0.6528]	 Test top-5 accuracy:[0.8992, 0.9, 0.8997]
+Epoch:251	 lr:0.0003	 Duration:75.027
+ Train_loss:2.24464	 Train_loss_cls:1.94055	 Train_loss_decouple_ml:0.30409
+ Train top-1 accuracy: [0.7352, 0.7351] 
+Test epoch:251	 Test_loss_cls:2.45451	 Test top-1 accuracy:[0.651, 0.6499, 0.6541]	 Test top-5 accuracy:[0.8996, 0.9003, 0.9011]
+Epoch:252	 lr:0.0003	 Duration:74.293
+ Train_loss:2.23954	 Train_loss_cls:1.93787	 Train_loss_decouple_ml:0.30167
+ Train top-1 accuracy: [0.7345, 0.7345] 
+Test epoch:252	 Test_loss_cls:2.45540	 Test top-1 accuracy:[0.6538, 0.6505, 0.6531]	 Test top-5 accuracy:[0.899, 0.8977, 0.8996]
+Epoch:253	 lr:0.0003	 Duration:74.247
+ Train_loss:2.21402	 Train_loss_cls:1.91474	 Train_loss_decouple_ml:0.29927
+ Train top-1 accuracy: [0.7369, 0.7384] 
+Test epoch:253	 Test_loss_cls:2.45182	 Test top-1 accuracy:[0.6505, 0.6529, 0.6538]	 Test top-5 accuracy:[0.9004, 0.9004, 0.9018]
+Epoch:254	 lr:0.0003	 Duration:74.350
+ Train_loss:2.21376	 Train_loss_cls:1.91513	 Train_loss_decouple_ml:0.29863
+ Train top-1 accuracy: [0.7386, 0.7382] 
+Test epoch:254	 Test_loss_cls:2.46037	 Test top-1 accuracy:[0.653, 0.6514, 0.6548]	 Test top-5 accuracy:[0.9002, 0.8996, 0.9006]
+Epoch:255	 lr:0.0003	 Duration:74.573
+ Train_loss:2.20806	 Train_loss_cls:1.91087	 Train_loss_decouple_ml:0.29719
+ Train top-1 accuracy: [0.7396, 0.7385] 
+Test epoch:255	 Test_loss_cls:2.45651	 Test top-1 accuracy:[0.6531, 0.6531, 0.6541]	 Test top-5 accuracy:[0.9023, 0.9008, 0.9024]
+Epoch:256	 lr:0.0003	 Duration:74.855
+ Train_loss:2.20240	 Train_loss_cls:1.90594	 Train_loss_decouple_ml:0.29646
+ Train top-1 accuracy: [0.7387, 0.7391] 
+Test epoch:256	 Test_loss_cls:2.45987	 Test top-1 accuracy:[0.651, 0.6525, 0.6545]	 Test top-5 accuracy:[0.8998, 0.8995, 0.9009]
+Epoch:257	 lr:0.0002	 Duration:75.287
+ Train_loss:2.21347	 Train_loss_cls:1.91832	 Train_loss_decouple_ml:0.29515
+ Train top-1 accuracy: [0.7391, 0.7386] 
+Test epoch:257	 Test_loss_cls:2.45700	 Test top-1 accuracy:[0.6508, 0.6537, 0.6522]	 Test top-5 accuracy:[0.9019, 0.8987, 0.902]
+Epoch:258	 lr:0.0002	 Duration:75.189
+ Train_loss:2.20363	 Train_loss_cls:1.90894	 Train_loss_decouple_ml:0.29469
+ Train top-1 accuracy: [0.7388, 0.7395] 
+Test epoch:258	 Test_loss_cls:2.44555	 Test top-1 accuracy:[0.6515, 0.6525, 0.6531]	 Test top-5 accuracy:[0.9008, 0.9008, 0.9016]
+Epoch:259	 lr:0.0002	 Duration:75.076
+ Train_loss:2.19066	 Train_loss_cls:1.89998	 Train_loss_decouple_ml:0.29068
+ Train top-1 accuracy: [0.7396, 0.7388] 
+Test epoch:259	 Test_loss_cls:2.44694	 Test top-1 accuracy:[0.6522, 0.6526, 0.6536]	 Test top-5 accuracy:[0.9004, 0.8999, 0.9]
+Epoch:260	 lr:0.0002	 Duration:74.962
+ Train_loss:2.17972	 Train_loss_cls:1.88955	 Train_loss_decouple_ml:0.29017
+ Train top-1 accuracy: [0.7397, 0.7397] 
+Test epoch:260	 Test_loss_cls:2.45214	 Test top-1 accuracy:[0.6511, 0.6517, 0.6535]	 Test top-5 accuracy:[0.9013, 0.8982, 0.8995]
+Epoch:261	 lr:0.0002	 Duration:75.112
+ Train_loss:2.15446	 Train_loss_cls:1.86455	 Train_loss_decouple_ml:0.28991
+ Train top-1 accuracy: [0.7438, 0.7448] 
+Test epoch:261	 Test_loss_cls:2.45269	 Test top-1 accuracy:[0.6533, 0.6529, 0.6532]	 Test top-5 accuracy:[0.9015, 0.8988, 0.901]
+Epoch:262	 lr:0.0002	 Duration:75.082
+ Train_loss:2.20123	 Train_loss_cls:1.90992	 Train_loss_decouple_ml:0.29131
+ Train top-1 accuracy: [0.7399, 0.7394] 
+Test epoch:262	 Test_loss_cls:2.44331	 Test top-1 accuracy:[0.6492, 0.6489, 0.6532]	 Test top-5 accuracy:[0.9006, 0.9004, 0.9002]
+Epoch:263	 lr:0.0002	 Duration:74.848
+ Train_loss:2.17744	 Train_loss_cls:1.88891	 Train_loss_decouple_ml:0.28853
+ Train top-1 accuracy: [0.7397, 0.7395] 
+Test epoch:263	 Test_loss_cls:2.44129	 Test top-1 accuracy:[0.6525, 0.6536, 0.6551]	 Test top-5 accuracy:[0.901, 0.9002, 0.9011]
+Epoch:264	 lr:0.0002	 Duration:74.756
+ Train_loss:2.16182	 Train_loss_cls:1.87368	 Train_loss_decouple_ml:0.28814
+ Train top-1 accuracy: [0.7417, 0.7422] 
+Test epoch:264	 Test_loss_cls:2.44611	 Test top-1 accuracy:[0.6529, 0.6528, 0.6563]	 Test top-5 accuracy:[0.9002, 0.8986, 0.9009]
+Epoch:265	 lr:0.0002	 Duration:75.057
+ Train_loss:2.16746	 Train_loss_cls:1.88207	 Train_loss_decouple_ml:0.28539
+ Train top-1 accuracy: [0.7422, 0.7416] 
+Test epoch:265	 Test_loss_cls:2.44500	 Test top-1 accuracy:[0.654, 0.6538, 0.6563]	 Test top-5 accuracy:[0.9011, 0.9006, 0.9013]
+Epoch:266	 lr:0.0002	 Duration:75.444
+ Train_loss:2.16433	 Train_loss_cls:1.87850	 Train_loss_decouple_ml:0.28584
+ Train top-1 accuracy: [0.7435, 0.7427] 
+Test epoch:266	 Test_loss_cls:2.44923	 Test top-1 accuracy:[0.6523, 0.6526, 0.6565]	 Test top-5 accuracy:[0.901, 0.8989, 0.9006]
+Epoch:267	 lr:0.0001	 Duration:75.125
+ Train_loss:2.15129	 Train_loss_cls:1.86611	 Train_loss_decouple_ml:0.28518
+ Train top-1 accuracy: [0.744, 0.7436] 
+Test epoch:267	 Test_loss_cls:2.44343	 Test top-1 accuracy:[0.6508, 0.6554, 0.6547]	 Test top-5 accuracy:[0.9009, 0.8996, 0.9007]
+Epoch:268	 lr:0.0001	 Duration:74.485
+ Train_loss:2.15105	 Train_loss_cls:1.86944	 Train_loss_decouple_ml:0.28161
+ Train top-1 accuracy: [0.7442, 0.7445] 
+Test epoch:268	 Test_loss_cls:2.44217	 Test top-1 accuracy:[0.6515, 0.6549, 0.6542]	 Test top-5 accuracy:[0.9015, 0.9001, 0.9022]
+Epoch:269	 lr:0.0001	 Duration:81.289
+ Train_loss:2.15745	 Train_loss_cls:1.87510	 Train_loss_decouple_ml:0.28235
+ Train top-1 accuracy: [0.7421, 0.744] 
+Test epoch:269	 Test_loss_cls:2.44065	 Test top-1 accuracy:[0.6508, 0.6533, 0.6538]	 Test top-5 accuracy:[0.9019, 0.9021, 0.9018]
+Epoch:270	 lr:0.0001	 Duration:96.388
+ Train_loss:2.14104	 Train_loss_cls:1.86161	 Train_loss_decouple_ml:0.27943
+ Train top-1 accuracy: [0.744, 0.7438] 
+Test epoch:270	 Test_loss_cls:2.44000	 Test top-1 accuracy:[0.6516, 0.6553, 0.6536]	 Test top-5 accuracy:[0.9002, 0.9, 0.9006]
+Epoch:271	 lr:0.0001	 Duration:95.221
+ Train_loss:2.15218	 Train_loss_cls:1.87333	 Train_loss_decouple_ml:0.27885
+ Train top-1 accuracy: [0.7436, 0.7442] 
+Test epoch:271	 Test_loss_cls:2.43927	 Test top-1 accuracy:[0.6523, 0.6524, 0.6543]	 Test top-5 accuracy:[0.9016, 0.9006, 0.9009]
+Epoch:272	 lr:0.0001	 Duration:95.409
+ Train_loss:2.12814	 Train_loss_cls:1.84880	 Train_loss_decouple_ml:0.27934
+ Train top-1 accuracy: [0.747, 0.7472] 
+Test epoch:272	 Test_loss_cls:2.43677	 Test top-1 accuracy:[0.6543, 0.6536, 0.6559]	 Test top-5 accuracy:[0.9016, 0.9009, 0.9015]
+Epoch:273	 lr:0.0001	 Duration:95.286
+ Train_loss:2.13659	 Train_loss_cls:1.85834	 Train_loss_decouple_ml:0.27825
+ Train top-1 accuracy: [0.7458, 0.7456] 
+Test epoch:273	 Test_loss_cls:2.43646	 Test top-1 accuracy:[0.6521, 0.6535, 0.6555]	 Test top-5 accuracy:[0.9024, 0.9006, 0.9016]
+Epoch:274	 lr:0.0001	 Duration:94.593
+ Train_loss:2.13735	 Train_loss_cls:1.86198	 Train_loss_decouple_ml:0.27536
+ Train top-1 accuracy: [0.7462, 0.7467] 
+Test epoch:274	 Test_loss_cls:2.44680	 Test top-1 accuracy:[0.6514, 0.6519, 0.6544]	 Test top-5 accuracy:[0.9012, 0.9, 0.9016]
+Epoch:275	 lr:0.0001	 Duration:95.896
+ Train_loss:2.13580	 Train_loss_cls:1.86023	 Train_loss_decouple_ml:0.27556
+ Train top-1 accuracy: [0.7441, 0.7438] 
+Test epoch:275	 Test_loss_cls:2.43696	 Test top-1 accuracy:[0.6539, 0.6523, 0.6562]	 Test top-5 accuracy:[0.9014, 0.9003, 0.9009]
+Epoch:276	 lr:0.0001	 Duration:96.204
+ Train_loss:2.14259	 Train_loss_cls:1.86867	 Train_loss_decouple_ml:0.27392
+ Train top-1 accuracy: [0.7431, 0.7439] 
+Test epoch:276	 Test_loss_cls:2.43068	 Test top-1 accuracy:[0.6548, 0.6525, 0.6562]	 Test top-5 accuracy:[0.9021, 0.9018, 0.9022]
+Epoch:277	 lr:0.0001	 Duration:96.507
+ Train_loss:2.12382	 Train_loss_cls:1.85000	 Train_loss_decouple_ml:0.27382
+ Train top-1 accuracy: [0.746, 0.7448] 
+Test epoch:277	 Test_loss_cls:2.43424	 Test top-1 accuracy:[0.6546, 0.6531, 0.6563]	 Test top-5 accuracy:[0.9023, 0.9022, 0.9034]
+Epoch:278	 lr:0.0001	 Duration:96.365
+ Train_loss:2.14767	 Train_loss_cls:1.87298	 Train_loss_decouple_ml:0.27469
+ Train top-1 accuracy: [0.7437, 0.743] 
+Test epoch:278	 Test_loss_cls:2.43216	 Test top-1 accuracy:[0.655, 0.6536, 0.6555]	 Test top-5 accuracy:[0.9006, 0.9009, 0.9018]
+Epoch:279	 lr:0.0001	 Duration:96.450
+ Train_loss:2.14568	 Train_loss_cls:1.87365	 Train_loss_decouple_ml:0.27204
+ Train top-1 accuracy: [0.7402, 0.7416] 
+Test epoch:279	 Test_loss_cls:2.42984	 Test top-1 accuracy:[0.653, 0.6517, 0.6552]	 Test top-5 accuracy:[0.9021, 0.9028, 0.9029]
+Epoch:280	 lr:0.0001	 Duration:96.781
+ Train_loss:2.10972	 Train_loss_cls:1.83804	 Train_loss_decouple_ml:0.27168
+ Train top-1 accuracy: [0.7488, 0.7482] 
+Test epoch:280	 Test_loss_cls:2.43870	 Test top-1 accuracy:[0.653, 0.6514, 0.6546]	 Test top-5 accuracy:[0.9016, 0.9012, 0.9021]
+Epoch:281	 lr:0.0000	 Duration:97.478
+ Train_loss:2.14135	 Train_loss_cls:1.86829	 Train_loss_decouple_ml:0.27307
+ Train top-1 accuracy: [0.7425, 0.7425] 
+Test epoch:281	 Test_loss_cls:2.43388	 Test top-1 accuracy:[0.6536, 0.653, 0.6549]	 Test top-5 accuracy:[0.9025, 0.9013, 0.9023]
+Epoch:282	 lr:0.0000	 Duration:96.230
+ Train_loss:2.12032	 Train_loss_cls:1.85001	 Train_loss_decouple_ml:0.27031
+ Train top-1 accuracy: [0.7466, 0.7465] 
+Test epoch:282	 Test_loss_cls:2.43677	 Test top-1 accuracy:[0.6543, 0.6548, 0.6569]	 Test top-5 accuracy:[0.901, 0.9002, 0.9018]
+Epoch:283	 lr:0.0000	 Duration:96.245
+ Train_loss:2.13238	 Train_loss_cls:1.86059	 Train_loss_decouple_ml:0.27179
+ Train top-1 accuracy: [0.744, 0.7458] 
+Test epoch:283	 Test_loss_cls:2.43377	 Test top-1 accuracy:[0.6542, 0.6563, 0.6577]	 Test top-5 accuracy:[0.901, 0.901, 0.9014]
+Epoch:284	 lr:0.0000	 Duration:75.821
+ Train_loss:2.12876	 Train_loss_cls:1.85872	 Train_loss_decouple_ml:0.27005
+ Train top-1 accuracy: [0.7457, 0.7457] 
+Test epoch:284	 Test_loss_cls:2.42871	 Test top-1 accuracy:[0.6525, 0.6543, 0.6558]	 Test top-5 accuracy:[0.9029, 0.9027, 0.9032]
+Epoch:285	 lr:0.0000	 Duration:75.849
+ Train_loss:2.11846	 Train_loss_cls:1.84966	 Train_loss_decouple_ml:0.26880
+ Train top-1 accuracy: [0.7447, 0.7465] 
+Test epoch:285	 Test_loss_cls:2.43121	 Test top-1 accuracy:[0.6516, 0.6551, 0.6567]	 Test top-5 accuracy:[0.9025, 0.9018, 0.902]
+Epoch:286	 lr:0.0000	 Duration:76.625
+ Train_loss:2.12239	 Train_loss_cls:1.85418	 Train_loss_decouple_ml:0.26822
+ Train top-1 accuracy: [0.744, 0.7438] 
+Test epoch:286	 Test_loss_cls:2.43766	 Test top-1 accuracy:[0.6531, 0.6543, 0.6556]	 Test top-5 accuracy:[0.9023, 0.9013, 0.9026]
+Epoch:287	 lr:0.0000	 Duration:76.869
+ Train_loss:2.13555	 Train_loss_cls:1.86703	 Train_loss_decouple_ml:0.26852
+ Train top-1 accuracy: [0.7452, 0.7437] 
+Test epoch:287	 Test_loss_cls:2.42486	 Test top-1 accuracy:[0.6527, 0.6539, 0.6572]	 Test top-5 accuracy:[0.9032, 0.9008, 0.9026]
+Epoch:288	 lr:0.0000	 Duration:76.545
+ Train_loss:2.10853	 Train_loss_cls:1.84244	 Train_loss_decouple_ml:0.26608
+ Train top-1 accuracy: [0.7466, 0.7468] 
+Test epoch:288	 Test_loss_cls:2.42897	 Test top-1 accuracy:[0.653, 0.6545, 0.655]	 Test top-5 accuracy:[0.9021, 0.9011, 0.9032]
+Epoch:289	 lr:0.0000	 Duration:76.649
+ Train_loss:2.11612	 Train_loss_cls:1.84978	 Train_loss_decouple_ml:0.26634
+ Train top-1 accuracy: [0.749, 0.7482] 
+Test epoch:289	 Test_loss_cls:2.43352	 Test top-1 accuracy:[0.6513, 0.6548, 0.6547]	 Test top-5 accuracy:[0.9021, 0.9018, 0.9024]
+Epoch:290	 lr:0.0000	 Duration:77.057
+ Train_loss:2.12023	 Train_loss_cls:1.85391	 Train_loss_decouple_ml:0.26632
+ Train top-1 accuracy: [0.7459, 0.745] 
+Test epoch:290	 Test_loss_cls:2.43138	 Test top-1 accuracy:[0.6551, 0.654, 0.6551]	 Test top-5 accuracy:[0.9022, 0.9024, 0.9022]
+Epoch:291	 lr:0.0000	 Duration:77.247
+ Train_loss:2.13267	 Train_loss_cls:1.86720	 Train_loss_decouple_ml:0.26546
+ Train top-1 accuracy: [0.7441, 0.7437] 
+Test epoch:291	 Test_loss_cls:2.43210	 Test top-1 accuracy:[0.6543, 0.6549, 0.6555]	 Test top-5 accuracy:[0.904, 0.9015, 0.9022]
+Epoch:292	 lr:0.0000	 Duration:76.926
+ Train_loss:2.11512	 Train_loss_cls:1.84924	 Train_loss_decouple_ml:0.26588
+ Train top-1 accuracy: [0.7469, 0.7466] 
+Test epoch:292	 Test_loss_cls:2.42949	 Test top-1 accuracy:[0.6546, 0.6567, 0.6573]	 Test top-5 accuracy:[0.9026, 0.9008, 0.9013]
+Epoch:293	 lr:0.0000	 Duration:76.812
+ Train_loss:2.11107	 Train_loss_cls:1.84535	 Train_loss_decouple_ml:0.26572
+ Train top-1 accuracy: [0.7464, 0.748] 
+Test epoch:293	 Test_loss_cls:2.43085	 Test top-1 accuracy:[0.6535, 0.6562, 0.6581]	 Test top-5 accuracy:[0.9033, 0.9021, 0.9019]
+Epoch:294	 lr:0.0000	 Duration:76.864
+ Train_loss:2.11993	 Train_loss_cls:1.85502	 Train_loss_decouple_ml:0.26491
+ Train top-1 accuracy: [0.747, 0.7468] 
+Test epoch:294	 Test_loss_cls:2.43017	 Test top-1 accuracy:[0.6522, 0.6567, 0.6579]	 Test top-5 accuracy:[0.9029, 0.9012, 0.9023]
+Epoch:295	 lr:0.0000	 Duration:76.997
+ Train_loss:2.12624	 Train_loss_cls:1.86189	 Train_loss_decouple_ml:0.26434
+ Train top-1 accuracy: [0.7432, 0.7435] 
+Test epoch:295	 Test_loss_cls:2.43228	 Test top-1 accuracy:[0.6524, 0.657, 0.6552]	 Test top-5 accuracy:[0.9039, 0.9015, 0.9029]
+Epoch:296	 lr:0.0000	 Duration:76.886
+ Train_loss:2.12597	 Train_loss_cls:1.86130	 Train_loss_decouple_ml:0.26468
+ Train top-1 accuracy: [0.7439, 0.7434] 
+Test epoch:296	 Test_loss_cls:2.42936	 Test top-1 accuracy:[0.6543, 0.6548, 0.6563]	 Test top-5 accuracy:[0.9017, 0.9029, 0.9014]
+Epoch:297	 lr:0.0000	 Duration:76.946
+ Train_loss:2.13592	 Train_loss_cls:1.87001	 Train_loss_decouple_ml:0.26591
+ Train top-1 accuracy: [0.7422, 0.742] 
+Test epoch:297	 Test_loss_cls:2.43133	 Test top-1 accuracy:[0.6539, 0.6538, 0.6575]	 Test top-5 accuracy:[0.9027, 0.9021, 0.9027]
+Epoch:298	 lr:0.0000	 Duration:76.537
+ Train_loss:2.11874	 Train_loss_cls:1.85323	 Train_loss_decouple_ml:0.26551
+ Train top-1 accuracy: [0.7461, 0.7461] 
+Test epoch:298	 Test_loss_cls:2.42822	 Test top-1 accuracy:[0.6546, 0.6554, 0.6579]	 Test top-5 accuracy:[0.9027, 0.9028, 0.9022]
+Epoch:299	 lr:0.0000	 Duration:76.878
+ Train_loss:2.13334	 Train_loss_cls:1.86967	 Train_loss_decouple_ml:0.26367
+ Train top-1 accuracy: [0.7431, 0.744] 
+Test epoch:299	 Test_loss_cls:2.43119	 Test top-1 accuracy:[0.653, 0.6539, 0.6561]	 Test top-5 accuracy:[0.9027, 0.9025, 0.9022]
+Test epoch:295	 Test_loss_cls:2.43228	 Test top-1 accuracy:[0.6524, 0.657, 0.6552]	 Test top-5 accuracy:[0.9039, 0.9015, 0.9029]
+Test top-1 best_accuracy: 0.657 
+==========
+Args:Namespace(alpha=1.0, arch='resnet32', batch_size=128, beta=8.0, checkpoint_dir='./checkpoint', data='./data/', dataset='cifar100', epochs=300, evaluate=False, evaluate_checkpoint='./checkpoint/resnet32_best.pth.tar', feat_dim=128, gpu_id='0', init_lr=0.01, kd_T=4.0, logit_distill=True, lr_type='cosine', manual_seed=0, milestones=[150, 225], num_workers=8, number_net=2, resume=False, resume_checkpoint='./checkpoint/resnet32.pth.tar', resume_lr=None, tau=0.1, warmup=20, weight_decay=0.0005)
+==========
+Epoch:0	 lr:0.0100	 Duration:77.608
+ Train_loss:9.42871	 Train_loss_cls:9.20758	 Train_loss_decouple_ml:0.22113
+ Train top-1 accuracy: [0.0134, 0.014] 
+Test epoch:0	 Test_loss_cls:9.08511	 Test top-1 accuracy:[0.0201, 0.0193, 0.0198]	 Test top-5 accuracy:[0.0901, 0.0889, 0.0903]
+Epoch:1	 lr:0.0100	 Duration:71.846
+ Train_loss:8.87934	 Train_loss_cls:8.81273	 Train_loss_decouple_ml:0.06661
+ Train top-1 accuracy: [0.0355, 0.0369] 
+Test epoch:1	 Test_loss_cls:8.36146	 Test top-1 accuracy:[0.0527, 0.0531, 0.054]	 Test top-5 accuracy:[0.2087, 0.2032, 0.208]
+Epoch:2	 lr:0.0100	 Duration:72.190
+ Train_loss:8.35338	 Train_loss_cls:8.20692	 Train_loss_decouple_ml:0.14646
+ Train top-1 accuracy: [0.0624, 0.0648] 
+Test epoch:2	 Test_loss_cls:8.00029	 Test top-1 accuracy:[0.0696, 0.0701, 0.0706]	 Test top-5 accuracy:[0.2594, 0.259, 0.2619]
+Epoch:3	 lr:0.0100	 Duration:72.574
+ Train_loss:8.12541	 Train_loss_cls:7.96546	 Train_loss_decouple_ml:0.15995
+ Train top-1 accuracy: [0.08, 0.0797] 
+Test epoch:3	 Test_loss_cls:7.84853	 Test top-1 accuracy:[0.0885, 0.0913, 0.0906]	 Test top-5 accuracy:[0.2797, 0.281, 0.2803]
+Epoch:4	 lr:0.0100	 Duration:72.488
+ Train_loss:7.96030	 Train_loss_cls:7.79693	 Train_loss_decouple_ml:0.16337
+ Train top-1 accuracy: [0.0937, 0.0939] 
+Test epoch:4	 Test_loss_cls:7.71609	 Test top-1 accuracy:[0.0963, 0.0955, 0.0954]	 Test top-5 accuracy:[0.2986, 0.301, 0.299]
+Epoch:5	 lr:0.0100	 Duration:72.404
+ Train_loss:7.80496	 Train_loss_cls:7.62266	 Train_loss_decouple_ml:0.18230
+ Train top-1 accuracy: [0.1043, 0.1044] 
+Test epoch:5	 Test_loss_cls:7.51823	 Test top-1 accuracy:[0.1132, 0.1097, 0.111]	 Test top-5 accuracy:[0.3439, 0.3407, 0.3429]
+Epoch:6	 lr:0.0100	 Duration:72.933
+ Train_loss:7.67513	 Train_loss_cls:7.46965	 Train_loss_decouple_ml:0.20548
+ Train top-1 accuracy: [0.1209, 0.122] 
+Test epoch:6	 Test_loss_cls:7.34616	 Test top-1 accuracy:[0.13, 0.1268, 0.1297]	 Test top-5 accuracy:[0.3642, 0.369, 0.367]
+Epoch:7	 lr:0.0100	 Duration:71.555
+ Train_loss:7.55109	 Train_loss_cls:7.31560	 Train_loss_decouple_ml:0.23549
+ Train top-1 accuracy: [0.1342, 0.1364] 
+Test epoch:7	 Test_loss_cls:7.20705	 Test top-1 accuracy:[0.1436, 0.142, 0.1456]	 Test top-5 accuracy:[0.3924, 0.3847, 0.3887]
+Epoch:8	 lr:0.0100	 Duration:71.528
+ Train_loss:7.41067	 Train_loss_cls:7.16359	 Train_loss_decouple_ml:0.24708
+ Train top-1 accuracy: [0.1471, 0.1479] 
+Test epoch:8	 Test_loss_cls:7.06756	 Test top-1 accuracy:[0.1572, 0.1594, 0.1586]	 Test top-5 accuracy:[0.4099, 0.414, 0.4135]
+Epoch:9	 lr:0.0100	 Duration:71.604
+ Train_loss:7.31769	 Train_loss_cls:7.05743	 Train_loss_decouple_ml:0.26026
+ Train top-1 accuracy: [0.1591, 0.1596] 
+Test epoch:9	 Test_loss_cls:6.93882	 Test top-1 accuracy:[0.1674, 0.1646, 0.1651]	 Test top-5 accuracy:[0.4308, 0.4275, 0.4302]
+Epoch:10	 lr:0.0100	 Duration:71.372
+ Train_loss:7.22949	 Train_loss_cls:6.95408	 Train_loss_decouple_ml:0.27541
+ Train top-1 accuracy: [0.1673, 0.1671] 
+Test epoch:10	 Test_loss_cls:6.82037	 Test top-1 accuracy:[0.1778, 0.1809, 0.1809]	 Test top-5 accuracy:[0.4438, 0.4462, 0.4451]
+Epoch:11	 lr:0.0100	 Duration:72.213
+ Train_loss:7.13621	 Train_loss_cls:6.84773	 Train_loss_decouple_ml:0.28848
+ Train top-1 accuracy: [0.1781, 0.1778] 
+Test epoch:11	 Test_loss_cls:6.72369	 Test top-1 accuracy:[0.1911, 0.192, 0.1902]	 Test top-5 accuracy:[0.4615, 0.4586, 0.4621]
+Epoch:12	 lr:0.0100	 Duration:71.981
+ Train_loss:7.04264	 Train_loss_cls:6.74526	 Train_loss_decouple_ml:0.29738
+ Train top-1 accuracy: [0.192, 0.1916] 
+Test epoch:12	 Test_loss_cls:6.62929	 Test top-1 accuracy:[0.1962, 0.198, 0.1976]	 Test top-5 accuracy:[0.4694, 0.473, 0.4718]
+Epoch:13	 lr:0.0100	 Duration:72.174
+ Train_loss:6.96247	 Train_loss_cls:6.64830	 Train_loss_decouple_ml:0.31418
+ Train top-1 accuracy: [0.1991, 0.1992] 
+Test epoch:13	 Test_loss_cls:6.54352	 Test top-1 accuracy:[0.2092, 0.2071, 0.2066]	 Test top-5 accuracy:[0.4824, 0.4811, 0.482]
+Epoch:14	 lr:0.0099	 Duration:71.984
+ Train_loss:6.89501	 Train_loss_cls:6.57557	 Train_loss_decouple_ml:0.31945
+ Train top-1 accuracy: [0.2083, 0.2089] 
+Test epoch:14	 Test_loss_cls:6.47475	 Test top-1 accuracy:[0.2143, 0.2141, 0.2163]	 Test top-5 accuracy:[0.4995, 0.4973, 0.4995]
+Epoch:15	 lr:0.0099	 Duration:72.107
+ Train_loss:6.82070	 Train_loss_cls:6.48887	 Train_loss_decouple_ml:0.33183
+ Train top-1 accuracy: [0.2165, 0.2163] 
+Test epoch:15	 Test_loss_cls:6.40430	 Test top-1 accuracy:[0.2174, 0.2187, 0.2193]	 Test top-5 accuracy:[0.507, 0.5014, 0.5051]
+Epoch:16	 lr:0.0099	 Duration:71.972
+ Train_loss:6.73687	 Train_loss_cls:6.40007	 Train_loss_decouple_ml:0.33680
+ Train top-1 accuracy: [0.226, 0.2257] 
+Test epoch:16	 Test_loss_cls:6.28280	 Test top-1 accuracy:[0.2307, 0.2335, 0.2335]	 Test top-5 accuracy:[0.5193, 0.521, 0.5212]
+Epoch:17	 lr:0.0099	 Duration:72.073
+ Train_loss:6.66051	 Train_loss_cls:6.30537	 Train_loss_decouple_ml:0.35514
+ Train top-1 accuracy: [0.2353, 0.2347] 
+Test epoch:17	 Test_loss_cls:6.24197	 Test top-1 accuracy:[0.2413, 0.2346, 0.24]	 Test top-5 accuracy:[0.532, 0.5271, 0.5305]
+Epoch:18	 lr:0.0099	 Duration:71.825
+ Train_loss:6.61764	 Train_loss_cls:6.25852	 Train_loss_decouple_ml:0.35911
+ Train top-1 accuracy: [0.2405, 0.2412] 
+Test epoch:18	 Test_loss_cls:6.12691	 Test top-1 accuracy:[0.2499, 0.2487, 0.2517]	 Test top-5 accuracy:[0.5441, 0.5448, 0.545]
+Epoch:19	 lr:0.0099	 Duration:71.241
+ Train_loss:6.52536	 Train_loss_cls:6.15763	 Train_loss_decouple_ml:0.36774
+ Train top-1 accuracy: [0.245, 0.245] 
+Test epoch:19	 Test_loss_cls:6.03803	 Test top-1 accuracy:[0.2542, 0.2526, 0.2565]	 Test top-5 accuracy:[0.5557, 0.5511, 0.5577]
+Epoch:20	 lr:0.0099	 Duration:71.040
+ Train_loss:6.46411	 Train_loss_cls:6.07663	 Train_loss_decouple_ml:0.38749
+ Train top-1 accuracy: [0.2568, 0.257] 
+Test epoch:20	 Test_loss_cls:5.96997	 Test top-1 accuracy:[0.2617, 0.2619, 0.2631]	 Test top-5 accuracy:[0.5596, 0.5575, 0.5585]
+Epoch:21	 lr:0.0099	 Duration:71.491
+ Train_loss:6.42482	 Train_loss_cls:6.02652	 Train_loss_decouple_ml:0.39830
+ Train top-1 accuracy: [0.266, 0.2648] 
+Test epoch:21	 Test_loss_cls:5.90273	 Test top-1 accuracy:[0.2736, 0.2644, 0.2736]	 Test top-5 accuracy:[0.573, 0.567, 0.5729]
+Epoch:22	 lr:0.0099	 Duration:71.139
+ Train_loss:6.35854	 Train_loss_cls:5.94380	 Train_loss_decouple_ml:0.41474
+ Train top-1 accuracy: [0.2722, 0.2722] 
+Test epoch:22	 Test_loss_cls:5.80779	 Test top-1 accuracy:[0.276, 0.2755, 0.2767]	 Test top-5 accuracy:[0.5827, 0.5831, 0.5854]
+Epoch:23	 lr:0.0099	 Duration:71.301
+ Train_loss:6.28473	 Train_loss_cls:5.85674	 Train_loss_decouple_ml:0.42799
+ Train top-1 accuracy: [0.2779, 0.2781] 
+Test epoch:23	 Test_loss_cls:5.72654	 Test top-1 accuracy:[0.2841, 0.2872, 0.2895]	 Test top-5 accuracy:[0.5942, 0.5938, 0.5951]
+Epoch:24	 lr:0.0098	 Duration:71.781
+ Train_loss:6.23064	 Train_loss_cls:5.77461	 Train_loss_decouple_ml:0.45603
+ Train top-1 accuracy: [0.29, 0.2905] 
+Test epoch:24	 Test_loss_cls:5.67153	 Test top-1 accuracy:[0.2947, 0.2956, 0.2969]	 Test top-5 accuracy:[0.6034, 0.5945, 0.5964]
+Epoch:25	 lr:0.0098	 Duration:70.753
+ Train_loss:6.12394	 Train_loss_cls:5.67100	 Train_loss_decouple_ml:0.45293
+ Train top-1 accuracy: [0.3006, 0.3003] 
+Test epoch:25	 Test_loss_cls:5.55974	 Test top-1 accuracy:[0.3051, 0.3013, 0.3051]	 Test top-5 accuracy:[0.6139, 0.6112, 0.6132]
+Epoch:26	 lr:0.0098	 Duration:70.748
+ Train_loss:6.09151	 Train_loss_cls:5.60965	 Train_loss_decouple_ml:0.48186
+ Train top-1 accuracy: [0.3049, 0.3062] 
+Test epoch:26	 Test_loss_cls:5.52498	 Test top-1 accuracy:[0.3079, 0.3084, 0.3099]	 Test top-5 accuracy:[0.6299, 0.6249, 0.6297]
+Epoch:27	 lr:0.0098	 Duration:71.264
+ Train_loss:5.98747	 Train_loss_cls:5.51607	 Train_loss_decouple_ml:0.47141
+ Train top-1 accuracy: [0.319, 0.3178] 
+Test epoch:27	 Test_loss_cls:5.37826	 Test top-1 accuracy:[0.318, 0.317, 0.3174]	 Test top-5 accuracy:[0.6355, 0.6309, 0.6324]
+Epoch:28	 lr:0.0098	 Duration:71.289
+ Train_loss:5.94133	 Train_loss_cls:5.44301	 Train_loss_decouple_ml:0.49832
+ Train top-1 accuracy: [0.3264, 0.3268] 
+Test epoch:28	 Test_loss_cls:5.31049	 Test top-1 accuracy:[0.3262, 0.3275, 0.3284]	 Test top-5 accuracy:[0.6462, 0.6446, 0.6461]
+Epoch:29	 lr:0.0098	 Duration:71.911
+ Train_loss:5.86893	 Train_loss_cls:5.34930	 Train_loss_decouple_ml:0.51962
+ Train top-1 accuracy: [0.3369, 0.3367] 
+Test epoch:29	 Test_loss_cls:5.24830	 Test top-1 accuracy:[0.3313, 0.3318, 0.3327]	 Test top-5 accuracy:[0.6492, 0.6477, 0.6517]
+Epoch:30	 lr:0.0098	 Duration:71.610
+ Train_loss:5.78634	 Train_loss_cls:5.27129	 Train_loss_decouple_ml:0.51505
+ Train top-1 accuracy: [0.3436, 0.3438] 
+Test epoch:30	 Test_loss_cls:5.13000	 Test top-1 accuracy:[0.3471, 0.3458, 0.3477]	 Test top-5 accuracy:[0.6685, 0.6661, 0.6687]
+Epoch:31	 lr:0.0097	 Duration:71.376
+ Train_loss:5.74640	 Train_loss_cls:5.22098	 Train_loss_decouple_ml:0.52542
+ Train top-1 accuracy: [0.3481, 0.3492] 
+Test epoch:31	 Test_loss_cls:5.06702	 Test top-1 accuracy:[0.3515, 0.352, 0.3534]	 Test top-5 accuracy:[0.6748, 0.6735, 0.677]
+Epoch:32	 lr:0.0097	 Duration:71.353
+ Train_loss:5.65637	 Train_loss_cls:5.11968	 Train_loss_decouple_ml:0.53669
+ Train top-1 accuracy: [0.3608, 0.3616] 
+Test epoch:32	 Test_loss_cls:4.98877	 Test top-1 accuracy:[0.3582, 0.3557, 0.362]	 Test top-5 accuracy:[0.6826, 0.6821, 0.6857]
+Epoch:33	 lr:0.0097	 Duration:71.200
+ Train_loss:5.60902	 Train_loss_cls:5.06220	 Train_loss_decouple_ml:0.54682
+ Train top-1 accuracy: [0.3658, 0.3647] 
+Test epoch:33	 Test_loss_cls:4.89585	 Test top-1 accuracy:[0.3714, 0.3688, 0.3736]	 Test top-5 accuracy:[0.6922, 0.6975, 0.6946]
+Epoch:34	 lr:0.0097	 Duration:71.404
+ Train_loss:5.54416	 Train_loss_cls:4.99031	 Train_loss_decouple_ml:0.55385
+ Train top-1 accuracy: [0.3735, 0.3729] 
+Test epoch:34	 Test_loss_cls:4.87729	 Test top-1 accuracy:[0.3644, 0.3668, 0.367]	 Test top-5 accuracy:[0.6911, 0.6932, 0.6957]
+Epoch:35	 lr:0.0097	 Duration:71.573
+ Train_loss:5.47117	 Train_loss_cls:4.91977	 Train_loss_decouple_ml:0.55140
+ Train top-1 accuracy: [0.3844, 0.385] 
+Test epoch:35	 Test_loss_cls:4.78842	 Test top-1 accuracy:[0.3797, 0.3806, 0.3817]	 Test top-5 accuracy:[0.7031, 0.7028, 0.7056]
+Epoch:36	 lr:0.0096	 Duration:71.255
+ Train_loss:5.40542	 Train_loss_cls:4.83887	 Train_loss_decouple_ml:0.56655
+ Train top-1 accuracy: [0.3917, 0.3931] 
+Test epoch:36	 Test_loss_cls:4.72416	 Test top-1 accuracy:[0.3893, 0.3861, 0.3924]	 Test top-5 accuracy:[0.7108, 0.7096, 0.7109]
+Epoch:37	 lr:0.0096	 Duration:71.389
+ Train_loss:5.35535	 Train_loss_cls:4.79275	 Train_loss_decouple_ml:0.56260
+ Train top-1 accuracy: [0.3966, 0.3967] 
+Test epoch:37	 Test_loss_cls:4.63003	 Test top-1 accuracy:[0.3979, 0.398, 0.4005]	 Test top-5 accuracy:[0.7239, 0.7234, 0.7251]
+Epoch:38	 lr:0.0096	 Duration:71.563
+ Train_loss:5.30300	 Train_loss_cls:4.73170	 Train_loss_decouple_ml:0.57130
+ Train top-1 accuracy: [0.4027, 0.4012] 
+Test epoch:38	 Test_loss_cls:4.64244	 Test top-1 accuracy:[0.3945, 0.3922, 0.3964]	 Test top-5 accuracy:[0.7181, 0.719, 0.7222]
+Epoch:39	 lr:0.0096	 Duration:71.527
+ Train_loss:5.23630	 Train_loss_cls:4.67220	 Train_loss_decouple_ml:0.56410
+ Train top-1 accuracy: [0.4081, 0.4087] 
+Test epoch:39	 Test_loss_cls:4.56125	 Test top-1 accuracy:[0.3984, 0.3986, 0.4]	 Test top-5 accuracy:[0.7311, 0.733, 0.7344]
+Epoch:40	 lr:0.0096	 Duration:71.336
+ Train_loss:5.18589	 Train_loss_cls:4.61157	 Train_loss_decouple_ml:0.57431
+ Train top-1 accuracy: [0.4155, 0.4149] 
+Test epoch:40	 Test_loss_cls:4.54041	 Test top-1 accuracy:[0.4042, 0.4049, 0.405]	 Test top-5 accuracy:[0.7291, 0.7328, 0.7328]
+Epoch:41	 lr:0.0095	 Duration:71.400
+ Train_loss:5.12706	 Train_loss_cls:4.55523	 Train_loss_decouple_ml:0.57183
+ Train top-1 accuracy: [0.4199, 0.4198] 
+Test epoch:41	 Test_loss_cls:4.45314	 Test top-1 accuracy:[0.4143, 0.4106, 0.4137]	 Test top-5 accuracy:[0.7459, 0.7429, 0.7459]
+Epoch:42	 lr:0.0095	 Duration:71.911
+ Train_loss:5.10422	 Train_loss_cls:4.52879	 Train_loss_decouple_ml:0.57542
+ Train top-1 accuracy: [0.4255, 0.4258] 
+Test epoch:42	 Test_loss_cls:4.45539	 Test top-1 accuracy:[0.4091, 0.4189, 0.417]	 Test top-5 accuracy:[0.7391, 0.742, 0.7434]
+Epoch:43	 lr:0.0095	 Duration:70.930
+ Train_loss:5.04544	 Train_loss_cls:4.47772	 Train_loss_decouple_ml:0.56772
+ Train top-1 accuracy: [0.4293, 0.4289] 
+Test epoch:43	 Test_loss_cls:4.34973	 Test top-1 accuracy:[0.4314, 0.4289, 0.4345]	 Test top-5 accuracy:[0.7537, 0.7507, 0.7545]
+Epoch:44	 lr:0.0095	 Duration:70.792
+ Train_loss:4.99433	 Train_loss_cls:4.41699	 Train_loss_decouple_ml:0.57734
+ Train top-1 accuracy: [0.4379, 0.4381] 
+Test epoch:44	 Test_loss_cls:4.34575	 Test top-1 accuracy:[0.4223, 0.4253, 0.4256]	 Test top-5 accuracy:[0.7522, 0.7569, 0.7564]
+Epoch:45	 lr:0.0095	 Duration:70.966
+ Train_loss:4.94959	 Train_loss_cls:4.36922	 Train_loss_decouple_ml:0.58037
+ Train top-1 accuracy: [0.4417, 0.443] 
+Test epoch:45	 Test_loss_cls:4.33224	 Test top-1 accuracy:[0.4214, 0.4309, 0.4302]	 Test top-5 accuracy:[0.7479, 0.7579, 0.7545]
+Epoch:46	 lr:0.0094	 Duration:71.333
+ Train_loss:4.89064	 Train_loss_cls:4.31300	 Train_loss_decouple_ml:0.57765
+ Train top-1 accuracy: [0.45, 0.4499] 
+Test epoch:46	 Test_loss_cls:4.26479	 Test top-1 accuracy:[0.4277, 0.4368, 0.4335]	 Test top-5 accuracy:[0.7562, 0.7672, 0.7647]
+Epoch:47	 lr:0.0094	 Duration:71.581
+ Train_loss:4.86101	 Train_loss_cls:4.28287	 Train_loss_decouple_ml:0.57814
+ Train top-1 accuracy: [0.4541, 0.4547] 
+Test epoch:47	 Test_loss_cls:4.21846	 Test top-1 accuracy:[0.4422, 0.4408, 0.4422]	 Test top-5 accuracy:[0.7639, 0.764, 0.765]
+Epoch:48	 lr:0.0094	 Duration:71.294
+ Train_loss:4.82845	 Train_loss_cls:4.25604	 Train_loss_decouple_ml:0.57242
+ Train top-1 accuracy: [0.4558, 0.4568] 
+Test epoch:48	 Test_loss_cls:4.23056	 Test top-1 accuracy:[0.4282, 0.4431, 0.4425]	 Test top-5 accuracy:[0.7529, 0.7709, 0.7661]
+Epoch:49	 lr:0.0094	 Duration:71.494
+ Train_loss:4.78985	 Train_loss_cls:4.19844	 Train_loss_decouple_ml:0.59140
+ Train top-1 accuracy: [0.462, 0.4601] 
+Test epoch:49	 Test_loss_cls:4.20090	 Test top-1 accuracy:[0.4494, 0.4354, 0.4458]	 Test top-5 accuracy:[0.7724, 0.7621, 0.7722]
+Epoch:50	 lr:0.0093	 Duration:71.436
+ Train_loss:4.74602	 Train_loss_cls:4.17418	 Train_loss_decouple_ml:0.57184
+ Train top-1 accuracy: [0.4634, 0.4653] 
+Test epoch:50	 Test_loss_cls:4.07651	 Test top-1 accuracy:[0.4537, 0.4607, 0.4585]	 Test top-5 accuracy:[0.7793, 0.7824, 0.7819]
+Epoch:51	 lr:0.0093	 Duration:71.413
+ Train_loss:4.68970	 Train_loss_cls:4.11522	 Train_loss_decouple_ml:0.57448
+ Train top-1 accuracy: [0.469, 0.4705] 
+Test epoch:51	 Test_loss_cls:4.05620	 Test top-1 accuracy:[0.4541, 0.46, 0.4588]	 Test top-5 accuracy:[0.7773, 0.7788, 0.7811]
+Epoch:52	 lr:0.0093	 Duration:71.219
+ Train_loss:4.67819	 Train_loss_cls:4.09769	 Train_loss_decouple_ml:0.58050
+ Train top-1 accuracy: [0.4747, 0.4725] 
+Test epoch:52	 Test_loss_cls:4.00484	 Test top-1 accuracy:[0.4646, 0.4685, 0.4692]	 Test top-5 accuracy:[0.7843, 0.7853, 0.7891]
+Epoch:53	 lr:0.0092	 Duration:71.395
+ Train_loss:4.61662	 Train_loss_cls:4.03772	 Train_loss_decouple_ml:0.57890
+ Train top-1 accuracy: [0.4779, 0.4764] 
+Test epoch:53	 Test_loss_cls:4.00534	 Test top-1 accuracy:[0.4609, 0.4683, 0.4668]	 Test top-5 accuracy:[0.7814, 0.7844, 0.7832]
+Epoch:54	 lr:0.0092	 Duration:71.388
+ Train_loss:4.58858	 Train_loss_cls:4.00748	 Train_loss_decouple_ml:0.58110
+ Train top-1 accuracy: [0.4832, 0.4822] 
+Test epoch:54	 Test_loss_cls:3.98413	 Test top-1 accuracy:[0.4674, 0.465, 0.469]	 Test top-5 accuracy:[0.7864, 0.7824, 0.7879]
+Epoch:55	 lr:0.0092	 Duration:71.227
+ Train_loss:4.55698	 Train_loss_cls:3.98990	 Train_loss_decouple_ml:0.56708
+ Train top-1 accuracy: [0.4846, 0.485] 
+Test epoch:55	 Test_loss_cls:3.98141	 Test top-1 accuracy:[0.4566, 0.4725, 0.4684]	 Test top-5 accuracy:[0.776, 0.79, 0.7862]
+Epoch:56	 lr:0.0092	 Duration:71.283
+ Train_loss:4.51918	 Train_loss_cls:3.95010	 Train_loss_decouple_ml:0.56908
+ Train top-1 accuracy: [0.4915, 0.4917] 
+Test epoch:56	 Test_loss_cls:3.90509	 Test top-1 accuracy:[0.4734, 0.4751, 0.4776]	 Test top-5 accuracy:[0.7934, 0.7934, 0.7957]
+Epoch:57	 lr:0.0091	 Duration:71.239
+ Train_loss:4.48722	 Train_loss_cls:3.91389	 Train_loss_decouple_ml:0.57334
+ Train top-1 accuracy: [0.4933, 0.4947] 
+Test epoch:57	 Test_loss_cls:3.90610	 Test top-1 accuracy:[0.4788, 0.4773, 0.48]	 Test top-5 accuracy:[0.7908, 0.7885, 0.7906]
+Epoch:58	 lr:0.0091	 Duration:71.497
+ Train_loss:4.43297	 Train_loss_cls:3.86487	 Train_loss_decouple_ml:0.56810
+ Train top-1 accuracy: [0.4993, 0.4974] 
+Test epoch:58	 Test_loss_cls:3.85557	 Test top-1 accuracy:[0.4784, 0.4764, 0.4813]	 Test top-5 accuracy:[0.7988, 0.7967, 0.7999]
+Epoch:59	 lr:0.0091	 Duration:71.438
+ Train_loss:4.43166	 Train_loss_cls:3.85745	 Train_loss_decouple_ml:0.57422
+ Train top-1 accuracy: [0.5017, 0.5015] 
+Test epoch:59	 Test_loss_cls:3.82224	 Test top-1 accuracy:[0.4885, 0.4853, 0.489]	 Test top-5 accuracy:[0.8022, 0.7975, 0.8018]
+Epoch:60	 lr:0.0090	 Duration:71.025
+ Train_loss:4.36193	 Train_loss_cls:3.80029	 Train_loss_decouple_ml:0.56164
+ Train top-1 accuracy: [0.5081, 0.5064] 
+Test epoch:60	 Test_loss_cls:3.75559	 Test top-1 accuracy:[0.491, 0.4893, 0.4927]	 Test top-5 accuracy:[0.8038, 0.8041, 0.8063]
+Epoch:61	 lr:0.0090	 Duration:70.535
+ Train_loss:4.33473	 Train_loss_cls:3.76782	 Train_loss_decouple_ml:0.56691
+ Train top-1 accuracy: [0.5133, 0.5122] 
+Test epoch:61	 Test_loss_cls:3.74616	 Test top-1 accuracy:[0.4963, 0.4963, 0.4999]	 Test top-5 accuracy:[0.8023, 0.8062, 0.808]
+Epoch:62	 lr:0.0090	 Duration:70.880
+ Train_loss:4.31347	 Train_loss_cls:3.74424	 Train_loss_decouple_ml:0.56923
+ Train top-1 accuracy: [0.5167, 0.5168] 
+Test epoch:62	 Test_loss_cls:3.73421	 Test top-1 accuracy:[0.4939, 0.4956, 0.4979]	 Test top-5 accuracy:[0.8053, 0.8106, 0.8105]
+Epoch:63	 lr:0.0090	 Duration:70.860
+ Train_loss:4.26903	 Train_loss_cls:3.70952	 Train_loss_decouple_ml:0.55950
+ Train top-1 accuracy: [0.5192, 0.5179] 
+Test epoch:63	 Test_loss_cls:3.71795	 Test top-1 accuracy:[0.4949, 0.5006, 0.5051]	 Test top-5 accuracy:[0.8067, 0.8112, 0.8143]
+Epoch:64	 lr:0.0089	 Duration:71.241
+ Train_loss:4.24243	 Train_loss_cls:3.68745	 Train_loss_decouple_ml:0.55498
+ Train top-1 accuracy: [0.5193, 0.518] 
+Test epoch:64	 Test_loss_cls:3.71760	 Test top-1 accuracy:[0.4929, 0.503, 0.5065]	 Test top-5 accuracy:[0.8037, 0.81, 0.8126]
+Epoch:65	 lr:0.0089	 Duration:71.450
+ Train_loss:4.22207	 Train_loss_cls:3.66856	 Train_loss_decouple_ml:0.55351
+ Train top-1 accuracy: [0.5238, 0.5231] 
+Test epoch:65	 Test_loss_cls:3.69777	 Test top-1 accuracy:[0.4938, 0.4996, 0.5003]	 Test top-5 accuracy:[0.8064, 0.814, 0.8125]
+Epoch:66	 lr:0.0089	 Duration:71.456
+ Train_loss:4.18101	 Train_loss_cls:3.61946	 Train_loss_decouple_ml:0.56156
+ Train top-1 accuracy: [0.5308, 0.5305] 
+Test epoch:66	 Test_loss_cls:3.66612	 Test top-1 accuracy:[0.5047, 0.5087, 0.5112]	 Test top-5 accuracy:[0.8146, 0.815, 0.8201]
+Epoch:67	 lr:0.0088	 Duration:71.327
+ Train_loss:4.14730	 Train_loss_cls:3.60008	 Train_loss_decouple_ml:0.54723
+ Train top-1 accuracy: [0.5334, 0.5313] 
+Test epoch:67	 Test_loss_cls:3.64093	 Test top-1 accuracy:[0.5094, 0.5092, 0.5131]	 Test top-5 accuracy:[0.814, 0.8166, 0.8171]
+Epoch:68	 lr:0.0088	 Duration:71.437
+ Train_loss:4.12252	 Train_loss_cls:3.56562	 Train_loss_decouple_ml:0.55690
+ Train top-1 accuracy: [0.5367, 0.5363] 
+Test epoch:68	 Test_loss_cls:3.61173	 Test top-1 accuracy:[0.5074, 0.515, 0.5131]	 Test top-5 accuracy:[0.8172, 0.8182, 0.8198]
+Epoch:69	 lr:0.0088	 Duration:71.439
+ Train_loss:4.07825	 Train_loss_cls:3.53004	 Train_loss_decouple_ml:0.54821
+ Train top-1 accuracy: [0.5406, 0.5402] 
+Test epoch:69	 Test_loss_cls:3.60344	 Test top-1 accuracy:[0.5097, 0.516, 0.5178]	 Test top-5 accuracy:[0.8168, 0.8185, 0.8195]
+Epoch:70	 lr:0.0087	 Duration:72.048
+ Train_loss:4.06757	 Train_loss_cls:3.51650	 Train_loss_decouple_ml:0.55108
+ Train top-1 accuracy: [0.5435, 0.5429] 
+Test epoch:70	 Test_loss_cls:3.58652	 Test top-1 accuracy:[0.5076, 0.5134, 0.5154]	 Test top-5 accuracy:[0.8162, 0.8168, 0.8193]
+Epoch:71	 lr:0.0087	 Duration:71.581
+ Train_loss:4.04961	 Train_loss_cls:3.50735	 Train_loss_decouple_ml:0.54227
+ Train top-1 accuracy: [0.5456, 0.5449] 
+Test epoch:71	 Test_loss_cls:3.51884	 Test top-1 accuracy:[0.5239, 0.5256, 0.5256]	 Test top-5 accuracy:[0.8246, 0.8237, 0.8249]
+Epoch:72	 lr:0.0086	 Duration:71.055
+ Train_loss:4.01430	 Train_loss_cls:3.46858	 Train_loss_decouple_ml:0.54572
+ Train top-1 accuracy: [0.5468, 0.5468] 
+Test epoch:72	 Test_loss_cls:3.54914	 Test top-1 accuracy:[0.5149, 0.5205, 0.519]	 Test top-5 accuracy:[0.8247, 0.8282, 0.8291]
+Epoch:73	 lr:0.0086	 Duration:71.008
+ Train_loss:3.95728	 Train_loss_cls:3.42570	 Train_loss_decouple_ml:0.53158
+ Train top-1 accuracy: [0.5547, 0.5533] 
+Test epoch:73	 Test_loss_cls:3.49243	 Test top-1 accuracy:[0.5265, 0.5269, 0.5283]	 Test top-5 accuracy:[0.8281, 0.8262, 0.8293]
+Epoch:74	 lr:0.0086	 Duration:71.024
+ Train_loss:3.92698	 Train_loss_cls:3.38862	 Train_loss_decouple_ml:0.53836
+ Train top-1 accuracy: [0.5575, 0.5575] 
+Test epoch:74	 Test_loss_cls:3.44286	 Test top-1 accuracy:[0.5323, 0.53, 0.5333]	 Test top-5 accuracy:[0.8323, 0.8277, 0.8312]
+Epoch:75	 lr:0.0085	 Duration:71.212
+ Train_loss:3.92383	 Train_loss_cls:3.37888	 Train_loss_decouple_ml:0.54495
+ Train top-1 accuracy: [0.5606, 0.5595] 
+Test epoch:75	 Test_loss_cls:3.45311	 Test top-1 accuracy:[0.5295, 0.5278, 0.532]	 Test top-5 accuracy:[0.8297, 0.83, 0.8339]
+Epoch:76	 lr:0.0085	 Duration:70.585
+ Train_loss:3.87087	 Train_loss_cls:3.33852	 Train_loss_decouple_ml:0.53236
+ Train top-1 accuracy: [0.5611, 0.5609] 
+Test epoch:76	 Test_loss_cls:3.40343	 Test top-1 accuracy:[0.5338, 0.5372, 0.5372]	 Test top-5 accuracy:[0.834, 0.8334, 0.8349]
+Epoch:77	 lr:0.0085	 Duration:71.236
+ Train_loss:3.84976	 Train_loss_cls:3.31658	 Train_loss_decouple_ml:0.53319
+ Train top-1 accuracy: [0.5671, 0.5666] 
+Test epoch:77	 Test_loss_cls:3.39832	 Test top-1 accuracy:[0.5371, 0.5411, 0.5428]	 Test top-5 accuracy:[0.8302, 0.8384, 0.8363]
+Epoch:78	 lr:0.0084	 Duration:70.952
+ Train_loss:3.84950	 Train_loss_cls:3.31768	 Train_loss_decouple_ml:0.53182
+ Train top-1 accuracy: [0.5662, 0.5656] 
+Test epoch:78	 Test_loss_cls:3.37238	 Test top-1 accuracy:[0.5445, 0.5343, 0.5433]	 Test top-5 accuracy:[0.841, 0.8347, 0.8415]
+Epoch:79	 lr:0.0084	 Duration:70.497
+ Train_loss:3.81138	 Train_loss_cls:3.27495	 Train_loss_decouple_ml:0.53643
+ Train top-1 accuracy: [0.5704, 0.571] 
+Test epoch:79	 Test_loss_cls:3.36411	 Test top-1 accuracy:[0.535, 0.5435, 0.5443]	 Test top-5 accuracy:[0.835, 0.8346, 0.8374]
+Epoch:80	 lr:0.0083	 Duration:70.393
+ Train_loss:3.77552	 Train_loss_cls:3.23946	 Train_loss_decouple_ml:0.53606
+ Train top-1 accuracy: [0.5759, 0.5759] 
+Test epoch:80	 Test_loss_cls:3.37697	 Test top-1 accuracy:[0.5423, 0.5393, 0.5453]	 Test top-5 accuracy:[0.8328, 0.8359, 0.8384]
+Epoch:81	 lr:0.0083	 Duration:70.492
+ Train_loss:3.75073	 Train_loss_cls:3.22586	 Train_loss_decouple_ml:0.52487
+ Train top-1 accuracy: [0.5774, 0.5768] 
+Test epoch:81	 Test_loss_cls:3.34080	 Test top-1 accuracy:[0.5454, 0.543, 0.5475]	 Test top-5 accuracy:[0.8386, 0.8365, 0.8377]
+Epoch:82	 lr:0.0083	 Duration:70.623
+ Train_loss:3.73554	 Train_loss_cls:3.20804	 Train_loss_decouple_ml:0.52750
+ Train top-1 accuracy: [0.5792, 0.5776] 
+Test epoch:82	 Test_loss_cls:3.32652	 Test top-1 accuracy:[0.5437, 0.5407, 0.548]	 Test top-5 accuracy:[0.8426, 0.8414, 0.8439]
+Epoch:83	 lr:0.0082	 Duration:70.654
+ Train_loss:3.69861	 Train_loss_cls:3.17642	 Train_loss_decouple_ml:0.52219
+ Train top-1 accuracy: [0.5843, 0.5839] 
+Test epoch:83	 Test_loss_cls:3.29871	 Test top-1 accuracy:[0.5485, 0.5537, 0.5535]	 Test top-5 accuracy:[0.8421, 0.8437, 0.8451]
+Epoch:84	 lr:0.0082	 Duration:54.821
+ Train_loss:3.67792	 Train_loss_cls:3.15456	 Train_loss_decouple_ml:0.52335
+ Train top-1 accuracy: [0.5879, 0.5864] 
+Test epoch:84	 Test_loss_cls:3.29808	 Test top-1 accuracy:[0.5426, 0.5428, 0.5475]	 Test top-5 accuracy:[0.8425, 0.8446, 0.8453]
+Epoch:85	 lr:0.0081	 Duration:54.019
+ Train_loss:3.65394	 Train_loss_cls:3.12953	 Train_loss_decouple_ml:0.52442
+ Train top-1 accuracy: [0.5874, 0.5869] 
+Test epoch:85	 Test_loss_cls:3.31590	 Test top-1 accuracy:[0.5571, 0.5397, 0.5531]	 Test top-5 accuracy:[0.847, 0.8325, 0.842]
+Epoch:86	 lr:0.0081	 Duration:54.616
+ Train_loss:3.65311	 Train_loss_cls:3.13500	 Train_loss_decouple_ml:0.51811
+ Train top-1 accuracy: [0.5868, 0.5878] 
+Test epoch:86	 Test_loss_cls:3.24333	 Test top-1 accuracy:[0.5553, 0.5538, 0.5559]	 Test top-5 accuracy:[0.845, 0.8495, 0.8469]
+Epoch:87	 lr:0.0081	 Duration:55.084
+ Train_loss:3.59950	 Train_loss_cls:3.08632	 Train_loss_decouple_ml:0.51318
+ Train top-1 accuracy: [0.5962, 0.5978] 
+Test epoch:87	 Test_loss_cls:3.21373	 Test top-1 accuracy:[0.5538, 0.5602, 0.5595]	 Test top-5 accuracy:[0.8457, 0.8549, 0.8507]
+Epoch:88	 lr:0.0080	 Duration:54.920
+ Train_loss:3.59714	 Train_loss_cls:3.07362	 Train_loss_decouple_ml:0.52351
+ Train top-1 accuracy: [0.5947, 0.5948] 
+Test epoch:88	 Test_loss_cls:3.18270	 Test top-1 accuracy:[0.5611, 0.5649, 0.5641]	 Test top-5 accuracy:[0.8528, 0.8571, 0.8569]
+Epoch:89	 lr:0.0080	 Duration:52.731
+ Train_loss:3.57382	 Train_loss_cls:3.05875	 Train_loss_decouple_ml:0.51507
+ Train top-1 accuracy: [0.5967, 0.5959] 
+Test epoch:89	 Test_loss_cls:3.19478	 Test top-1 accuracy:[0.5602, 0.5582, 0.5615]	 Test top-5 accuracy:[0.8505, 0.8504, 0.8538]
+Epoch:90	 lr:0.0079	 Duration:53.057
+ Train_loss:3.54138	 Train_loss_cls:3.02959	 Train_loss_decouple_ml:0.51179
+ Train top-1 accuracy: [0.6018, 0.6015] 
+Test epoch:90	 Test_loss_cls:3.18635	 Test top-1 accuracy:[0.5628, 0.5586, 0.5632]	 Test top-5 accuracy:[0.8512, 0.8484, 0.8513]
+Epoch:91	 lr:0.0079	 Duration:52.710
+ Train_loss:3.53170	 Train_loss_cls:3.01696	 Train_loss_decouple_ml:0.51474
+ Train top-1 accuracy: [0.6059, 0.6064] 
+Test epoch:91	 Test_loss_cls:3.13321	 Test top-1 accuracy:[0.5649, 0.5663, 0.5692]	 Test top-5 accuracy:[0.8528, 0.8574, 0.8583]
+Epoch:92	 lr:0.0079	 Duration:52.836
+ Train_loss:3.48306	 Train_loss_cls:2.97901	 Train_loss_decouple_ml:0.50405
+ Train top-1 accuracy: [0.6073, 0.6068] 
+Test epoch:92	 Test_loss_cls:3.14089	 Test top-1 accuracy:[0.5612, 0.5709, 0.5697]	 Test top-5 accuracy:[0.8467, 0.855, 0.8537]
+Epoch:93	 lr:0.0078	 Duration:53.119
+ Train_loss:3.48320	 Train_loss_cls:2.96057	 Train_loss_decouple_ml:0.52263
+ Train top-1 accuracy: [0.6112, 0.6122] 
+Test epoch:93	 Test_loss_cls:3.14525	 Test top-1 accuracy:[0.5633, 0.5666, 0.568]	 Test top-5 accuracy:[0.8542, 0.8554, 0.8571]
+Epoch:94	 lr:0.0078	 Duration:53.910
+ Train_loss:3.48285	 Train_loss_cls:2.97095	 Train_loss_decouple_ml:0.51190
+ Train top-1 accuracy: [0.6105, 0.6099] 
+Test epoch:94	 Test_loss_cls:3.10442	 Test top-1 accuracy:[0.5669, 0.572, 0.5753]	 Test top-5 accuracy:[0.8566, 0.8599, 0.8601]
+Epoch:95	 lr:0.0077	 Duration:55.171
+ Train_loss:3.44703	 Train_loss_cls:2.93650	 Train_loss_decouple_ml:0.51053
+ Train top-1 accuracy: [0.6114, 0.6093] 
+Test epoch:95	 Test_loss_cls:3.12209	 Test top-1 accuracy:[0.5686, 0.5631, 0.5695]	 Test top-5 accuracy:[0.8584, 0.8535, 0.8601]
+Epoch:96	 lr:0.0077	 Duration:55.018
+ Train_loss:3.44560	 Train_loss_cls:2.93511	 Train_loss_decouple_ml:0.51048
+ Train top-1 accuracy: [0.615, 0.6159] 
+Test epoch:96	 Test_loss_cls:3.12218	 Test top-1 accuracy:[0.5725, 0.5657, 0.5734]	 Test top-5 accuracy:[0.857, 0.855, 0.8569]
+Epoch:97	 lr:0.0076	 Duration:53.232
+ Train_loss:3.39273	 Train_loss_cls:2.88131	 Train_loss_decouple_ml:0.51142
+ Train top-1 accuracy: [0.6215, 0.6209] 
+Test epoch:97	 Test_loss_cls:3.05842	 Test top-1 accuracy:[0.5735, 0.5795, 0.5823]	 Test top-5 accuracy:[0.8598, 0.8631, 0.8638]
+Epoch:98	 lr:0.0076	 Duration:53.002
+ Train_loss:3.37417	 Train_loss_cls:2.87692	 Train_loss_decouple_ml:0.49725
+ Train top-1 accuracy: [0.624, 0.6236] 
+Test epoch:98	 Test_loss_cls:3.09285	 Test top-1 accuracy:[0.5679, 0.5761, 0.577]	 Test top-5 accuracy:[0.8571, 0.8572, 0.8613]
+Epoch:99	 lr:0.0075	 Duration:53.323
+ Train_loss:3.34631	 Train_loss_cls:2.84505	 Train_loss_decouple_ml:0.50126
+ Train top-1 accuracy: [0.6269, 0.627] 
+Test epoch:99	 Test_loss_cls:3.03580	 Test top-1 accuracy:[0.5767, 0.5841, 0.5819]	 Test top-5 accuracy:[0.8587, 0.8622, 0.864]
+Epoch:100	 lr:0.0075	 Duration:53.053
+ Train_loss:3.35287	 Train_loss_cls:2.85178	 Train_loss_decouple_ml:0.50109
+ Train top-1 accuracy: [0.6241, 0.6251] 
+Test epoch:100	 Test_loss_cls:3.06202	 Test top-1 accuracy:[0.5729, 0.5708, 0.5767]	 Test top-5 accuracy:[0.8607, 0.862, 0.8639]
+Epoch:101	 lr:0.0075	 Duration:50.984
+ Train_loss:3.32941	 Train_loss_cls:2.83114	 Train_loss_decouple_ml:0.49827
+ Train top-1 accuracy: [0.6261, 0.6274] 
+Test epoch:101	 Test_loss_cls:3.00326	 Test top-1 accuracy:[0.5801, 0.5838, 0.5846]	 Test top-5 accuracy:[0.8661, 0.8649, 0.867]
+Epoch:102	 lr:0.0074	 Duration:52.440
+ Train_loss:3.32707	 Train_loss_cls:2.83011	 Train_loss_decouple_ml:0.49696
+ Train top-1 accuracy: [0.6263, 0.6255] 
+Test epoch:102	 Test_loss_cls:3.02715	 Test top-1 accuracy:[0.5821, 0.5786, 0.5828]	 Test top-5 accuracy:[0.8631, 0.8619, 0.8628]
+Epoch:103	 lr:0.0074	 Duration:53.524
+ Train_loss:3.31600	 Train_loss_cls:2.81161	 Train_loss_decouple_ml:0.50439
+ Train top-1 accuracy: [0.6301, 0.6294] 
+Test epoch:103	 Test_loss_cls:3.02249	 Test top-1 accuracy:[0.5849, 0.5826, 0.5869]	 Test top-5 accuracy:[0.8675, 0.8637, 0.8675]
+Epoch:104	 lr:0.0073	 Duration:54.509
+ Train_loss:3.27566	 Train_loss_cls:2.76999	 Train_loss_decouple_ml:0.50568
+ Train top-1 accuracy: [0.6343, 0.6345] 
+Test epoch:104	 Test_loss_cls:2.97613	 Test top-1 accuracy:[0.5859, 0.5885, 0.5916]	 Test top-5 accuracy:[0.8641, 0.8678, 0.8683]
+Epoch:105	 lr:0.0073	 Duration:52.381
+ Train_loss:3.25430	 Train_loss_cls:2.75974	 Train_loss_decouple_ml:0.49456
+ Train top-1 accuracy: [0.6354, 0.6367] 
+Test epoch:105	 Test_loss_cls:2.97578	 Test top-1 accuracy:[0.5905, 0.5894, 0.5932]	 Test top-5 accuracy:[0.8671, 0.8645, 0.8683]
+Epoch:106	 lr:0.0072	 Duration:52.962
+ Train_loss:3.25071	 Train_loss_cls:2.75769	 Train_loss_decouple_ml:0.49303
+ Train top-1 accuracy: [0.6356, 0.6351] 
+Test epoch:106	 Test_loss_cls:3.01693	 Test top-1 accuracy:[0.5797, 0.5908, 0.588]	 Test top-5 accuracy:[0.8579, 0.8648, 0.8646]
+Epoch:107	 lr:0.0072	 Duration:53.081
+ Train_loss:3.21872	 Train_loss_cls:2.71937	 Train_loss_decouple_ml:0.49935
+ Train top-1 accuracy: [0.6401, 0.6414] 
+Test epoch:107	 Test_loss_cls:2.95899	 Test top-1 accuracy:[0.5881, 0.5941, 0.5931]	 Test top-5 accuracy:[0.8637, 0.8705, 0.8728]
+Epoch:108	 lr:0.0071	 Duration:53.292
+ Train_loss:3.19212	 Train_loss_cls:2.69739	 Train_loss_decouple_ml:0.49474
+ Train top-1 accuracy: [0.6456, 0.6449] 
+Test epoch:108	 Test_loss_cls:3.02760	 Test top-1 accuracy:[0.5785, 0.5832, 0.5836]	 Test top-5 accuracy:[0.8589, 0.8635, 0.8641]
+Epoch:109	 lr:0.0071	 Duration:54.821
+ Train_loss:3.18219	 Train_loss_cls:2.69071	 Train_loss_decouple_ml:0.49148
+ Train top-1 accuracy: [0.6458, 0.645] 
+Test epoch:109	 Test_loss_cls:2.92781	 Test top-1 accuracy:[0.595, 0.5878, 0.5949]	 Test top-5 accuracy:[0.8748, 0.8683, 0.8718]
+Epoch:110	 lr:0.0070	 Duration:54.953
+ Train_loss:3.16188	 Train_loss_cls:2.66645	 Train_loss_decouple_ml:0.49544
+ Train top-1 accuracy: [0.6463, 0.6461] 
+Test epoch:110	 Test_loss_cls:2.93464	 Test top-1 accuracy:[0.5927, 0.589, 0.5929]	 Test top-5 accuracy:[0.8707, 0.8708, 0.8719]
+Epoch:111	 lr:0.0070	 Duration:52.685
+ Train_loss:3.17032	 Train_loss_cls:2.67808	 Train_loss_decouple_ml:0.49224
+ Train top-1 accuracy: [0.6447, 0.6439] 
+Test epoch:111	 Test_loss_cls:2.97885	 Test top-1 accuracy:[0.5896, 0.5854, 0.5912]	 Test top-5 accuracy:[0.8682, 0.8644, 0.8684]
+Epoch:112	 lr:0.0069	 Duration:53.088
+ Train_loss:3.15323	 Train_loss_cls:2.66114	 Train_loss_decouple_ml:0.49209
+ Train top-1 accuracy: [0.6518, 0.652] 
+Test epoch:112	 Test_loss_cls:2.88300	 Test top-1 accuracy:[0.6006, 0.5952, 0.6013]	 Test top-5 accuracy:[0.8735, 0.8734, 0.876]
+Epoch:113	 lr:0.0069	 Duration:52.832
+ Train_loss:3.12014	 Train_loss_cls:2.62936	 Train_loss_decouple_ml:0.49077
+ Train top-1 accuracy: [0.6535, 0.6539] 
+Test epoch:113	 Test_loss_cls:2.88869	 Test top-1 accuracy:[0.5977, 0.6021, 0.6025]	 Test top-5 accuracy:[0.8709, 0.8758, 0.8753]
+Epoch:114	 lr:0.0068	 Duration:52.736
+ Train_loss:3.10959	 Train_loss_cls:2.61905	 Train_loss_decouple_ml:0.49054
+ Train top-1 accuracy: [0.6524, 0.653] 
+Test epoch:114	 Test_loss_cls:2.91218	 Test top-1 accuracy:[0.5976, 0.5915, 0.5967]	 Test top-5 accuracy:[0.8702, 0.87, 0.8732]
+Epoch:115	 lr:0.0068	 Duration:53.128
+ Train_loss:3.09991	 Train_loss_cls:2.59643	 Train_loss_decouple_ml:0.50348
+ Train top-1 accuracy: [0.6558, 0.6569] 
+Test epoch:115	 Test_loss_cls:2.87605	 Test top-1 accuracy:[0.6034, 0.6003, 0.6044]	 Test top-5 accuracy:[0.8737, 0.8734, 0.8752]
+Epoch:116	 lr:0.0067	 Duration:53.276
+ Train_loss:3.07620	 Train_loss_cls:2.59715	 Train_loss_decouple_ml:0.47905
+ Train top-1 accuracy: [0.6556, 0.6577] 
+Test epoch:116	 Test_loss_cls:2.85874	 Test top-1 accuracy:[0.5991, 0.5992, 0.6041]	 Test top-5 accuracy:[0.8743, 0.875, 0.8774]
+Epoch:117	 lr:0.0067	 Duration:53.561
+ Train_loss:3.05832	 Train_loss_cls:2.56940	 Train_loss_decouple_ml:0.48892
+ Train top-1 accuracy: [0.6617, 0.6614] 
+Test epoch:117	 Test_loss_cls:2.86902	 Test top-1 accuracy:[0.6016, 0.5944, 0.6026]	 Test top-5 accuracy:[0.8756, 0.8694, 0.8753]
+Epoch:118	 lr:0.0066	 Duration:54.106
+ Train_loss:3.05741	 Train_loss_cls:2.56579	 Train_loss_decouple_ml:0.49163
+ Train top-1 accuracy: [0.6612, 0.6608] 
+Test epoch:118	 Test_loss_cls:2.87511	 Test top-1 accuracy:[0.5987, 0.5954, 0.6006]	 Test top-5 accuracy:[0.8731, 0.8744, 0.8756]
+Epoch:119	 lr:0.0066	 Duration:56.164
+ Train_loss:3.03363	 Train_loss_cls:2.54713	 Train_loss_decouple_ml:0.48650
+ Train top-1 accuracy: [0.665, 0.6643] 
+Test epoch:119	 Test_loss_cls:2.85330	 Test top-1 accuracy:[0.6075, 0.6028, 0.6076]	 Test top-5 accuracy:[0.8759, 0.8735, 0.8772]
+Epoch:120	 lr:0.0065	 Duration:54.267
+ Train_loss:3.03272	 Train_loss_cls:2.54536	 Train_loss_decouple_ml:0.48735
+ Train top-1 accuracy: [0.6656, 0.6652] 
+Test epoch:120	 Test_loss_cls:2.83999	 Test top-1 accuracy:[0.6043, 0.6017, 0.605]	 Test top-5 accuracy:[0.8762, 0.8759, 0.8781]
+Epoch:121	 lr:0.0065	 Duration:51.252
+ Train_loss:3.01805	 Train_loss_cls:2.53226	 Train_loss_decouple_ml:0.48579
+ Train top-1 accuracy: [0.6672, 0.6665] 
+Test epoch:121	 Test_loss_cls:2.85963	 Test top-1 accuracy:[0.6008, 0.6068, 0.608]	 Test top-5 accuracy:[0.8679, 0.8804, 0.878]
+Epoch:122	 lr:0.0064	 Duration:51.749
+ Train_loss:2.99455	 Train_loss_cls:2.50924	 Train_loss_decouple_ml:0.48531
+ Train top-1 accuracy: [0.6707, 0.6696] 
+Test epoch:122	 Test_loss_cls:2.79839	 Test top-1 accuracy:[0.6099, 0.6103, 0.6111]	 Test top-5 accuracy:[0.8795, 0.8812, 0.8824]
+Epoch:123	 lr:0.0064	 Duration:52.560
+ Train_loss:2.96814	 Train_loss_cls:2.48810	 Train_loss_decouple_ml:0.48004
+ Train top-1 accuracy: [0.673, 0.6722] 
+Test epoch:123	 Test_loss_cls:2.86835	 Test top-1 accuracy:[0.6029, 0.6022, 0.6055]	 Test top-5 accuracy:[0.8747, 0.8719, 0.8751]
+Epoch:124	 lr:0.0063	 Duration:53.551
+ Train_loss:2.99952	 Train_loss_cls:2.50714	 Train_loss_decouple_ml:0.49237
+ Train top-1 accuracy: [0.6702, 0.6705] 
+Test epoch:124	 Test_loss_cls:2.82908	 Test top-1 accuracy:[0.6059, 0.6116, 0.6133]	 Test top-5 accuracy:[0.8731, 0.8786, 0.8802]
+Epoch:125	 lr:0.0063	 Duration:52.938
+ Train_loss:2.96291	 Train_loss_cls:2.48453	 Train_loss_decouple_ml:0.47837
+ Train top-1 accuracy: [0.6724, 0.6742] 
+Test epoch:125	 Test_loss_cls:2.78915	 Test top-1 accuracy:[0.6111, 0.6119, 0.6175]	 Test top-5 accuracy:[0.8779, 0.8784, 0.8817]
+Epoch:126	 lr:0.0062	 Duration:54.487
+ Train_loss:2.94433	 Train_loss_cls:2.45952	 Train_loss_decouple_ml:0.48481
+ Train top-1 accuracy: [0.675, 0.674] 
+Test epoch:126	 Test_loss_cls:2.79578	 Test top-1 accuracy:[0.6132, 0.6112, 0.6145]	 Test top-5 accuracy:[0.8757, 0.877, 0.8772]
+Epoch:127	 lr:0.0062	 Duration:54.606
+ Train_loss:2.93144	 Train_loss_cls:2.45146	 Train_loss_decouple_ml:0.47998
+ Train top-1 accuracy: [0.678, 0.6782] 
+Test epoch:127	 Test_loss_cls:2.82347	 Test top-1 accuracy:[0.6075, 0.6093, 0.6121]	 Test top-5 accuracy:[0.8769, 0.8761, 0.8784]
+Epoch:128	 lr:0.0061	 Duration:54.842
+ Train_loss:2.90969	 Train_loss_cls:2.43311	 Train_loss_decouple_ml:0.47659
+ Train top-1 accuracy: [0.6792, 0.6797] 
+Test epoch:128	 Test_loss_cls:2.80776	 Test top-1 accuracy:[0.61, 0.6022, 0.611]	 Test top-5 accuracy:[0.8801, 0.876, 0.8817]
+Epoch:129	 lr:0.0061	 Duration:55.006
+ Train_loss:2.89820	 Train_loss_cls:2.41697	 Train_loss_decouple_ml:0.48122
+ Train top-1 accuracy: [0.6831, 0.683] 
+Test epoch:129	 Test_loss_cls:2.79478	 Test top-1 accuracy:[0.6098, 0.613, 0.6134]	 Test top-5 accuracy:[0.8773, 0.8762, 0.8782]
+Epoch:130	 lr:0.0060	 Duration:52.765
+ Train_loss:2.88907	 Train_loss_cls:2.41180	 Train_loss_decouple_ml:0.47727
+ Train top-1 accuracy: [0.6832, 0.6834] 
+Test epoch:130	 Test_loss_cls:2.76634	 Test top-1 accuracy:[0.6139, 0.6151, 0.6175]	 Test top-5 accuracy:[0.8812, 0.8793, 0.8806]
+Epoch:131	 lr:0.0060	 Duration:53.114
+ Train_loss:2.87550	 Train_loss_cls:2.40255	 Train_loss_decouple_ml:0.47295
+ Train top-1 accuracy: [0.6849, 0.6853] 
+Test epoch:131	 Test_loss_cls:2.75933	 Test top-1 accuracy:[0.6136, 0.6181, 0.6199]	 Test top-5 accuracy:[0.8807, 0.8827, 0.8836]
+Epoch:132	 lr:0.0059	 Duration:54.070
+ Train_loss:2.88519	 Train_loss_cls:2.40465	 Train_loss_decouple_ml:0.48054
+ Train top-1 accuracy: [0.6865, 0.6847] 
+Test epoch:132	 Test_loss_cls:2.82160	 Test top-1 accuracy:[0.6056, 0.6108, 0.6116]	 Test top-5 accuracy:[0.8758, 0.8743, 0.8766]
+Epoch:133	 lr:0.0059	 Duration:54.987
+ Train_loss:2.85853	 Train_loss_cls:2.37743	 Train_loss_decouple_ml:0.48110
+ Train top-1 accuracy: [0.6871, 0.6864] 
+Test epoch:133	 Test_loss_cls:2.74282	 Test top-1 accuracy:[0.6174, 0.6142, 0.6161]	 Test top-5 accuracy:[0.8836, 0.8829, 0.8851]
+Epoch:134	 lr:0.0058	 Duration:55.098
+ Train_loss:2.84135	 Train_loss_cls:2.36287	 Train_loss_decouple_ml:0.47847
+ Train top-1 accuracy: [0.6876, 0.6874] 
+Test epoch:134	 Test_loss_cls:2.74406	 Test top-1 accuracy:[0.6134, 0.6171, 0.6188]	 Test top-5 accuracy:[0.8782, 0.8813, 0.8816]
+Epoch:135	 lr:0.0058	 Duration:52.568
+ Train_loss:2.82304	 Train_loss_cls:2.34942	 Train_loss_decouple_ml:0.47361
+ Train top-1 accuracy: [0.6907, 0.6901] 
+Test epoch:135	 Test_loss_cls:2.71529	 Test top-1 accuracy:[0.6218, 0.6209, 0.6243]	 Test top-5 accuracy:[0.8826, 0.8836, 0.8846]
+Epoch:136	 lr:0.0057	 Duration:52.957
+ Train_loss:2.81762	 Train_loss_cls:2.34760	 Train_loss_decouple_ml:0.47002
+ Train top-1 accuracy: [0.6926, 0.6926] 
+Test epoch:136	 Test_loss_cls:2.73846	 Test top-1 accuracy:[0.6147, 0.6129, 0.6169]	 Test top-5 accuracy:[0.8844, 0.8819, 0.8842]
+Epoch:137	 lr:0.0057	 Duration:53.274
+ Train_loss:2.81682	 Train_loss_cls:2.34370	 Train_loss_decouple_ml:0.47312
+ Train top-1 accuracy: [0.69, 0.6901] 
+Test epoch:137	 Test_loss_cls:2.73343	 Test top-1 accuracy:[0.6204, 0.617, 0.6214]	 Test top-5 accuracy:[0.882, 0.8807, 0.882]
+Epoch:138	 lr:0.0056	 Duration:54.909
+ Train_loss:2.77029	 Train_loss_cls:2.29910	 Train_loss_decouple_ml:0.47119
+ Train top-1 accuracy: [0.6965, 0.6972] 
+Test epoch:138	 Test_loss_cls:2.72038	 Test top-1 accuracy:[0.621, 0.6243, 0.6282]	 Test top-5 accuracy:[0.8789, 0.8826, 0.8833]
+Epoch:139	 lr:0.0056	 Duration:55.342
+ Train_loss:2.77353	 Train_loss_cls:2.30640	 Train_loss_decouple_ml:0.46713
+ Train top-1 accuracy: [0.6976, 0.6971] 
+Test epoch:139	 Test_loss_cls:2.67557	 Test top-1 accuracy:[0.6268, 0.6271, 0.6284]	 Test top-5 accuracy:[0.8858, 0.8873, 0.8872]
+Epoch:140	 lr:0.0055	 Duration:55.168
+ Train_loss:2.77421	 Train_loss_cls:2.30259	 Train_loss_decouple_ml:0.47162
+ Train top-1 accuracy: [0.6982, 0.6983] 
+Test epoch:140	 Test_loss_cls:2.70565	 Test top-1 accuracy:[0.6188, 0.6226, 0.6232]	 Test top-5 accuracy:[0.8863, 0.8862, 0.8877]
+Epoch:141	 lr:0.0055	 Duration:53.699
+ Train_loss:2.76828	 Train_loss_cls:2.29209	 Train_loss_decouple_ml:0.47619
+ Train top-1 accuracy: [0.7008, 0.7] 
+Test epoch:141	 Test_loss_cls:2.69179	 Test top-1 accuracy:[0.6269, 0.6235, 0.6284]	 Test top-5 accuracy:[0.8864, 0.8857, 0.8885]
+Epoch:142	 lr:0.0054	 Duration:56.292
+ Train_loss:2.75821	 Train_loss_cls:2.28447	 Train_loss_decouple_ml:0.47374
+ Train top-1 accuracy: [0.6976, 0.6976] 
+Test epoch:142	 Test_loss_cls:2.65664	 Test top-1 accuracy:[0.6253, 0.6274, 0.6313]	 Test top-5 accuracy:[0.888, 0.8908, 0.8897]
+Epoch:143	 lr:0.0054	 Duration:52.499
+ Train_loss:2.73964	 Train_loss_cls:2.27164	 Train_loss_decouple_ml:0.46799
+ Train top-1 accuracy: [0.7016, 0.7016] 
+Test epoch:143	 Test_loss_cls:2.67160	 Test top-1 accuracy:[0.6252, 0.6248, 0.6277]	 Test top-5 accuracy:[0.8859, 0.889, 0.8904]
+Epoch:144	 lr:0.0053	 Duration:53.575
+ Train_loss:2.72051	 Train_loss_cls:2.25664	 Train_loss_decouple_ml:0.46387
+ Train top-1 accuracy: [0.7029, 0.7031] 
+Test epoch:144	 Test_loss_cls:2.64961	 Test top-1 accuracy:[0.6309, 0.6274, 0.6333]	 Test top-5 accuracy:[0.8877, 0.886, 0.8885]
+Epoch:145	 lr:0.0053	 Duration:53.527
+ Train_loss:2.73449	 Train_loss_cls:2.26279	 Train_loss_decouple_ml:0.47170
+ Train top-1 accuracy: [0.7034, 0.7022] 
+Test epoch:145	 Test_loss_cls:2.66641	 Test top-1 accuracy:[0.6261, 0.6283, 0.6317]	 Test top-5 accuracy:[0.8866, 0.888, 0.8881]
+Epoch:146	 lr:0.0052	 Duration:53.651
+ Train_loss:2.70572	 Train_loss_cls:2.24118	 Train_loss_decouple_ml:0.46455
+ Train top-1 accuracy: [0.7065, 0.7068] 
+Test epoch:146	 Test_loss_cls:2.69521	 Test top-1 accuracy:[0.6265, 0.62, 0.6285]	 Test top-5 accuracy:[0.8875, 0.8847, 0.888]
+Epoch:147	 lr:0.0052	 Duration:53.696
+ Train_loss:2.70540	 Train_loss_cls:2.24116	 Train_loss_decouple_ml:0.46424
+ Train top-1 accuracy: [0.7056, 0.7058] 
+Test epoch:147	 Test_loss_cls:2.66230	 Test top-1 accuracy:[0.6273, 0.6305, 0.6324]	 Test top-5 accuracy:[0.8837, 0.8859, 0.8883]
+Epoch:148	 lr:0.0051	 Duration:54.091
+ Train_loss:2.67989	 Train_loss_cls:2.21584	 Train_loss_decouple_ml:0.46405
+ Train top-1 accuracy: [0.7079, 0.7089] 
+Test epoch:148	 Test_loss_cls:2.65050	 Test top-1 accuracy:[0.6303, 0.6294, 0.6317]	 Test top-5 accuracy:[0.8896, 0.8891, 0.892]
+Epoch:149	 lr:0.0051	 Duration:54.704
+ Train_loss:2.66531	 Train_loss_cls:2.19676	 Train_loss_decouple_ml:0.46855
+ Train top-1 accuracy: [0.7122, 0.7123] 
+Test epoch:149	 Test_loss_cls:2.62749	 Test top-1 accuracy:[0.6314, 0.6297, 0.6331]	 Test top-5 accuracy:[0.8911, 0.8889, 0.8905]
+Epoch:150	 lr:0.0050	 Duration:55.148
+ Train_loss:2.66233	 Train_loss_cls:2.20094	 Train_loss_decouple_ml:0.46139
+ Train top-1 accuracy: [0.7095, 0.7094] 
+Test epoch:150	 Test_loss_cls:2.64416	 Test top-1 accuracy:[0.6285, 0.6286, 0.6296]	 Test top-5 accuracy:[0.8887, 0.8882, 0.8886]
+Epoch:151	 lr:0.0049	 Duration:52.759
+ Train_loss:2.65914	 Train_loss_cls:2.20911	 Train_loss_decouple_ml:0.45003
+ Train top-1 accuracy: [0.7109, 0.7099] 
+Test epoch:151	 Test_loss_cls:2.66451	 Test top-1 accuracy:[0.6296, 0.6255, 0.6308]	 Test top-5 accuracy:[0.885, 0.8838, 0.8876]
+Epoch:152	 lr:0.0049	 Duration:53.293
+ Train_loss:2.64899	 Train_loss_cls:2.19041	 Train_loss_decouple_ml:0.45858
+ Train top-1 accuracy: [0.7143, 0.714] 
+Test epoch:152	 Test_loss_cls:2.67064	 Test top-1 accuracy:[0.6228, 0.6322, 0.6298]	 Test top-5 accuracy:[0.8841, 0.8881, 0.8877]
+Epoch:153	 lr:0.0048	 Duration:53.358
+ Train_loss:2.64064	 Train_loss_cls:2.18428	 Train_loss_decouple_ml:0.45636
+ Train top-1 accuracy: [0.7132, 0.7141] 
+Test epoch:153	 Test_loss_cls:2.64872	 Test top-1 accuracy:[0.6355, 0.6292, 0.6343]	 Test top-5 accuracy:[0.8901, 0.8827, 0.8893]
+Epoch:154	 lr:0.0048	 Duration:53.382
+ Train_loss:2.62277	 Train_loss_cls:2.16734	 Train_loss_decouple_ml:0.45544
+ Train top-1 accuracy: [0.7157, 0.7149] 
+Test epoch:154	 Test_loss_cls:2.61030	 Test top-1 accuracy:[0.6379, 0.6386, 0.6411]	 Test top-5 accuracy:[0.8884, 0.8891, 0.8907]
+Epoch:155	 lr:0.0047	 Duration:53.465
+ Train_loss:2.59927	 Train_loss_cls:2.14044	 Train_loss_decouple_ml:0.45882
+ Train top-1 accuracy: [0.7203, 0.7207] 
+Test epoch:155	 Test_loss_cls:2.63280	 Test top-1 accuracy:[0.6293, 0.6351, 0.6356]	 Test top-5 accuracy:[0.888, 0.8891, 0.8913]
+Epoch:156	 lr:0.0047	 Duration:53.357
+ Train_loss:2.59192	 Train_loss_cls:2.13590	 Train_loss_decouple_ml:0.45602
+ Train top-1 accuracy: [0.7194, 0.7187] 
+Test epoch:156	 Test_loss_cls:2.63347	 Test top-1 accuracy:[0.6336, 0.6344, 0.635]	 Test top-5 accuracy:[0.8871, 0.8887, 0.8903]
+Epoch:157	 lr:0.0046	 Duration:53.512
+ Train_loss:2.60395	 Train_loss_cls:2.15353	 Train_loss_decouple_ml:0.45042
+ Train top-1 accuracy: [0.7175, 0.7172] 
+Test epoch:157	 Test_loss_cls:2.58244	 Test top-1 accuracy:[0.6418, 0.6383, 0.6417]	 Test top-5 accuracy:[0.8923, 0.8933, 0.8947]
+Epoch:158	 lr:0.0046	 Duration:53.728
+ Train_loss:2.57778	 Train_loss_cls:2.12280	 Train_loss_decouple_ml:0.45498
+ Train top-1 accuracy: [0.7241, 0.7234] 
+Test epoch:158	 Test_loss_cls:2.62963	 Test top-1 accuracy:[0.6312, 0.6343, 0.6337]	 Test top-5 accuracy:[0.8887, 0.889, 0.8911]
+Epoch:159	 lr:0.0045	 Duration:54.734
+ Train_loss:2.56251	 Train_loss_cls:2.11209	 Train_loss_decouple_ml:0.45043
+ Train top-1 accuracy: [0.7259, 0.7245] 
+Test epoch:159	 Test_loss_cls:2.58793	 Test top-1 accuracy:[0.641, 0.6401, 0.6438]	 Test top-5 accuracy:[0.891, 0.8912, 0.8937]
+Epoch:160	 lr:0.0045	 Duration:54.720
+ Train_loss:2.55189	 Train_loss_cls:2.10410	 Train_loss_decouple_ml:0.44779
+ Train top-1 accuracy: [0.7228, 0.7225] 
+Test epoch:160	 Test_loss_cls:2.57115	 Test top-1 accuracy:[0.6384, 0.642, 0.6431]	 Test top-5 accuracy:[0.8938, 0.8959, 0.8963]
+Epoch:161	 lr:0.0044	 Duration:52.928
+ Train_loss:2.56705	 Train_loss_cls:2.11778	 Train_loss_decouple_ml:0.44927
+ Train top-1 accuracy: [0.7252, 0.7242] 
+Test epoch:161	 Test_loss_cls:2.60614	 Test top-1 accuracy:[0.6374, 0.6336, 0.6353]	 Test top-5 accuracy:[0.8902, 0.8892, 0.8903]
+Epoch:162	 lr:0.0044	 Duration:53.469
+ Train_loss:2.53320	 Train_loss_cls:2.08513	 Train_loss_decouple_ml:0.44808
+ Train top-1 accuracy: [0.7274, 0.7261] 
+Test epoch:162	 Test_loss_cls:2.61759	 Test top-1 accuracy:[0.6349, 0.6341, 0.6369]	 Test top-5 accuracy:[0.8858, 0.8877, 0.8876]
+Epoch:163	 lr:0.0043	 Duration:54.043
+ Train_loss:2.51463	 Train_loss_cls:2.06932	 Train_loss_decouple_ml:0.44530
+ Train top-1 accuracy: [0.7296, 0.7296] 
+Test epoch:163	 Test_loss_cls:2.59053	 Test top-1 accuracy:[0.6395, 0.6363, 0.6414]	 Test top-5 accuracy:[0.8946, 0.8904, 0.8923]
+Epoch:164	 lr:0.0043	 Duration:55.507
+ Train_loss:2.51161	 Train_loss_cls:2.07026	 Train_loss_decouple_ml:0.44136
+ Train top-1 accuracy: [0.7307, 0.7293] 
+Test epoch:164	 Test_loss_cls:2.59363	 Test top-1 accuracy:[0.6388, 0.6343, 0.6389]	 Test top-5 accuracy:[0.8919, 0.8883, 0.8914]
+Epoch:165	 lr:0.0042	 Duration:53.053
+ Train_loss:2.48068	 Train_loss_cls:2.04854	 Train_loss_decouple_ml:0.43213
+ Train top-1 accuracy: [0.7317, 0.7314] 
+Test epoch:165	 Test_loss_cls:2.62767	 Test top-1 accuracy:[0.6325, 0.6277, 0.633]	 Test top-5 accuracy:[0.8903, 0.8891, 0.8913]
+Epoch:166	 lr:0.0042	 Duration:53.694
+ Train_loss:2.48490	 Train_loss_cls:2.04349	 Train_loss_decouple_ml:0.44141
+ Train top-1 accuracy: [0.7316, 0.732] 
+Test epoch:166	 Test_loss_cls:2.55497	 Test top-1 accuracy:[0.6451, 0.6444, 0.646]	 Test top-5 accuracy:[0.8917, 0.8927, 0.8936]
+Epoch:167	 lr:0.0041	 Duration:53.631
+ Train_loss:2.47611	 Train_loss_cls:2.03966	 Train_loss_decouple_ml:0.43645
+ Train top-1 accuracy: [0.7336, 0.7335] 
+Test epoch:167	 Test_loss_cls:2.57050	 Test top-1 accuracy:[0.6363, 0.6334, 0.637]	 Test top-5 accuracy:[0.8927, 0.8917, 0.8943]
+Epoch:168	 lr:0.0041	 Duration:53.598
+ Train_loss:2.47835	 Train_loss_cls:2.03286	 Train_loss_decouple_ml:0.44550
+ Train top-1 accuracy: [0.7329, 0.7323] 
+Test epoch:168	 Test_loss_cls:2.55003	 Test top-1 accuracy:[0.6393, 0.6443, 0.6452]	 Test top-5 accuracy:[0.8935, 0.8965, 0.896]
+Epoch:169	 lr:0.0040	 Duration:52.673
+ Train_loss:2.45293	 Train_loss_cls:2.01596	 Train_loss_decouple_ml:0.43696
+ Train top-1 accuracy: [0.7366, 0.7368] 
+Test epoch:169	 Test_loss_cls:2.55642	 Test top-1 accuracy:[0.6427, 0.637, 0.643]	 Test top-5 accuracy:[0.8973, 0.8923, 0.8957]
+Epoch:170	 lr:0.0040	 Duration:53.682
+ Train_loss:2.45141	 Train_loss_cls:2.01714	 Train_loss_decouple_ml:0.43428
+ Train top-1 accuracy: [0.7351, 0.7339] 
+Test epoch:170	 Test_loss_cls:2.56926	 Test top-1 accuracy:[0.6403, 0.6406, 0.6437]	 Test top-5 accuracy:[0.8915, 0.8922, 0.8945]
+Epoch:171	 lr:0.0039	 Duration:54.845
+ Train_loss:2.42766	 Train_loss_cls:1.99746	 Train_loss_decouple_ml:0.43020
+ Train top-1 accuracy: [0.7393, 0.7395] 
+Test epoch:171	 Test_loss_cls:2.55577	 Test top-1 accuracy:[0.643, 0.6406, 0.6427]	 Test top-5 accuracy:[0.8957, 0.8938, 0.8956]
+Epoch:172	 lr:0.0039	 Duration:55.207
+ Train_loss:2.43123	 Train_loss_cls:2.00662	 Train_loss_decouple_ml:0.42461
+ Train top-1 accuracy: [0.7368, 0.7369] 
+Test epoch:172	 Test_loss_cls:2.53812	 Test top-1 accuracy:[0.6422, 0.6401, 0.6429]	 Test top-5 accuracy:[0.8961, 0.8945, 0.896]
+Epoch:173	 lr:0.0038	 Duration:52.815
+ Train_loss:2.42065	 Train_loss_cls:1.99024	 Train_loss_decouple_ml:0.43041
+ Train top-1 accuracy: [0.7397, 0.7399] 
+Test epoch:173	 Test_loss_cls:2.54019	 Test top-1 accuracy:[0.6415, 0.6425, 0.6437]	 Test top-5 accuracy:[0.8962, 0.8935, 0.8963]
+Epoch:174	 lr:0.0038	 Duration:54.366
+ Train_loss:2.39492	 Train_loss_cls:1.95619	 Train_loss_decouple_ml:0.43873
+ Train top-1 accuracy: [0.7425, 0.7427] 
+Test epoch:174	 Test_loss_cls:2.52832	 Test top-1 accuracy:[0.6425, 0.6432, 0.6446]	 Test top-5 accuracy:[0.8966, 0.8954, 0.8975]
+Epoch:175	 lr:0.0037	 Duration:55.332
+ Train_loss:2.42332	 Train_loss_cls:1.99429	 Train_loss_decouple_ml:0.42903
+ Train top-1 accuracy: [0.7399, 0.7401] 
+Test epoch:175	 Test_loss_cls:2.52204	 Test top-1 accuracy:[0.6524, 0.6421, 0.6484]	 Test top-5 accuracy:[0.895, 0.8949, 0.8975]
+Epoch:176	 lr:0.0037	 Duration:53.461
+ Train_loss:2.40092	 Train_loss_cls:1.97878	 Train_loss_decouple_ml:0.42214
+ Train top-1 accuracy: [0.7409, 0.7399] 
+Test epoch:176	 Test_loss_cls:2.52539	 Test top-1 accuracy:[0.6464, 0.6428, 0.6455]	 Test top-5 accuracy:[0.8974, 0.8968, 0.8973]
+Epoch:177	 lr:0.0036	 Duration:54.501
+ Train_loss:2.35195	 Train_loss_cls:1.93611	 Train_loss_decouple_ml:0.41584
+ Train top-1 accuracy: [0.7462, 0.7479] 
+Test epoch:177	 Test_loss_cls:2.50052	 Test top-1 accuracy:[0.65, 0.648, 0.6514]	 Test top-5 accuracy:[0.8967, 0.8963, 0.8964]
+Epoch:178	 lr:0.0036	 Duration:55.303
+ Train_loss:2.37208	 Train_loss_cls:1.95108	 Train_loss_decouple_ml:0.42100
+ Train top-1 accuracy: [0.7422, 0.7424] 
+Test epoch:178	 Test_loss_cls:2.50568	 Test top-1 accuracy:[0.644, 0.6444, 0.645]	 Test top-5 accuracy:[0.8962, 0.8972, 0.8988]
+Epoch:179	 lr:0.0035	 Duration:55.072
+ Train_loss:2.34422	 Train_loss_cls:1.92381	 Train_loss_decouple_ml:0.42041
+ Train top-1 accuracy: [0.7524, 0.7513] 
+Test epoch:179	 Test_loss_cls:2.52295	 Test top-1 accuracy:[0.651, 0.6441, 0.6506]	 Test top-5 accuracy:[0.8966, 0.8938, 0.8972]
+Epoch:180	 lr:0.0035	 Duration:52.195
+ Train_loss:2.33164	 Train_loss_cls:1.91847	 Train_loss_decouple_ml:0.41317
+ Train top-1 accuracy: [0.7466, 0.7479] 
+Test epoch:180	 Test_loss_cls:2.54348	 Test top-1 accuracy:[0.6373, 0.6489, 0.6459]	 Test top-5 accuracy:[0.8922, 0.8928, 0.8932]
+Epoch:181	 lr:0.0034	 Duration:53.726
+ Train_loss:2.34051	 Train_loss_cls:1.92441	 Train_loss_decouple_ml:0.41610
+ Train top-1 accuracy: [0.7482, 0.7483] 
+Test epoch:181	 Test_loss_cls:2.50254	 Test top-1 accuracy:[0.6459, 0.6498, 0.6513]	 Test top-5 accuracy:[0.8972, 0.8989, 0.898]
+Epoch:182	 lr:0.0034	 Duration:55.122
+ Train_loss:2.31642	 Train_loss_cls:1.90645	 Train_loss_decouple_ml:0.40997
+ Train top-1 accuracy: [0.7491, 0.7492] 
+Test epoch:182	 Test_loss_cls:2.47851	 Test top-1 accuracy:[0.6524, 0.6508, 0.6532]	 Test top-5 accuracy:[0.8964, 0.8999, 0.8986]
+Epoch:183	 lr:0.0033	 Duration:55.419
+ Train_loss:2.29416	 Train_loss_cls:1.88371	 Train_loss_decouple_ml:0.41044
+ Train top-1 accuracy: [0.7525, 0.7529] 
+Test epoch:183	 Test_loss_cls:2.46453	 Test top-1 accuracy:[0.6504, 0.6521, 0.652]	 Test top-5 accuracy:[0.8978, 0.8962, 0.8989]
+Epoch:184	 lr:0.0033	 Duration:53.161
+ Train_loss:2.29885	 Train_loss_cls:1.89279	 Train_loss_decouple_ml:0.40606
+ Train top-1 accuracy: [0.7505, 0.7511] 
+Test epoch:184	 Test_loss_cls:2.45979	 Test top-1 accuracy:[0.6531, 0.6505, 0.6543]	 Test top-5 accuracy:[0.898, 0.8985, 0.8995]
+Epoch:185	 lr:0.0032	 Duration:53.417
+ Train_loss:2.28745	 Train_loss_cls:1.88236	 Train_loss_decouple_ml:0.40509
+ Train top-1 accuracy: [0.7525, 0.7517] 
+Test epoch:185	 Test_loss_cls:2.48696	 Test top-1 accuracy:[0.6534, 0.6511, 0.6557]	 Test top-5 accuracy:[0.8964, 0.8971, 0.8975]
+Epoch:186	 lr:0.0032	 Duration:53.532
+ Train_loss:2.24975	 Train_loss_cls:1.85431	 Train_loss_decouple_ml:0.39544
+ Train top-1 accuracy: [0.7542, 0.7547] 
+Test epoch:186	 Test_loss_cls:2.46012	 Test top-1 accuracy:[0.6577, 0.6535, 0.6573]	 Test top-5 accuracy:[0.8989, 0.8984, 0.9021]
+Epoch:187	 lr:0.0031	 Duration:54.522
+ Train_loss:2.27852	 Train_loss_cls:1.87166	 Train_loss_decouple_ml:0.40687
+ Train top-1 accuracy: [0.752, 0.7526] 
+Test epoch:187	 Test_loss_cls:2.50009	 Test top-1 accuracy:[0.6475, 0.6524, 0.6535]	 Test top-5 accuracy:[0.8963, 0.8969, 0.8978]
+Epoch:188	 lr:0.0031	 Duration:53.497
+ Train_loss:2.24415	 Train_loss_cls:1.83837	 Train_loss_decouple_ml:0.40578
+ Train top-1 accuracy: [0.7577, 0.758] 
+Test epoch:188	 Test_loss_cls:2.47134	 Test top-1 accuracy:[0.6551, 0.6527, 0.6546]	 Test top-5 accuracy:[0.8997, 0.8962, 0.9]
+Epoch:189	 lr:0.0030	 Duration:53.564
+ Train_loss:2.23015	 Train_loss_cls:1.84322	 Train_loss_decouple_ml:0.38693
+ Train top-1 accuracy: [0.7569, 0.7577] 
+Test epoch:189	 Test_loss_cls:2.46665	 Test top-1 accuracy:[0.6546, 0.6533, 0.6551]	 Test top-5 accuracy:[0.8984, 0.897, 0.8987]
+Epoch:190	 lr:0.0030	 Duration:53.298
+ Train_loss:2.21120	 Train_loss_cls:1.81907	 Train_loss_decouple_ml:0.39213
+ Train top-1 accuracy: [0.7617, 0.7612] 
+Test epoch:190	 Test_loss_cls:2.49177	 Test top-1 accuracy:[0.6507, 0.6487, 0.6515]	 Test top-5 accuracy:[0.896, 0.8961, 0.8971]
+Epoch:191	 lr:0.0029	 Duration:51.403
+ Train_loss:2.22520	 Train_loss_cls:1.82670	 Train_loss_decouple_ml:0.39850
+ Train top-1 accuracy: [0.7602, 0.7603] 
+Test epoch:191	 Test_loss_cls:2.46486	 Test top-1 accuracy:[0.6527, 0.6511, 0.6521]	 Test top-5 accuracy:[0.8961, 0.8972, 0.8986]
+Epoch:192	 lr:0.0029	 Duration:52.332
+ Train_loss:2.21145	 Train_loss_cls:1.81584	 Train_loss_decouple_ml:0.39560
+ Train top-1 accuracy: [0.7615, 0.7607] 
+Test epoch:192	 Test_loss_cls:2.46162	 Test top-1 accuracy:[0.6537, 0.6501, 0.654]	 Test top-5 accuracy:[0.9, 0.898, 0.8993]
+Epoch:193	 lr:0.0028	 Duration:54.271
+ Train_loss:2.16432	 Train_loss_cls:1.78194	 Train_loss_decouple_ml:0.38239
+ Train top-1 accuracy: [0.7668, 0.768] 
+Test epoch:193	 Test_loss_cls:2.44677	 Test top-1 accuracy:[0.6562, 0.6569, 0.6604]	 Test top-5 accuracy:[0.8993, 0.8971, 0.8998]
+Epoch:194	 lr:0.0028	 Duration:55.165
+ Train_loss:2.19045	 Train_loss_cls:1.79475	 Train_loss_decouple_ml:0.39570
+ Train top-1 accuracy: [0.7627, 0.7628] 
+Test epoch:194	 Test_loss_cls:2.47475	 Test top-1 accuracy:[0.6545, 0.6545, 0.6569]	 Test top-5 accuracy:[0.8996, 0.8975, 0.8986]
+Epoch:195	 lr:0.0027	 Duration:52.703
+ Train_loss:2.16122	 Train_loss_cls:1.78160	 Train_loss_decouple_ml:0.37962
+ Train top-1 accuracy: [0.7668, 0.7672] 
+Test epoch:195	 Test_loss_cls:2.46757	 Test top-1 accuracy:[0.6528, 0.6533, 0.6567]	 Test top-5 accuracy:[0.8958, 0.8939, 0.8976]
+Epoch:196	 lr:0.0027	 Duration:53.619
+ Train_loss:2.15935	 Train_loss_cls:1.77235	 Train_loss_decouple_ml:0.38700
+ Train top-1 accuracy: [0.7656, 0.7658] 
+Test epoch:196	 Test_loss_cls:2.43303	 Test top-1 accuracy:[0.658, 0.6616, 0.6624]	 Test top-5 accuracy:[0.9018, 0.9019, 0.903]
+Epoch:197	 lr:0.0026	 Duration:55.225
+ Train_loss:2.13699	 Train_loss_cls:1.76491	 Train_loss_decouple_ml:0.37208
+ Train top-1 accuracy: [0.7699, 0.7697] 
+Test epoch:197	 Test_loss_cls:2.49599	 Test top-1 accuracy:[0.6538, 0.6489, 0.653]	 Test top-5 accuracy:[0.8995, 0.895, 0.8968]
+Epoch:198	 lr:0.0026	 Duration:55.054
+ Train_loss:2.13570	 Train_loss_cls:1.75376	 Train_loss_decouple_ml:0.38194
+ Train top-1 accuracy: [0.7713, 0.7703] 
+Test epoch:198	 Test_loss_cls:2.42012	 Test top-1 accuracy:[0.6586, 0.6563, 0.6602]	 Test top-5 accuracy:[0.9005, 0.8989, 0.9017]
+Epoch:199	 lr:0.0025	 Duration:52.777
+ Train_loss:2.08810	 Train_loss_cls:1.71794	 Train_loss_decouple_ml:0.37016
+ Train top-1 accuracy: [0.7734, 0.7732] 
+Test epoch:199	 Test_loss_cls:2.42927	 Test top-1 accuracy:[0.6574, 0.6578, 0.6601]	 Test top-5 accuracy:[0.9026, 0.9006, 0.9033]
+Epoch:200	 lr:0.0025	 Duration:53.225
+ Train_loss:2.12169	 Train_loss_cls:1.74423	 Train_loss_decouple_ml:0.37746
+ Train top-1 accuracy: [0.7715, 0.7704] 
+Test epoch:200	 Test_loss_cls:2.42593	 Test top-1 accuracy:[0.6589, 0.6599, 0.6622]	 Test top-5 accuracy:[0.9002, 0.9, 0.9019]
+Epoch:201	 lr:0.0025	 Duration:53.643
+ Train_loss:2.08719	 Train_loss_cls:1.72334	 Train_loss_decouple_ml:0.36385
+ Train top-1 accuracy: [0.7728, 0.773] 
+Test epoch:201	 Test_loss_cls:2.45962	 Test top-1 accuracy:[0.6549, 0.6527, 0.655]	 Test top-5 accuracy:[0.8991, 0.8951, 0.8988]
+Epoch:202	 lr:0.0024	 Duration:53.262
+ Train_loss:2.08643	 Train_loss_cls:1.72248	 Train_loss_decouple_ml:0.36395
+ Train top-1 accuracy: [0.7725, 0.773] 
+Test epoch:202	 Test_loss_cls:2.44156	 Test top-1 accuracy:[0.6549, 0.6537, 0.6562]	 Test top-5 accuracy:[0.8992, 0.9001, 0.9004]
+Epoch:203	 lr:0.0024	 Duration:52.695
+ Train_loss:2.09226	 Train_loss_cls:1.72617	 Train_loss_decouple_ml:0.36609
+ Train top-1 accuracy: [0.7726, 0.7724] 
+Test epoch:203	 Test_loss_cls:2.43845	 Test top-1 accuracy:[0.6577, 0.6582, 0.6586]	 Test top-5 accuracy:[0.8992, 0.8966, 0.8984]
+Epoch:204	 lr:0.0023	 Duration:53.064
+ Train_loss:2.05522	 Train_loss_cls:1.69954	 Train_loss_decouple_ml:0.35568
+ Train top-1 accuracy: [0.7746, 0.7747] 
+Test epoch:204	 Test_loss_cls:2.41411	 Test top-1 accuracy:[0.6589, 0.6591, 0.6605]	 Test top-5 accuracy:[0.9032, 0.9015, 0.9035]
+Epoch:205	 lr:0.0023	 Duration:54.433
+ Train_loss:2.04133	 Train_loss_cls:1.69056	 Train_loss_decouple_ml:0.35076
+ Train top-1 accuracy: [0.7757, 0.776] 
+Test epoch:205	 Test_loss_cls:2.42915	 Test top-1 accuracy:[0.658, 0.6564, 0.6594]	 Test top-5 accuracy:[0.901, 0.9005, 0.9018]
+Epoch:206	 lr:0.0022	 Duration:55.212
+ Train_loss:2.03898	 Train_loss_cls:1.68800	 Train_loss_decouple_ml:0.35098
+ Train top-1 accuracy: [0.78, 0.7794] 
+Test epoch:206	 Test_loss_cls:2.44063	 Test top-1 accuracy:[0.6541, 0.6559, 0.6568]	 Test top-5 accuracy:[0.902, 0.9008, 0.9023]
+Epoch:207	 lr:0.0022	 Duration:52.798
+ Train_loss:2.00204	 Train_loss_cls:1.66439	 Train_loss_decouple_ml:0.33765
+ Train top-1 accuracy: [0.7786, 0.7791] 
+Test epoch:207	 Test_loss_cls:2.42418	 Test top-1 accuracy:[0.6547, 0.6569, 0.6575]	 Test top-5 accuracy:[0.9012, 0.8991, 0.8988]
+Epoch:208	 lr:0.0021	 Duration:52.894
+ Train_loss:2.01739	 Train_loss_cls:1.67703	 Train_loss_decouple_ml:0.34036
+ Train top-1 accuracy: [0.779, 0.7808] 
+Test epoch:208	 Test_loss_cls:2.41965	 Test top-1 accuracy:[0.6587, 0.6544, 0.6557]	 Test top-5 accuracy:[0.9003, 0.9006, 0.9003]
+Epoch:209	 lr:0.0021	 Duration:53.573
+ Train_loss:1.98457	 Train_loss_cls:1.64475	 Train_loss_decouple_ml:0.33982
+ Train top-1 accuracy: [0.7847, 0.7838] 
+Test epoch:209	 Test_loss_cls:2.40632	 Test top-1 accuracy:[0.6549, 0.6585, 0.6576]	 Test top-5 accuracy:[0.9027, 0.9029, 0.9022]
+Epoch:210	 lr:0.0021	 Duration:53.794
+ Train_loss:1.98781	 Train_loss_cls:1.64540	 Train_loss_decouple_ml:0.34241
+ Train top-1 accuracy: [0.7835, 0.7821] 
+Test epoch:210	 Test_loss_cls:2.39555	 Test top-1 accuracy:[0.6625, 0.6635, 0.6661]	 Test top-5 accuracy:[0.9045, 0.9031, 0.9042]
+Epoch:211	 lr:0.0020	 Duration:53.622
+ Train_loss:1.98073	 Train_loss_cls:1.64164	 Train_loss_decouple_ml:0.33909
+ Train top-1 accuracy: [0.7821, 0.7809] 
+Test epoch:211	 Test_loss_cls:2.42494	 Test top-1 accuracy:[0.6589, 0.6598, 0.6585]	 Test top-5 accuracy:[0.9004, 0.9013, 0.9023]
+Epoch:212	 lr:0.0020	 Duration:53.416
+ Train_loss:1.97140	 Train_loss_cls:1.64677	 Train_loss_decouple_ml:0.32463
+ Train top-1 accuracy: [0.7819, 0.7825] 
+Test epoch:212	 Test_loss_cls:2.39970	 Test top-1 accuracy:[0.6608, 0.6607, 0.6611]	 Test top-5 accuracy:[0.9013, 0.9023, 0.9028]
+Epoch:213	 lr:0.0019	 Duration:51.503
+ Train_loss:1.94627	 Train_loss_cls:1.61606	 Train_loss_decouple_ml:0.33021
+ Train top-1 accuracy: [0.7857, 0.7863] 
+Test epoch:213	 Test_loss_cls:2.38807	 Test top-1 accuracy:[0.6627, 0.6621, 0.6638]	 Test top-5 accuracy:[0.9037, 0.9034, 0.9059]
+Epoch:214	 lr:0.0019	 Duration:51.873
+ Train_loss:1.94271	 Train_loss_cls:1.62182	 Train_loss_decouple_ml:0.32089
+ Train top-1 accuracy: [0.7859, 0.786] 
+Test epoch:214	 Test_loss_cls:2.39487	 Test top-1 accuracy:[0.6597, 0.656, 0.6599]	 Test top-5 accuracy:[0.903, 0.9009, 0.9025]
+Epoch:215	 lr:0.0019	 Duration:54.002
+ Train_loss:1.92609	 Train_loss_cls:1.59735	 Train_loss_decouple_ml:0.32873
+ Train top-1 accuracy: [0.7883, 0.7887] 
+Test epoch:215	 Test_loss_cls:2.40590	 Test top-1 accuracy:[0.661, 0.6567, 0.6604]	 Test top-5 accuracy:[0.9021, 0.9009, 0.9024]
+Epoch:216	 lr:0.0018	 Duration:54.164
+ Train_loss:1.89782	 Train_loss_cls:1.58766	 Train_loss_decouple_ml:0.31016
+ Train top-1 accuracy: [0.7901, 0.79] 
+Test epoch:216	 Test_loss_cls:2.39818	 Test top-1 accuracy:[0.66, 0.6617, 0.661]	 Test top-5 accuracy:[0.9022, 0.9022, 0.9025]
+Epoch:217	 lr:0.0018	 Duration:52.555
+ Train_loss:1.90032	 Train_loss_cls:1.58970	 Train_loss_decouple_ml:0.31062
+ Train top-1 accuracy: [0.7894, 0.789] 
+Test epoch:217	 Test_loss_cls:2.39437	 Test top-1 accuracy:[0.658, 0.6589, 0.6595]	 Test top-5 accuracy:[0.9028, 0.9009, 0.9033]
+Epoch:218	 lr:0.0017	 Duration:52.940
+ Train_loss:1.89770	 Train_loss_cls:1.57534	 Train_loss_decouple_ml:0.32236
+ Train top-1 accuracy: [0.7917, 0.7911] 
+Test epoch:218	 Test_loss_cls:2.39139	 Test top-1 accuracy:[0.6584, 0.6596, 0.6609]	 Test top-5 accuracy:[0.9022, 0.9029, 0.9025]
+Epoch:219	 lr:0.0017	 Duration:53.194
+ Train_loss:1.88003	 Train_loss_cls:1.57966	 Train_loss_decouple_ml:0.30037
+ Train top-1 accuracy: [0.7896, 0.79] 
+Test epoch:219	 Test_loss_cls:2.38484	 Test top-1 accuracy:[0.661, 0.6625, 0.6617]	 Test top-5 accuracy:[0.9033, 0.9032, 0.9044]
+Epoch:220	 lr:0.0017	 Duration:53.283
+ Train_loss:1.86103	 Train_loss_cls:1.55941	 Train_loss_decouple_ml:0.30163
+ Train top-1 accuracy: [0.7925, 0.7923] 
+Test epoch:220	 Test_loss_cls:2.39024	 Test top-1 accuracy:[0.6603, 0.6587, 0.6609]	 Test top-5 accuracy:[0.9032, 0.9039, 0.9049]
+Epoch:221	 lr:0.0016	 Duration:53.341
+ Train_loss:1.85412	 Train_loss_cls:1.55585	 Train_loss_decouple_ml:0.29827
+ Train top-1 accuracy: [0.7924, 0.7929] 
+Test epoch:221	 Test_loss_cls:2.36932	 Test top-1 accuracy:[0.6663, 0.6648, 0.6674]	 Test top-5 accuracy:[0.9039, 0.9044, 0.9043]
+Epoch:222	 lr:0.0016	 Duration:53.400
+ Train_loss:1.80767	 Train_loss_cls:1.52402	 Train_loss_decouple_ml:0.28365
+ Train top-1 accuracy: [0.7973, 0.7974] 
+Test epoch:222	 Test_loss_cls:2.37256	 Test top-1 accuracy:[0.6644, 0.6664, 0.6666]	 Test top-5 accuracy:[0.9062, 0.9051, 0.9076]
+Epoch:223	 lr:0.0015	 Duration:53.351
+ Train_loss:1.82911	 Train_loss_cls:1.54015	 Train_loss_decouple_ml:0.28896
+ Train top-1 accuracy: [0.7951, 0.7965] 
+Test epoch:223	 Test_loss_cls:2.36979	 Test top-1 accuracy:[0.6617, 0.6645, 0.6638]	 Test top-5 accuracy:[0.9043, 0.9044, 0.9061]
+Epoch:224	 lr:0.0015	 Duration:53.358
+ Train_loss:1.81251	 Train_loss_cls:1.52512	 Train_loss_decouple_ml:0.28739
+ Train top-1 accuracy: [0.7983, 0.7981] 
+Test epoch:224	 Test_loss_cls:2.38878	 Test top-1 accuracy:[0.6622, 0.664, 0.6661]	 Test top-5 accuracy:[0.9017, 0.9022, 0.9037]
+Epoch:225	 lr:0.0015	 Duration:53.048
+ Train_loss:1.79220	 Train_loss_cls:1.51223	 Train_loss_decouple_ml:0.27997
+ Train top-1 accuracy: [0.7995, 0.7996] 
+Test epoch:225	 Test_loss_cls:2.36783	 Test top-1 accuracy:[0.6678, 0.6667, 0.6689]	 Test top-5 accuracy:[0.9041, 0.9039, 0.905]
+Epoch:226	 lr:0.0014	 Duration:52.760
+ Train_loss:1.78720	 Train_loss_cls:1.50996	 Train_loss_decouple_ml:0.27724
+ Train top-1 accuracy: [0.8006, 0.8001] 
+Test epoch:226	 Test_loss_cls:2.36571	 Test top-1 accuracy:[0.664, 0.6647, 0.664]	 Test top-5 accuracy:[0.9033, 0.9029, 0.9031]
+Epoch:227	 lr:0.0014	 Duration:52.983
+ Train_loss:1.75750	 Train_loss_cls:1.48439	 Train_loss_decouple_ml:0.27311
+ Train top-1 accuracy: [0.8012, 0.8017] 
+Test epoch:227	 Test_loss_cls:2.36397	 Test top-1 accuracy:[0.6648, 0.6659, 0.6653]	 Test top-5 accuracy:[0.9023, 0.9028, 0.9037]
+Epoch:228	 lr:0.0014	 Duration:53.800
+ Train_loss:1.75635	 Train_loss_cls:1.48661	 Train_loss_decouple_ml:0.26974
+ Train top-1 accuracy: [0.8022, 0.8019] 
+Test epoch:228	 Test_loss_cls:2.38329	 Test top-1 accuracy:[0.6647, 0.6642, 0.6643]	 Test top-5 accuracy:[0.902, 0.9006, 0.9016]
+Epoch:229	 lr:0.0013	 Duration:56.000
+ Train_loss:1.75152	 Train_loss_cls:1.48626	 Train_loss_decouple_ml:0.26526
+ Train top-1 accuracy: [0.8026, 0.8022] 
+Test epoch:229	 Test_loss_cls:2.37330	 Test top-1 accuracy:[0.6674, 0.6653, 0.6682]	 Test top-5 accuracy:[0.9005, 0.8999, 0.9011]
+Epoch:230	 lr:0.0013	 Duration:53.092
+ Train_loss:1.72918	 Train_loss_cls:1.46476	 Train_loss_decouple_ml:0.26441
+ Train top-1 accuracy: [0.8056, 0.8049] 
+Test epoch:230	 Test_loss_cls:2.36749	 Test top-1 accuracy:[0.6679, 0.6643, 0.6652]	 Test top-5 accuracy:[0.904, 0.9064, 0.9053]
+Epoch:231	 lr:0.0012	 Duration:53.278
+ Train_loss:1.71119	 Train_loss_cls:1.45573	 Train_loss_decouple_ml:0.25546
+ Train top-1 accuracy: [0.8059, 0.805] 
+Test epoch:231	 Test_loss_cls:2.37316	 Test top-1 accuracy:[0.6648, 0.6697, 0.6679]	 Test top-5 accuracy:[0.902, 0.9034, 0.9032]
+Epoch:232	 lr:0.0012	 Duration:54.096
+ Train_loss:1.68996	 Train_loss_cls:1.44292	 Train_loss_decouple_ml:0.24704
+ Train top-1 accuracy: [0.8085, 0.8082] 
+Test epoch:232	 Test_loss_cls:2.38431	 Test top-1 accuracy:[0.6655, 0.6659, 0.6675]	 Test top-5 accuracy:[0.9001, 0.9022, 0.9016]
+Epoch:233	 lr:0.0012	 Duration:52.922
+ Train_loss:1.66293	 Train_loss_cls:1.42546	 Train_loss_decouple_ml:0.23747
+ Train top-1 accuracy: [0.8103, 0.8101] 
+Test epoch:233	 Test_loss_cls:2.37806	 Test top-1 accuracy:[0.6673, 0.6652, 0.6674]	 Test top-5 accuracy:[0.9054, 0.9048, 0.9056]
+Epoch:234	 lr:0.0011	 Duration:53.726
+ Train_loss:1.66158	 Train_loss_cls:1.42009	 Train_loss_decouple_ml:0.24148
+ Train top-1 accuracy: [0.809, 0.8091] 
+Test epoch:234	 Test_loss_cls:2.37072	 Test top-1 accuracy:[0.6627, 0.6648, 0.6644]	 Test top-5 accuracy:[0.9042, 0.904, 0.9034]
+Epoch:235	 lr:0.0011	 Duration:52.405
+ Train_loss:1.64694	 Train_loss_cls:1.41006	 Train_loss_decouple_ml:0.23687
+ Train top-1 accuracy: [0.8117, 0.8113] 
+Test epoch:235	 Test_loss_cls:2.35788	 Test top-1 accuracy:[0.6687, 0.6676, 0.6686]	 Test top-5 accuracy:[0.9045, 0.9057, 0.906]
+Epoch:236	 lr:0.0011	 Duration:53.212
+ Train_loss:1.63030	 Train_loss_cls:1.40030	 Train_loss_decouple_ml:0.23000
+ Train top-1 accuracy: [0.8129, 0.8131] 
+Test epoch:236	 Test_loss_cls:2.36613	 Test top-1 accuracy:[0.6649, 0.6633, 0.6633]	 Test top-5 accuracy:[0.904, 0.9029, 0.9027]
+Epoch:237	 lr:0.0010	 Duration:53.662
+ Train_loss:1.63815	 Train_loss_cls:1.40501	 Train_loss_decouple_ml:0.23314
+ Train top-1 accuracy: [0.8101, 0.8096] 
+Test epoch:237	 Test_loss_cls:2.36982	 Test top-1 accuracy:[0.6642, 0.6633, 0.6656]	 Test top-5 accuracy:[0.9028, 0.9039, 0.9035]
+Epoch:238	 lr:0.0010	 Duration:54.101
+ Train_loss:1.61266	 Train_loss_cls:1.38841	 Train_loss_decouple_ml:0.22425
+ Train top-1 accuracy: [0.8142, 0.8137] 
+Test epoch:238	 Test_loss_cls:2.38473	 Test top-1 accuracy:[0.6666, 0.6623, 0.6654]	 Test top-5 accuracy:[0.9018, 0.9011, 0.9012]
+Epoch:239	 lr:0.0010	 Duration:52.724
+ Train_loss:1.62195	 Train_loss_cls:1.40519	 Train_loss_decouple_ml:0.21675
+ Train top-1 accuracy: [0.8125, 0.8128] 
+Test epoch:239	 Test_loss_cls:2.36801	 Test top-1 accuracy:[0.6679, 0.6665, 0.6689]	 Test top-5 accuracy:[0.9031, 0.9033, 0.9041]
+Epoch:240	 lr:0.0010	 Duration:53.225
+ Train_loss:1.59287	 Train_loss_cls:1.38079	 Train_loss_decouple_ml:0.21208
+ Train top-1 accuracy: [0.8145, 0.8138] 
+Test epoch:240	 Test_loss_cls:2.36717	 Test top-1 accuracy:[0.6671, 0.6676, 0.6688]	 Test top-5 accuracy:[0.904, 0.9027, 0.9044]
+Epoch:241	 lr:0.0009	 Duration:54.186
+ Train_loss:1.56874	 Train_loss_cls:1.36185	 Train_loss_decouple_ml:0.20689
+ Train top-1 accuracy: [0.8187, 0.8193] 
+Test epoch:241	 Test_loss_cls:2.37136	 Test top-1 accuracy:[0.6653, 0.6654, 0.6665]	 Test top-5 accuracy:[0.9017, 0.9033, 0.903]
+Epoch:242	 lr:0.0009	 Duration:55.058
+ Train_loss:1.55476	 Train_loss_cls:1.35895	 Train_loss_decouple_ml:0.19581
+ Train top-1 accuracy: [0.8176, 0.817] 
+Test epoch:242	 Test_loss_cls:2.36646	 Test top-1 accuracy:[0.6669, 0.6656, 0.6657]	 Test top-5 accuracy:[0.9029, 0.9044, 0.9048]
+Epoch:243	 lr:0.0009	 Duration:53.193
+ Train_loss:1.55768	 Train_loss_cls:1.35938	 Train_loss_decouple_ml:0.19830
+ Train top-1 accuracy: [0.8161, 0.8161] 
+Test epoch:243	 Test_loss_cls:2.36931	 Test top-1 accuracy:[0.6666, 0.6661, 0.6671]	 Test top-5 accuracy:[0.9029, 0.9038, 0.9039]
+Epoch:244	 lr:0.0008	 Duration:55.294
+ Train_loss:1.52995	 Train_loss_cls:1.33805	 Train_loss_decouple_ml:0.19189
+ Train top-1 accuracy: [0.8194, 0.8184] 
+Test epoch:244	 Test_loss_cls:2.37773	 Test top-1 accuracy:[0.6658, 0.6667, 0.6678]	 Test top-5 accuracy:[0.9026, 0.9038, 0.9039]
+Epoch:245	 lr:0.0008	 Duration:53.113
+ Train_loss:1.52330	 Train_loss_cls:1.33744	 Train_loss_decouple_ml:0.18587
+ Train top-1 accuracy: [0.8189, 0.8202] 
+Test epoch:245	 Test_loss_cls:2.36983	 Test top-1 accuracy:[0.6649, 0.6673, 0.666]	 Test top-5 accuracy:[0.9026, 0.9032, 0.9037]
+Epoch:246	 lr:0.0008	 Duration:53.460
+ Train_loss:1.49640	 Train_loss_cls:1.31915	 Train_loss_decouple_ml:0.17725
+ Train top-1 accuracy: [0.8211, 0.8217] 
+Test epoch:246	 Test_loss_cls:2.37310	 Test top-1 accuracy:[0.6648, 0.6667, 0.6666]	 Test top-5 accuracy:[0.904, 0.9053, 0.9055]
+Epoch:247	 lr:0.0008	 Duration:53.831
+ Train_loss:1.50884	 Train_loss_cls:1.33187	 Train_loss_decouple_ml:0.17698
+ Train top-1 accuracy: [0.8196, 0.8187] 
+Test epoch:247	 Test_loss_cls:2.37509	 Test top-1 accuracy:[0.6659, 0.6672, 0.6678]	 Test top-5 accuracy:[0.9045, 0.9046, 0.9055]
+Epoch:248	 lr:0.0007	 Duration:53.930
+ Train_loss:1.49669	 Train_loss_cls:1.32435	 Train_loss_decouple_ml:0.17234
+ Train top-1 accuracy: [0.8201, 0.8191] 
+Test epoch:248	 Test_loss_cls:2.37733	 Test top-1 accuracy:[0.6675, 0.6669, 0.6674]	 Test top-5 accuracy:[0.9036, 0.9049, 0.9044]
+Epoch:249	 lr:0.0007	 Duration:54.779
+ Train_loss:1.47258	 Train_loss_cls:1.30686	 Train_loss_decouple_ml:0.16572
+ Train top-1 accuracy: [0.8241, 0.8241] 
+Test epoch:249	 Test_loss_cls:2.36770	 Test top-1 accuracy:[0.6689, 0.6691, 0.6692]	 Test top-5 accuracy:[0.905, 0.9052, 0.9047]
+Epoch:250	 lr:0.0007	 Duration:55.092
+ Train_loss:1.47294	 Train_loss_cls:1.31063	 Train_loss_decouple_ml:0.16231
+ Train top-1 accuracy: [0.8244, 0.8248] 
+Test epoch:250	 Test_loss_cls:2.37234	 Test top-1 accuracy:[0.6688, 0.6709, 0.6709]	 Test top-5 accuracy:[0.9033, 0.9034, 0.9039]
+Epoch:251	 lr:0.0006	 Duration:53.141
+ Train_loss:1.45663	 Train_loss_cls:1.30183	 Train_loss_decouple_ml:0.15480
+ Train top-1 accuracy: [0.8229, 0.8229] 
+Test epoch:251	 Test_loss_cls:2.38809	 Test top-1 accuracy:[0.6659, 0.6654, 0.6668]	 Test top-5 accuracy:[0.9025, 0.9033, 0.902]
+Epoch:252	 lr:0.0006	 Duration:53.611
+ Train_loss:1.45604	 Train_loss_cls:1.30502	 Train_loss_decouple_ml:0.15102
+ Train top-1 accuracy: [0.8228, 0.8226] 
+Test epoch:252	 Test_loss_cls:2.36881	 Test top-1 accuracy:[0.6672, 0.6677, 0.6693]	 Test top-5 accuracy:[0.9048, 0.9042, 0.9036]
+Epoch:253	 lr:0.0006	 Duration:54.544
+ Train_loss:1.42981	 Train_loss_cls:1.28341	 Train_loss_decouple_ml:0.14641
+ Train top-1 accuracy: [0.8269, 0.8263] 
+Test epoch:253	 Test_loss_cls:2.37510	 Test top-1 accuracy:[0.6667, 0.6664, 0.6655]	 Test top-5 accuracy:[0.9032, 0.9059, 0.9048]
+Epoch:254	 lr:0.0006	 Duration:55.686
+ Train_loss:1.41877	 Train_loss_cls:1.27655	 Train_loss_decouple_ml:0.14222
+ Train top-1 accuracy: [0.8285, 0.8284] 
+Test epoch:254	 Test_loss_cls:2.38864	 Test top-1 accuracy:[0.6675, 0.6649, 0.6662]	 Test top-5 accuracy:[0.9043, 0.9039, 0.9032]
+Epoch:255	 lr:0.0005	 Duration:52.887
+ Train_loss:1.40689	 Train_loss_cls:1.26968	 Train_loss_decouple_ml:0.13721
+ Train top-1 accuracy: [0.8279, 0.828] 
+Test epoch:255	 Test_loss_cls:2.38350	 Test top-1 accuracy:[0.6665, 0.667, 0.6675]	 Test top-5 accuracy:[0.9057, 0.9041, 0.9051]
+Epoch:256	 lr:0.0005	 Duration:51.485
+ Train_loss:1.38910	 Train_loss_cls:1.25681	 Train_loss_decouple_ml:0.13229
+ Train top-1 accuracy: [0.8299, 0.8287] 
+Test epoch:256	 Test_loss_cls:2.39579	 Test top-1 accuracy:[0.6676, 0.6659, 0.6673]	 Test top-5 accuracy:[0.9007, 0.9015, 0.901]
+Epoch:257	 lr:0.0005	 Duration:52.065
+ Train_loss:1.38740	 Train_loss_cls:1.25814	 Train_loss_decouple_ml:0.12926
+ Train top-1 accuracy: [0.8288, 0.8289] 
+Test epoch:257	 Test_loss_cls:2.39122	 Test top-1 accuracy:[0.666, 0.6666, 0.6661]	 Test top-5 accuracy:[0.9023, 0.9021, 0.9021]
+Epoch:258	 lr:0.0005	 Duration:53.451
+ Train_loss:1.36844	 Train_loss_cls:1.24396	 Train_loss_decouple_ml:0.12448
+ Train top-1 accuracy: [0.8315, 0.832] 
+Test epoch:258	 Test_loss_cls:2.38625	 Test top-1 accuracy:[0.6684, 0.6665, 0.6676]	 Test top-5 accuracy:[0.9024, 0.9028, 0.9035]
+Epoch:259	 lr:0.0005	 Duration:53.204
+ Train_loss:1.36062	 Train_loss_cls:1.24163	 Train_loss_decouple_ml:0.11899
+ Train top-1 accuracy: [0.8307, 0.8308] 
+Test epoch:259	 Test_loss_cls:2.39179	 Test top-1 accuracy:[0.6661, 0.6677, 0.6668]	 Test top-5 accuracy:[0.9058, 0.904, 0.9042]
+Epoch:260	 lr:0.0004	 Duration:51.251
+ Train_loss:1.35549	 Train_loss_cls:1.23947	 Train_loss_decouple_ml:0.11602
+ Train top-1 accuracy: [0.83, 0.8297] 
+Test epoch:260	 Test_loss_cls:2.38794	 Test top-1 accuracy:[0.6678, 0.667, 0.6671]	 Test top-5 accuracy:[0.9042, 0.9036, 0.904]
+Epoch:261	 lr:0.0004	 Duration:51.632
+ Train_loss:1.32588	 Train_loss_cls:1.21160	 Train_loss_decouple_ml:0.11428
+ Train top-1 accuracy: [0.8355, 0.835] 
+Test epoch:261	 Test_loss_cls:2.39839	 Test top-1 accuracy:[0.6665, 0.6667, 0.6666]	 Test top-5 accuracy:[0.9024, 0.9027, 0.9027]
+Epoch:262	 lr:0.0004	 Duration:52.700
+ Train_loss:1.35167	 Train_loss_cls:1.23997	 Train_loss_decouple_ml:0.11170
+ Train top-1 accuracy: [0.8303, 0.8303] 
+Test epoch:262	 Test_loss_cls:2.39639	 Test top-1 accuracy:[0.6677, 0.6676, 0.6676]	 Test top-5 accuracy:[0.9056, 0.9042, 0.9051]
+Epoch:263	 lr:0.0004	 Duration:52.782
+ Train_loss:1.32965	 Train_loss_cls:1.22207	 Train_loss_decouple_ml:0.10758
+ Train top-1 accuracy: [0.8326, 0.8328] 
+Test epoch:263	 Test_loss_cls:2.38582	 Test top-1 accuracy:[0.6657, 0.6662, 0.6658]	 Test top-5 accuracy:[0.9044, 0.9045, 0.9046]
+Epoch:264	 lr:0.0004	 Duration:52.820
+ Train_loss:1.31582	 Train_loss_cls:1.21105	 Train_loss_decouple_ml:0.10477
+ Train top-1 accuracy: [0.8346, 0.8344] 
+Test epoch:264	 Test_loss_cls:2.40116	 Test top-1 accuracy:[0.6673, 0.6662, 0.6677]	 Test top-5 accuracy:[0.9035, 0.9037, 0.9042]
+Epoch:265	 lr:0.0003	 Duration:53.140
+ Train_loss:1.31886	 Train_loss_cls:1.21792	 Train_loss_decouple_ml:0.10094
+ Train top-1 accuracy: [0.8325, 0.8325] 
+Test epoch:265	 Test_loss_cls:2.39543	 Test top-1 accuracy:[0.6634, 0.6669, 0.6651]	 Test top-5 accuracy:[0.9022, 0.9023, 0.9026]
+Epoch:266	 lr:0.0003	 Duration:53.085
+ Train_loss:1.31447	 Train_loss_cls:1.21742	 Train_loss_decouple_ml:0.09705
+ Train top-1 accuracy: [0.8345, 0.835] 
+Test epoch:266	 Test_loss_cls:2.40266	 Test top-1 accuracy:[0.6679, 0.6673, 0.6683]	 Test top-5 accuracy:[0.9013, 0.9027, 0.9012]
+Epoch:267	 lr:0.0003	 Duration:52.907
+ Train_loss:1.28759	 Train_loss_cls:1.19273	 Train_loss_decouple_ml:0.09486
+ Train top-1 accuracy: [0.8366, 0.8368] 
+Test epoch:267	 Test_loss_cls:2.40320	 Test top-1 accuracy:[0.6656, 0.6666, 0.6662]	 Test top-5 accuracy:[0.9033, 0.9043, 0.9037]
+Epoch:268	 lr:0.0003	 Duration:52.905
+ Train_loss:1.28372	 Train_loss_cls:1.19183	 Train_loss_decouple_ml:0.09189
+ Train top-1 accuracy: [0.8363, 0.8364] 
+Test epoch:268	 Test_loss_cls:2.40987	 Test top-1 accuracy:[0.6649, 0.6659, 0.6662]	 Test top-5 accuracy:[0.9032, 0.9045, 0.904]
+Epoch:269	 lr:0.0003	 Duration:52.983
+ Train_loss:1.27925	 Train_loss_cls:1.18975	 Train_loss_decouple_ml:0.08950
+ Train top-1 accuracy: [0.8385, 0.8384] 
+Test epoch:269	 Test_loss_cls:2.40293	 Test top-1 accuracy:[0.6674, 0.6659, 0.6674]	 Test top-5 accuracy:[0.904, 0.9039, 0.9038]
+Epoch:270	 lr:0.0002	 Duration:52.611
+ Train_loss:1.27688	 Train_loss_cls:1.19016	 Train_loss_decouple_ml:0.08672
+ Train top-1 accuracy: [0.8362, 0.8361] 
+Test epoch:270	 Test_loss_cls:2.40647	 Test top-1 accuracy:[0.6679, 0.6666, 0.6674]	 Test top-5 accuracy:[0.9037, 0.9035, 0.9043]
+Epoch:271	 lr:0.0002	 Duration:52.436
+ Train_loss:1.27433	 Train_loss_cls:1.18949	 Train_loss_decouple_ml:0.08485
+ Train top-1 accuracy: [0.8384, 0.8384] 
+Test epoch:271	 Test_loss_cls:2.41767	 Test top-1 accuracy:[0.6654, 0.6646, 0.6656]	 Test top-5 accuracy:[0.9005, 0.9013, 0.9006]
+Epoch:272	 lr:0.0002	 Duration:52.474
+ Train_loss:1.24777	 Train_loss_cls:1.16601	 Train_loss_decouple_ml:0.08176
+ Train top-1 accuracy: [0.8417, 0.8412] 
+Test epoch:272	 Test_loss_cls:2.40144	 Test top-1 accuracy:[0.6675, 0.6695, 0.6679]	 Test top-5 accuracy:[0.9035, 0.9048, 0.9044]
+Epoch:273	 lr:0.0002	 Duration:52.398
+ Train_loss:1.25693	 Train_loss_cls:1.17737	 Train_loss_decouple_ml:0.07956
+ Train top-1 accuracy: [0.8401, 0.8402] 
+Test epoch:273	 Test_loss_cls:2.41220	 Test top-1 accuracy:[0.6657, 0.6676, 0.6668]	 Test top-5 accuracy:[0.9031, 0.9035, 0.9037]
+Epoch:274	 lr:0.0002	 Duration:53.126
+ Train_loss:1.25396	 Train_loss_cls:1.17607	 Train_loss_decouple_ml:0.07789
+ Train top-1 accuracy: [0.8391, 0.8398] 
+Test epoch:274	 Test_loss_cls:2.41387	 Test top-1 accuracy:[0.6664, 0.6682, 0.6676]	 Test top-5 accuracy:[0.9023, 0.9028, 0.9028]
+Epoch:275	 lr:0.0002	 Duration:53.488
+ Train_loss:1.24478	 Train_loss_cls:1.16887	 Train_loss_decouple_ml:0.07590
+ Train top-1 accuracy: [0.8404, 0.84] 
+Test epoch:275	 Test_loss_cls:2.41201	 Test top-1 accuracy:[0.6674, 0.6675, 0.6677]	 Test top-5 accuracy:[0.9032, 0.9034, 0.9038]
+Epoch:276	 lr:0.0002	 Duration:52.951
+ Train_loss:1.25562	 Train_loss_cls:1.18152	 Train_loss_decouple_ml:0.07411
+ Train top-1 accuracy: [0.8377, 0.8371] 
+Test epoch:276	 Test_loss_cls:2.41211	 Test top-1 accuracy:[0.6661, 0.6661, 0.667]	 Test top-5 accuracy:[0.9033, 0.9037, 0.9039]
+Epoch:277	 lr:0.0001	 Duration:55.568
+ Train_loss:1.23192	 Train_loss_cls:1.15990	 Train_loss_decouple_ml:0.07202
+ Train top-1 accuracy: [0.8409, 0.8411] 
+Test epoch:277	 Test_loss_cls:2.41390	 Test top-1 accuracy:[0.6674, 0.6668, 0.6669]	 Test top-5 accuracy:[0.9034, 0.9031, 0.9042]
+Epoch:278	 lr:0.0001	 Duration:52.590
+ Train_loss:1.25164	 Train_loss_cls:1.18086	 Train_loss_decouple_ml:0.07078
+ Train top-1 accuracy: [0.8384, 0.8379] 
+Test epoch:278	 Test_loss_cls:2.41199	 Test top-1 accuracy:[0.6656, 0.6663, 0.6659]	 Test top-5 accuracy:[0.9029, 0.9046, 0.9042]
+Epoch:279	 lr:0.0001	 Duration:52.053
+ Train_loss:1.24324	 Train_loss_cls:1.17392	 Train_loss_decouple_ml:0.06932
+ Train top-1 accuracy: [0.8392, 0.8388] 
+Test epoch:279	 Test_loss_cls:2.40711	 Test top-1 accuracy:[0.6669, 0.6671, 0.6675]	 Test top-5 accuracy:[0.903, 0.9041, 0.9033]
+Epoch:280	 lr:0.0001	 Duration:53.309
+ Train_loss:1.21978	 Train_loss_cls:1.15163	 Train_loss_decouple_ml:0.06815
+ Train top-1 accuracy: [0.8414, 0.8414] 
+Test epoch:280	 Test_loss_cls:2.41140	 Test top-1 accuracy:[0.6665, 0.6664, 0.666]	 Test top-5 accuracy:[0.9032, 0.9038, 0.904]
+Epoch:281	 lr:0.0001	 Duration:50.945
+ Train_loss:1.23536	 Train_loss_cls:1.16824	 Train_loss_decouple_ml:0.06711
+ Train top-1 accuracy: [0.8395, 0.8398] 
+Test epoch:281	 Test_loss_cls:2.41960	 Test top-1 accuracy:[0.6669, 0.6678, 0.6676]	 Test top-5 accuracy:[0.9035, 0.9042, 0.9037]
+Epoch:282	 lr:0.0001	 Duration:52.057
+ Train_loss:1.22032	 Train_loss_cls:1.15464	 Train_loss_decouple_ml:0.06568
+ Train top-1 accuracy: [0.8422, 0.8419] 
+Test epoch:282	 Test_loss_cls:2.41919	 Test top-1 accuracy:[0.6664, 0.6655, 0.6661]	 Test top-5 accuracy:[0.9025, 0.9041, 0.9028]
+Epoch:283	 lr:0.0001	 Duration:53.282
+ Train_loss:1.23425	 Train_loss_cls:1.16922	 Train_loss_decouple_ml:0.06503
+ Train top-1 accuracy: [0.8382, 0.838] 
+Test epoch:283	 Test_loss_cls:2.41799	 Test top-1 accuracy:[0.6683, 0.6685, 0.6679]	 Test top-5 accuracy:[0.9024, 0.9032, 0.9026]
+Epoch:284	 lr:0.0001	 Duration:51.629
+ Train_loss:1.22236	 Train_loss_cls:1.15839	 Train_loss_decouple_ml:0.06397
+ Train top-1 accuracy: [0.8422, 0.8421] 
+Test epoch:284	 Test_loss_cls:2.41628	 Test top-1 accuracy:[0.6672, 0.6678, 0.6676]	 Test top-5 accuracy:[0.904, 0.9045, 0.9041]
+Epoch:285	 lr:0.0001	 Duration:52.650
+ Train_loss:1.21824	 Train_loss_cls:1.15555	 Train_loss_decouple_ml:0.06269
+ Train top-1 accuracy: [0.8428, 0.8422] 
+Test epoch:285	 Test_loss_cls:2.42063	 Test top-1 accuracy:[0.6667, 0.6665, 0.6667]	 Test top-5 accuracy:[0.9026, 0.9041, 0.9031]
+Epoch:286	 lr:0.0001	 Duration:53.105
+ Train_loss:1.22044	 Train_loss_cls:1.15832	 Train_loss_decouple_ml:0.06212
+ Train top-1 accuracy: [0.841, 0.8409] 
+Test epoch:286	 Test_loss_cls:2.41919	 Test top-1 accuracy:[0.6699, 0.6671, 0.6687]	 Test top-5 accuracy:[0.9028, 0.9037, 0.9032]
+Epoch:287	 lr:0.0000	 Duration:53.151
+ Train_loss:1.22858	 Train_loss_cls:1.16767	 Train_loss_decouple_ml:0.06091
+ Train top-1 accuracy: [0.8399, 0.8395] 
+Test epoch:287	 Test_loss_cls:2.41483	 Test top-1 accuracy:[0.666, 0.6659, 0.6664]	 Test top-5 accuracy:[0.9028, 0.9043, 0.904]
+Epoch:288	 lr:0.0000	 Duration:53.151
+ Train_loss:1.20938	 Train_loss_cls:1.14902	 Train_loss_decouple_ml:0.06036
+ Train top-1 accuracy: [0.8439, 0.8442] 
+Test epoch:288	 Test_loss_cls:2.41425	 Test top-1 accuracy:[0.6678, 0.6673, 0.6678]	 Test top-5 accuracy:[0.9017, 0.903, 0.9021]
+Epoch:289	 lr:0.0000	 Duration:53.023
+ Train_loss:1.21188	 Train_loss_cls:1.15247	 Train_loss_decouple_ml:0.05941
+ Train top-1 accuracy: [0.8429, 0.8429] 
+Test epoch:289	 Test_loss_cls:2.41734	 Test top-1 accuracy:[0.6667, 0.6672, 0.6677]	 Test top-5 accuracy:[0.9022, 0.9039, 0.9031]
+Epoch:290	 lr:0.0000	 Duration:53.253
+ Train_loss:1.21314	 Train_loss_cls:1.15412	 Train_loss_decouple_ml:0.05903
+ Train top-1 accuracy: [0.8432, 0.843] 
+Test epoch:290	 Test_loss_cls:2.41606	 Test top-1 accuracy:[0.667, 0.6674, 0.6665]	 Test top-5 accuracy:[0.9035, 0.9039, 0.9043]
+Epoch:291	 lr:0.0000	 Duration:54.338
+ Train_loss:1.21919	 Train_loss_cls:1.16090	 Train_loss_decouple_ml:0.05829
+ Train top-1 accuracy: [0.84, 0.8403] 
+Test epoch:291	 Test_loss_cls:2.42530	 Test top-1 accuracy:[0.6649, 0.6657, 0.6659]	 Test top-5 accuracy:[0.9016, 0.9023, 0.9016]
+Epoch:292	 lr:0.0000	 Duration:52.959
+ Train_loss:1.22077	 Train_loss_cls:1.16264	 Train_loss_decouple_ml:0.05814
+ Train top-1 accuracy: [0.8405, 0.8401] 
+Test epoch:292	 Test_loss_cls:2.42179	 Test top-1 accuracy:[0.666, 0.6663, 0.6668]	 Test top-5 accuracy:[0.9022, 0.9019, 0.9023]
+Epoch:293	 lr:0.0000	 Duration:53.220
+ Train_loss:1.21095	 Train_loss_cls:1.15383	 Train_loss_decouple_ml:0.05712
+ Train top-1 accuracy: [0.8431, 0.8428] 
+Test epoch:293	 Test_loss_cls:2.42018	 Test top-1 accuracy:[0.6677, 0.6672, 0.6672]	 Test top-5 accuracy:[0.9012, 0.9021, 0.9018]
+Epoch:294	 lr:0.0000	 Duration:54.361
+ Train_loss:1.22077	 Train_loss_cls:1.16318	 Train_loss_decouple_ml:0.05759
+ Train top-1 accuracy: [0.8416, 0.8421] 
+Test epoch:294	 Test_loss_cls:2.42012	 Test top-1 accuracy:[0.6664, 0.6673, 0.667]	 Test top-5 accuracy:[0.9034, 0.9029, 0.9028]
+Epoch:295	 lr:0.0000	 Duration:52.343
+ Train_loss:1.21417	 Train_loss_cls:1.15682	 Train_loss_decouple_ml:0.05736
+ Train top-1 accuracy: [0.8415, 0.8411] 
+Test epoch:295	 Test_loss_cls:2.42198	 Test top-1 accuracy:[0.6679, 0.6682, 0.6687]	 Test top-5 accuracy:[0.9025, 0.9026, 0.9022]
+Epoch:296	 lr:0.0000	 Duration:52.672
+ Train_loss:1.21495	 Train_loss_cls:1.15817	 Train_loss_decouple_ml:0.05677
+ Train top-1 accuracy: [0.8417, 0.8418] 
+Test epoch:296	 Test_loss_cls:2.41661	 Test top-1 accuracy:[0.6677, 0.6684, 0.6678]	 Test top-5 accuracy:[0.9031, 0.9032, 0.9031]
+Epoch:297	 lr:0.0000	 Duration:53.326
+ Train_loss:1.21938	 Train_loss_cls:1.16202	 Train_loss_decouple_ml:0.05736
+ Train top-1 accuracy: [0.8412, 0.8414] 
+Test epoch:297	 Test_loss_cls:2.41350	 Test top-1 accuracy:[0.6676, 0.667, 0.6682]	 Test top-5 accuracy:[0.9019, 0.9038, 0.9029]
+Epoch:298	 lr:0.0000	 Duration:53.583
+ Train_loss:1.21165	 Train_loss_cls:1.15516	 Train_loss_decouple_ml:0.05649
+ Train top-1 accuracy: [0.8422, 0.8424] 
+Test epoch:298	 Test_loss_cls:2.42166	 Test top-1 accuracy:[0.6681, 0.6676, 0.668]	 Test top-5 accuracy:[0.9013, 0.9023, 0.9018]
+Epoch:299	 lr:0.0000	 Duration:53.493
+ Train_loss:1.22931	 Train_loss_cls:1.17236	 Train_loss_decouple_ml:0.05695
+ Train top-1 accuracy: [0.8387, 0.8379] 
+Test epoch:299	 Test_loss_cls:2.42111	 Test top-1 accuracy:[0.6668, 0.666, 0.6663]	 Test top-5 accuracy:[0.9031, 0.904, 0.9037]
+Test epoch:250	 Test_loss_cls:2.37234	 Test top-1 accuracy:[0.6688, 0.6709, 0.6709]	 Test top-5 accuracy:[0.9033, 0.9034, 0.9039]
+Test top-1 best_accuracy: 0.6709 
